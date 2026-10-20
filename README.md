@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_No roles yet — run the bot to populate this section._
+_168 open new-grad roles at 42 companies · list last changed 2026-10-20 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Microsoft 9 · Amazon 7 · Anduril 7 · Apple 7 · NVIDIA 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -204,5 +204,354 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 ## Current roles
 <!-- JOBS:START -->
-_No roles yet — run the bot to populate this section._
+<details>
+<summary>TikTok (48)</summary>
+
+- [Backend Engineer Graduate - Social Foundation](https://lifeattiktok.com/search/7696782198126545157) — San Jose, CA · posted 2026-10-15 · SWE · BS
+- [Software Engineer Graduate - Data Ecosystem - 2027 Start](https://lifeattiktok.com/search/7685769994391832837) — San Jose, CA · posted 2026-10-14 · SWE · BS/MS
+- [Research Scientist Graduate](https://lifeattiktok.com/search/7695929967028750645) — Seattle, WA · posted 2026-10-13 · ML · BS/MS
+- [Machine Learning Engineer Graduate - Conversational AI](https://lifeattiktok.com/search/7670685495206857013) · [2](https://lifeattiktok.com/search/7670686314588801333) — Seattle, WA; San Jose, CA · posted 2026-10-09 · ML · BS
+- [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) — Seattle, WA · posted 2026-10-08 · ML · BS/MS
+- [Machine Learning Engineer New Grad - E-Commerce User Growth](https://lifeattiktok.com/search/7694352871949682997) — San Jose, CA · posted 2026-10-08 · ML · BS/MS
+- [Machine Learning Engineer Graduate - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7694054165508557109) · [2](https://lifeattiktok.com/search/7679156878833682693) — Seattle, WA; San Jose, CA · posted 2026-10-08 · ML · BS/MS
+- [Machine Learning Engineer Graduate - E-Commerce Recommendation Video](https://lifeattiktok.com/search/7686999927260105013) · [2](https://lifeattiktok.com/search/7678145401619237173) — San Jose, CA; Seattle, WA · posted 2026-09-18 · ML · BS
+- [Data Engineer Graduate](https://lifeattiktok.com/search/7681779180341709109) — San Jose, CA · posted 2026-09-07 · ML · BS/MS
+- [Data Engineer Graduate - Data Platform E-commerce](https://lifeattiktok.com/search/7676253726624024837) — San Jose, CA · posted 2026-08-26 · ML · BS/MS
+- [Data Engineer Graduate - Data Platform Global Live](https://lifeattiktok.com/search/7678120538997098805) · [2](https://lifeattiktok.com/search/7675484418022181173) — San Jose, CA · posted 2026-08-26 · ML · BS/MS
+- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7675843332462872885) · [2](https://lifeattiktok.com/search/7675844938504702213) — Seattle, WA; San Jose, CA · posted 2026-08-20 · ML · BS/MS
+- [Graduate Software Engineer - TikTok Search Data Infra](https://lifeattiktok.com/search/7675829388634392837) — San Jose, CA · posted 2026-08-20 · SWE · BS/MS
+- [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674023327725373701) · [2](https://lifeattiktok.com/search/7674025781001062709) — San Jose, CA; Seattle, WA · posted 2026-08-17 · ML · BS/MS
+- [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7673672141010815237) · [2](https://lifeattiktok.com/search/7670288355678177589) — San Jose, CA · posted 2026-08-15 · ML · BS/MS
+- [Software Engineer Graduate - Foundation Platform](https://lifeattiktok.com/search/7673674252889246005) · [2](https://lifeattiktok.com/search/7670276769459456309) — San Jose, CA · posted 2026-08-14 · SWE · BS/MS
+- [Software Engineer Graduate - Ads Infra](https://lifeattiktok.com/search/7673409179353139461) — San Jose, CA · posted 2026-08-14 · SWE · BS
+- [Software Engineer Graduate - Video-on-Demand Algorithm](https://lifeattiktok.com/search/7673674249270839557) · [2](https://lifeattiktok.com/search/7670282906426476853) — San Jose, CA · posted 2026-08-14 · SWE · BS/MS
+- [LLM Post-Training Engineer Graduate - Research & Product](https://lifeattiktok.com/search/7673672141012093189) — San Jose, CA · posted 2026-08-14 · ML · MS
+- [Software Engineer Graduate - Media Engine](https://lifeattiktok.com/search/7673667938889009461) — San Jose, CA · posted 2026-08-14 · SWE · MS
+- [Backend Software Engineer Graduate - Creation Platform](https://lifeattiktok.com/search/7673669198965278981) · [2](https://lifeattiktok.com/search/7670292836050422021) — San Jose, CA · posted 2026-08-14 · SWE · BS/MS
+- [Software Engineer Graduate - Recommendation Infrastructure](https://lifeattiktok.com/search/7673284715407886597) — San Jose, CA · posted 2026-08-13 · SWE · BS
+- [Backend Software Engineer New Grad - Creator Strategy](https://lifeattiktok.com/search/7672976491146004741) — San Jose, CA · posted 2026-08-13 · SWE · BS
+- [Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672530785573980421) — Seattle, WA · posted 2026-08-13 · SWE · BS
+- [Graduate Software Engineer - Media Engine](https://lifeattiktok.com/search/7670367152357673221) — San Jose, CA · posted 2026-08-12 · SWE · BS
+- [Large Language Model Post-training Engineer Graduate - Research & Product](https://lifeattiktok.com/search/7670285949976201477) — San Jose, CA · posted 2026-08-12 · ML · BS
+- [Software Engineer Graduate - Recommendation](https://lifeattiktok.com/search/7672517471946000645) — San Jose, CA · posted 2026-08-12 · SWE · BS
+- [Machine Learning Engineer Graduate - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672915427278457141) · [2](https://lifeattiktok.com/search/7672911151560296709) — San Jose, CA; Seattle, WA · posted 2026-08-12 · ML · BS
+- [Machine Learning Engineer Graduate - TikTok Vertical Recommendation](https://lifeattiktok.com/search/7672532275557583157) — San Jose, CA · posted 2026-08-12 · ML · BS
+- [Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start](https://lifeattiktok.com/search/7672532801686571317) — San Jose, CA · posted 2026-08-12 · SWE · BS
+- [Big Data Engineer Graduate - TikTok Recommendation Architecture](https://lifeattiktok.com/search/7672518398222387461) — San Jose, CA · posted 2026-08-12 · ML · BS
+- [AI Infrastructure Engineer Graduate - Recommendation & LLM](https://lifeattiktok.com/search/7672654026594093317) — San Jose, CA · posted 2026-08-12 · ML · BS
+- [Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672880386574338309) · [2](https://lifeattiktok.com/search/7672882500030138629) — Seattle, WA; San Jose, CA · posted 2026-08-12 · ML · BS
+- [Recommendation Architecture AI/ML Infrastructure Engineer Graduate - Data-Arch-Tiktok Live](https://lifeattiktok.com/search/7670876337129425205) — San Jose, CA · posted 2026-08-07 · ML · BS/MS
+- [Backend Software Engineer Graduate - Data Lifecycle Management](https://lifeattiktok.com/search/7670391173613160757) — San Jose, CA · posted 2026-08-07 · SWE · BS/MS
+- [Backend Software Engineer Graduate - Privacy and Security - Product](https://lifeattiktok.com/search/7670387719826786565) — San Jose, CA · posted 2026-08-07 · SWE · BS/MS
+
+</details>
+<details>
+<summary>ByteDance (24)</summary>
+
+- [Software Engineer Graduate](https://jobs.bytedance.com/en/position/7689561253011097909/detail) — San Jose, CA · posted 2026-10-01 · SWE · BS
+- [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675477660855781637/detail) · [2](https://jobs.bytedance.com/en/position/7675477254315428149/detail) — San Jose, CA; Seattle, WA · posted 2026-08-19 · ML · BS/MS
+- [Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform](https://jobs.bytedance.com/en/position/7673632479987992837/detail) · [2](https://jobs.bytedance.com/en/position/7673630747427719429/detail) · [3](https://jobs.bytedance.com/en/position/7670355647603984693/detail) — San Jose, CA; Seattle, WA · posted 2026-08-19 · ML · BS/MS
+- [Multi-Cloud CDN Scheduling Platform Engineer Graduate - CDN Platform](https://jobs.bytedance.com/en/position/7673626856724023557/detail) — Seattle, WA · posted 2026-08-14 · SWE · MS
+- [Multi-Cloud CDN Platform Engineer Graduate - CDN Platform](https://jobs.bytedance.com/en/position/7670355132899526965/detail) — Seattle, WA · posted 2026-08-14 · SWE · BS
+- [Research Scientist Graduate - Seed AI Foundation Model Infrastructure](https://jobs.bytedance.com/en/position/7673268418623293749/detail) — San Jose, CA · posted 2026-08-13 · ML · BS
+- [Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391016194066693/detail) — Seattle, WA · posted 2026-08-11 · ML · BS/MS
+- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK](https://jobs.bytedance.com/en/position/7672395094280063285/detail) — Seattle, WA · posted 2026-08-11 · ML · BS/MS
+- [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate](https://jobs.bytedance.com/en/position/7672392998189959429/detail) — Seattle, WA · posted 2026-08-11 · ML · BS/MS
+- [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671102043532462389/detail) — San Jose, CA · posted 2026-08-10 · ML · BS/MS
+- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671107540954777861/detail) — San Jose, CA · posted 2026-08-10 · ML · BS/MS
+- [Software Development Engineer Graduate - Intent-Based Networking](https://jobs.bytedance.com/en/position/7671145911004842245/detail) — San Jose, CA · posted 2026-08-07 · SWE · BS/MS
+- [Large Language Model Inference System Engineer New Grad - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667726338627356933/detail) — San Jose, CA · posted 2026-08-07 · ML · BS/MS
+- [LLM Backend Engineer Graduate - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667730992538585349/detail) — San Jose, CA · posted 2026-08-07 · ML · BS/MS
+- [Machine Learning Engineer Graduate - Agent Evaluation & Evolution](https://jobs.bytedance.com/en/position/7670932427485186309/detail) — San Jose, CA · posted 2026-08-07 · ML · BS/MS
+- [Research Scientist Graduate - ML Recommendation Systems](https://jobs.bytedance.com/en/position/7670850283815160069/detail) — San Jose, CA · posted 2026-08-07 · ML · BS/MS
+- [LLM/AI Operations Development Engineer Graduate - Data Center Networking](https://jobs.bytedance.com/en/position/7670773781477394741/detail) — San Jose, CA · posted 2026-08-07 · ML · BS/MS
+- [Backend Inference Runtime Engineer New Grad - AML Inference](https://jobs.bytedance.com/en/position/7669789046777940229/detail) — San Jose, CA · posted 2026-08-06 · SWE · BS/MS
+- [Machine Learning Backend Engineer Graduate - AML MLDev](https://jobs.bytedance.com/en/position/7669791940490168629/detail) — San Jose, CA · posted 2026-08-06 · ML · BS/MS
+- [Backend Inference Framework Engineer - AML Inference](https://jobs.bytedance.com/en/position/7669670735275526453/detail) — San Jose, CA · posted 2026-08-06 · SWE · BS/MS
+- [Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering](https://jobs.bytedance.com/en/position/7669859743775000885/detail) — San Jose, CA · posted 2026-08-06 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Microsoft (9)</summary>
+
+- [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027406) — Redmond, WA · posted 2026-10-16 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [2](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [3](https://apply.careers.microsoft.com/careers/job/1970393557023170) · [4](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [5](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [6](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-15 · SWE · BS/MS
+- [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-10-12 · SWE · BS/MS
+- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Amazon (7)</summary>
+
+- [Software Engineer – Early Career](https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) — Madison, WI, Boston, MA, Seattle, WA · posted 2026-10-19 · SWE · BS/MS
+- [Systems Development Engineer – Early Career](https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us) — Seattle, WA · posted 2026-10-17 · SWE · BS
+- [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-10-02 · SWE · BS
+- [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Seattle, WA, Nashville, TN, Austin, TX · posted 2026-10-01 · SWE · BS
+- [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-09-12 · SWE · BS
+- [Robotics System Development Engineer](https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer) — Austin, TX · posted 2026-09-01 · SWE · BS
+- [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) — Redmond, WA, Northridge, LA · posted 2026-08-25 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Anduril (7)</summary>
+
+- [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007) — Costa Mesa, CA · posted 2026-09-22 · HW · BS/MS
+- [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5240165007) — Fort Collins, CO, Broomfield, CO · posted 2026-09-16 · SWE · BS
+- [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) — Costa Mesa, CA · posted 2026-09-03 · HW · BS/MS
+- [Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226473007) · [2](https://boards.greenhouse.io/andurilindustries/jobs/5226471007) · [3](https://boards.greenhouse.io/andurilindustries/jobs/5221253007) — Washington, DC; Boston, MA; Quincy, MA · posted 2026-09-01 · SWE
+- [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) — Fort Collins, CO, Broomfield, CO · posted 2026-08-19 · SWE · BS
+
+</details>
+<details open>
+<summary>Apple (7)</summary>
+
+- [Software Engineer - IS&T](https://jobs.apple.com/en-us/details/200688599) — Austin, TX · posted 2026-10-19 · SWE · BS
+- [Graphics Software Content Engineer](https://jobs.apple.com/en-us/details/200689345) — Orlando, FL · posted 2026-10-15 · HW · BS
+- [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200685871) — Austin, TX, San Jose, CA · posted 2026-09-26 · SWE · BS
+- [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS
+- [Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200681316) — Sunnyvale, CA · posted 2026-09-01 · HW · BS/MS
+- [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
+- [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
+
+</details>
+<details open>
+<summary>NVIDIA (7)</summary>
+
+- [Technical Product Marketing Engineer - Robotics Simulation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742) — Santa Clara, CA · posted 2026-10-19 · ML · BS/MS
+- [SoC Software Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) · [2](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) — Santa Clara, CA · posted 2026-10-13 · SWE · BS/MS
+- [Deep Learning Software Engineer New Grad - TensorRT Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083) — Remote in USA, Santa Clara, CA · posted 2026-10-12 · ML · BS/MS/PhD
+- [Software Engineer New Grad - DL Kernel Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) — Santa Clara, CA · posted 2026-10-11 · SWE · BS/MS/PhD
+- [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
+- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
+
+</details>
+<details open>
+<summary>Applied Intuition (5)</summary>
+
+- [Forward Deployed Engineer New Grad](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true) — Sunnyvale, CA · posted 2026-09-03 · SWE · BS/MS
+- [Research Engineer New Grad](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true) — Sunnyvale, CA · posted 2026-08-15 · ML · MS/PhD
+- [Software Engineer New Grad - December 2026](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true) — Ann Arbor, MI, Sunnyvale, CA · posted 2026-08-15 · SWE · BS/MS
+- [Software Integration Engineer New Grad](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true) — Sunnyvale, CA · posted 2026-08-15 · HW · BS/MS
+- [Embedded Software Engineer New Grad](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true) — Sunnyvale, CA · posted 2026-08-15 · HW · BS/MS/PhD
+
+</details>
+<details open>
+<summary>Shield AI (5)</summary>
+
+- [Software Engineer 1 - Factory Team](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply) — Washington, DC · posted 2026-10-10 · SWE · BS
+- [Software Integration Engineer 1 - Software Integration](https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69/apply) — Washington, DC · posted 2026-10-09 · HW · BS
+- [Simulation Framework Engineer 1](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply) — Washington, DC · posted 2026-10-07 · SWE · BS
+- [Simulation Framework Engineer 2 - Simulation Framework](https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply) — San Diego, CA · posted 2026-10-07 · SWE · MS
+- [Software Development Engineer New Grad](https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583/apply) — San Diego, CA · posted 2026-10-06 · ML · BS/MS/PhD
+
+</details>
+<details open>
+<summary>Atlassian (4)</summary>
+
+- [Data Engineer New Grad](https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job) — Seattle, WA · posted 2026-10-05 · ML · BS/MS
+- [Data Scientist Graduate](https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-30 · ML · MS
+- [Machine Learning Engineer - 2027 Graduate](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-24 · ML · BS/MS
+- [Software Engineer](https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-15 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Wolverine Trading (4)</summary>
+
+- [Early Career C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq) — Chicago, IL · posted 2026-10-12 · SWE · BS/MS
+- [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [3](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-09-18 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Adobe (2)</summary>
+
+- [Machine Learning Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · ML · MS/PhD
+- [Software Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Belvedere Trading (2)</summary>
+
+- [Quantitative Trader](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply) — Chicago, IL · posted 2026-08-07 · Quant
+- [Software Engineer](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply) — Chicago, IL · posted 2026-08-07 · SWE
+
+</details>
+<details open>
+<summary>Harvey (2)</summary>
+
+- [Software Engineer New Grad](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true) · [2](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true) — SF; SF, NYC · posted 2026-10-02 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Pinterest (2)</summary>
+
+- [Master's University Graduate Data Scientist](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) — Palo Alto, CA, Seattle, WA, SF · posted 2026-10-01 · ML · MS
+- [University Grad Software Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) — SF, Remote in USA · posted 2026-10-01 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Salesforce (2)</summary>
+
+- [AI Labs Rotational Fellow - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678) — Seattle, WA, SF, NYC · posted 2026-10-16 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Scale AI (2)</summary>
+
+- [Software Engineer New Grad - Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) — SF · posted 2026-09-23 · SWE · BS
+- [Software Engineer New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) — SF · posted 2026-09-04 · SWE · BS
+
+</details>
+<details open>
+<summary>Stripe (2)</summary>
+
+- [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
+- [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Seattle, WA, SF, NYC · posted 2026-09-01 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Susquehanna International Group (2)</summary>
+
+- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
+- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-19 · Quant · BS/MS
+
+</details>
+<details open>
+<summary>Two Sigma (2)</summary>
+
+- [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
+
+</details>
+<details open>
+<summary>Wintermute (2)</summary>
+
+- [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply) — London, UK, NYC · posted 2026-09-03 · Quant
+- [Graduate Algorithmic Trader](https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44/apply) — NYC · posted 2026-09-01 · Quant
+
+</details>
+<details open>
+<summary>Anthropic (1)</summary>
+
+- [Claude Corps](https://job-boards.greenhouse.io/claudecorps/jobs/4402649009) — United States · posted 2026-09-29 · SWE
+
+</details>
+<details open>
+<summary>Anysphere (1)</summary>
+
+- [Software Engineer New Grad - 2027](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true) — SF, NYC · posted 2026-09-10 · SWE · BS
+
+</details>
+<details open>
+<summary>AQR Capital Management (1)</summary>
+
+- [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) — Greenwich, CT · posted 2026-08-25 · Quant · BS/MS
+
+</details>
+<details open>
+<summary>Cerebras (1)</summary>
+
+- [Software Engineer - Kernel Reliability](https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true) — Canada, United States · posted 2026-09-15 · SWE
+
+</details>
+<details open>
+<summary>DoorDash (1)</summary>
+
+- [Software Engineer 1 - Entry-Level](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) — Seattle, WA, SF, LA · posted 2026-09-04 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>DRW (1)</summary>
+
+- [Floor Trader](https://job-boards.greenhouse.io/drweng/jobs/8207750) — Chicago, IL · posted 2026-09-16 · Quant · BS
+
+</details>
+<details open>
+<summary>Figure (1)</summary>
+
+- [Data Quality Analyst](https://job-boards.greenhouse.io/figureai/jobs/4590702006) — San Jose, CA · posted 2026-10-13 · ML
+
+</details>
+<details open>
+<summary>Fireworks AI (1)</summary>
+
+- [Member of Technical Staff New Grad](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application?embed=true) — San Mateo, CA, NYC · posted 2026-10-06 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Google (1)</summary>
+
+- [Research Engineer](https://www.google.com/about/careers/applications/jobs/results/114077679900074694) — Mountain View, CA · posted 2026-09-11 · ML
+
+</details>
+<details open>
+<summary>Headlands Tech Holdings (1)</summary>
+
+- [C++ Software Developer New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009) — Chicago, IL · posted 2026-09-16 · SWE · BS
+
+</details>
+<details open>
+<summary>IMC Trading (1)</summary>
+
+- [Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) — Chicago, IL · posted 2026-08-27 · SWE · BS
+
+</details>
+<details open>
+<summary>Marshall Wace (1)</summary>
+
+- [Quant Research - Quantitative Associate Programme](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) — London, UK, NYC · posted 2026-08-26 · Quant
+
+</details>
+<details open>
+<summary>Motional (1)</summary>
+
+- [Motion Planning Engineer - Trajectory Generation](https://motional.com/open-positions/?gh_jid=7980363003#/7980363003) — Boston, MA, Las Vegas, NV, Remote in USA · posted 2026-09-14 · ML · BS/MS/PhD
+
+</details>
+<details open>
+<summary>OpenAI (1)</summary>
+
+- [Software Engineer - Applied Emerging Talent](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true) — SF · posted 2026-09-15 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Palantir (1)</summary>
+
+- [Software Engineer New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply) — NYC · posted 2026-10-20 · SWE · BS/MS/PhD
+
+</details>
+<details open>
+<summary>ServiceNow (1)</summary>
+
+- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
+
+</details>
+<details open>
+<summary>Tesla (1)</summary>
+
+- [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
+
+</details>
+<details open>
+<summary>The Voleon Group (1)</summary>
+
+- [Software Engineer - University Hire 2027](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true) — Berkeley, CA, NYC · posted 2026-08-25 · SWE · BS
+
+</details>
+<details open>
+<summary>Tower Research Capital (1)</summary>
+
+- [Data Analyst - Data](https://www.tower-research.com/open-positions/?gh_jid=8167234) — NYC · posted 2026-09-16 · ML · MS/PhD
+
+</details>
+<details open>
+<summary>WorldQuant (1)</summary>
+
+- [Quantitative Developer - Portfolio Management Solutions](https://job-boards.greenhouse.io/worldquant/jobs/4700347006) — Connecticut, NYC · posted 2026-08-13 · Quant · BS/MS
+
+</details>
+<details open>
+<summary>Zoox (1)</summary>
+
+- [Data Analyst - Hrs/wk](https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e/apply) — Seattle, WA · posted 2026-09-10 · ML · BS/MS
+
+</details>
 <!-- JOBS:END -->

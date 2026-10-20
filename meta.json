@@ -1,27 +1,27 @@
 {
  "version": 2,
  "bot_version": "2.0.0",
- "repo": "Alanhsiu/jobwatch",
+ "repo": "gaivic/jobwatch",
  "branch": "main",
- "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1792472478,
- "last_change": 1792472478,
+ "pages_url": "https://gaivic.github.io/jobwatch/",
+ "last_run": 1792475283,
+ "last_change": 1792475283,
  "last_result": "ok",
  "feed": {
   "records": 19263,
-  "active": 3006,
-  "fetched_at": 1792472478,
+  "active": 3001,
+  "fetched_at": 1792475283,
   "attempts": 1
  },
  "counts": {
-  "active": 304,
-  "closed": 251,
-  "untracked": 62,
-  "groups": 260,
-  "companies": 56,
-  "new_this_run": 1,
+  "active": 168,
+  "closed": 0,
+  "untracked": 0,
+  "groups": 140,
+  "companies": 42,
+  "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -30,12 +30,12 @@
   "title": 20,
   "region": 41,
   "sponsorship": 0,
-  "age": 18
+  "age": 154
  },
  "keywords": {
   "adobe": {
    "active": 2,
-   "all_time": 10,
+   "all_time": 2,
    "names": [
     "Adobe"
    ],
@@ -43,29 +43,27 @@
   },
   "airbnb": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "akuna": {
-   "active": 4,
-   "all_time": 5,
-   "names": [
-    "Akuna Capital University"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "amazon": {
-   "active": 11,
-   "all_time": 23,
+   "active": 7,
+   "all_time": 7,
    "names": [
     "Amazon"
    ],
    "denied": 0
   },
   "anduril": {
-   "active": 8,
-   "all_time": 15,
+   "active": 7,
+   "all_time": 7,
    "names": [
     "Anduril"
    ],
@@ -88,8 +86,8 @@
    "denied": 0
   },
   "apple": {
-   "active": 9,
-   "all_time": 33,
+   "active": 7,
+   "all_time": 7,
    "names": [
     "Apple"
    ],
@@ -97,7 +95,7 @@
   },
   "applied intuition": {
    "active": 5,
-   "all_time": 6,
+   "all_time": 5,
    "names": [
     "Applied Intuition"
    ],
@@ -105,7 +103,7 @@
   },
   "aqr": {
    "active": 1,
-   "all_time": 3,
+   "all_time": 1,
    "names": [
     "AQR Capital Management"
    ],
@@ -113,7 +111,7 @@
   },
   "atlassian": {
    "active": 4,
-   "all_time": 5,
+   "all_time": 4,
    "names": [
     "Atlassian"
    ],
@@ -165,13 +163,13 @@
   },
   "bridgewater": {
    "active": 0,
-   "all_time": 2,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "bytedance": {
-   "active": 35,
-   "all_time": 75,
+   "active": 24,
+   "all_time": 24,
    "names": [
     "ByteDance"
    ],
@@ -184,8 +182,8 @@
    "denied": 0
   },
   "cerebras": {
-   "active": 5,
-   "all_time": 9,
+   "active": 1,
+   "all_time": 1,
    "names": [
     "Cerebras"
    ],
@@ -198,20 +196,15 @@
    "denied": 0
   },
   "chicago trading": {
-   "active": 4,
-   "all_time": 7,
-   "names": [
-    "Chicago Trading Company"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "citadel": {
-   "active": 5,
-   "all_time": 10,
-   "names": [
-    "Citadel",
-    "Citadel Securities"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "cloudflare": {
@@ -240,7 +233,7 @@
   },
   "cruise": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
@@ -294,7 +287,7 @@
   },
   "doordash": {
    "active": 1,
-   "all_time": 2,
+   "all_time": 1,
    "names": [
     "DoorDash"
    ],
@@ -307,8 +300,8 @@
    "denied": 0
   },
   "drw": {
-   "active": 3,
-   "all_time": 3,
+   "active": 1,
+   "all_time": 1,
    "names": [
     "DRW"
    ],
@@ -316,7 +309,7 @@
   },
   "elevenlabs": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
@@ -339,16 +332,14 @@
    "denied": 0
   },
   "figma": {
-   "active": 1,
-   "all_time": 1,
-   "names": [
-    "Figma"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "figure": {
    "active": 1,
-   "all_time": 3,
+   "all_time": 1,
    "names": [
     "Figure"
    ],
@@ -363,19 +354,15 @@
    "denied": 0
   },
   "five rings": {
-   "active": 2,
-   "all_time": 3,
-   "names": [
-    "Five Rings Capital"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "flow traders": {
-   "active": 1,
-   "all_time": 1,
-   "names": [
-    "Flow Traders"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "gatik": {
@@ -404,13 +391,13 @@
   },
   "glean": {
    "active": 0,
-   "all_time": 2,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "google": {
    "active": 1,
-   "all_time": 5,
+   "all_time": 1,
    "names": [
     "Google"
    ],
@@ -437,8 +424,8 @@
    "denied": 0
   },
   "headlands": {
-   "active": 2,
-   "all_time": 2,
+   "active": 1,
+   "all_time": 1,
    "names": [
     "Headlands Tech Holdings"
    ],
@@ -451,11 +438,9 @@
    "denied": 0
   },
   "hudson river": {
-   "active": 2,
-   "all_time": 3,
-   "names": [
-    "Hudson River Trading"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "hugging face": {
@@ -465,8 +450,8 @@
    "denied": 0
   },
   "imc": {
-   "active": 3,
-   "all_time": 5,
+   "active": 1,
+   "all_time": 1,
    "names": [
     "IMC Trading"
    ],
@@ -474,22 +459,20 @@
   },
   "instacart": {
    "active": 0,
-   "all_time": 2,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "jane street": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "jump trading": {
-   "active": 1,
-   "all_time": 5,
-   "names": [
-    "Jump Trading"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "kodiak": {
@@ -512,7 +495,7 @@
   },
   "linkedin": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
@@ -530,13 +513,13 @@
   },
   "man group": {
    "active": 0,
-   "all_time": 3,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "marshall wace": {
    "active": 1,
-   "all_time": 2,
+   "all_time": 1,
    "names": [
     "Marshall Wace"
    ],
@@ -544,13 +527,13 @@
   },
   "meta": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "microsoft": {
-   "active": 10,
-   "all_time": 29,
+   "active": 9,
+   "all_time": 9,
    "names": [
     "Microsoft"
    ],
@@ -558,7 +541,7 @@
   },
   "millennium": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
@@ -589,8 +572,8 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 9,
-   "all_time": 30,
+   "active": 7,
+   "all_time": 7,
    "names": [
     "NVIDIA"
    ],
@@ -604,7 +587,7 @@
   },
   "old mission": {
    "active": 0,
-   "all_time": 6,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
@@ -618,13 +601,13 @@
   },
   "optiver": {
    "active": 0,
-   "all_time": 5,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "palantir": {
-   "active": 11,
-   "all_time": 13,
+   "active": 1,
+   "all_time": 1,
    "names": [
     "Palantir"
    ],
@@ -670,7 +653,7 @@
   },
   "point72": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
@@ -706,7 +689,7 @@
   },
   "rippling": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
@@ -723,11 +706,9 @@
    "denied": 0
   },
   "roblox": {
-   "active": 1,
-   "all_time": 4,
-   "names": [
-    "Roblox"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "safe superintelligence": {
@@ -737,8 +718,8 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 3,
-   "all_time": 8,
+   "active": 2,
+   "all_time": 2,
    "names": [
     "Salesforce"
    ],
@@ -746,7 +727,7 @@
   },
   "sambanova": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
@@ -759,16 +740,14 @@
    "denied": 0
   },
   "schonfeld": {
-   "active": 1,
-   "all_time": 1,
-   "names": [
-    "Schonfeld"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "servicenow": {
    "active": 1,
-   "all_time": 10,
+   "all_time": 1,
    "names": [
     "ServiceNow"
    ],
@@ -783,11 +762,9 @@
    "denied": 0
   },
   "sig": {
-   "active": 4,
-   "all_time": 10,
-   "names": [
-    "Susquehanna International Group (SIG)"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "skild": {
@@ -798,19 +775,19 @@
   },
   "snap": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 1
   },
   "snowflake": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "squarepoint": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
@@ -837,8 +814,8 @@
    "denied": 0
   },
   "tesla": {
-   "active": 4,
-   "all_time": 28,
+   "active": 1,
+   "all_time": 1,
    "names": [
     "Tesla"
    ],
@@ -851,8 +828,8 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 108,
-   "all_time": 161,
+   "active": 48,
+   "all_time": 48,
    "names": [
     "TikTok"
    ],
@@ -860,13 +837,13 @@
   },
   "together ai": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "tower research": {
-   "active": 2,
-   "all_time": 2,
+   "active": 1,
+   "all_time": 1,
    "names": [
     "Tower Research Capital"
    ],
@@ -879,8 +856,8 @@
    "denied": 0
   },
   "two sigma": {
-   "active": 4,
-   "all_time": 4,
+   "active": 2,
+   "all_time": 2,
    "names": [
     "Two Sigma"
    ],
@@ -911,16 +888,14 @@
    "denied": 0
   },
   "virtu": {
-   "active": 1,
-   "all_time": 3,
-   "names": [
-    "Virtu Financial"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "voleon": {
    "active": 1,
-   "all_time": 2,
+   "all_time": 1,
    "names": [
     "The Voleon Group"
    ],
@@ -928,13 +903,13 @@
   },
   "waabi": {
    "active": 0,
-   "all_time": 1,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
   "walleye": {
    "active": 0,
-   "all_time": 2,
+   "all_time": 0,
    "names": [],
    "denied": 0
   },
@@ -952,7 +927,7 @@
   },
   "wintermute": {
    "active": 2,
-   "all_time": 3,
+   "all_time": 2,
    "names": [
     "Wintermute"
    ],
@@ -960,7 +935,7 @@
   },
   "wolverine": {
    "active": 4,
-   "all_time": 5,
+   "all_time": 4,
    "names": [
     "Wolverine Trading"
    ],
@@ -981,11 +956,9 @@
    "denied": 0
   },
   "xai": {
-   "active": 2,
-   "all_time": 4,
-   "names": [
-    "xAI"
-   ],
+   "active": 0,
+   "all_time": 0,
+   "names": [],
    "denied": 0
   },
   "xtx": {
@@ -996,7 +969,7 @@
   },
   "zoox": {
    "active": 1,
-   "all_time": 4,
+   "all_time": 1,
    "names": [
     "Zoox"
    ],
@@ -1004,10 +977,10 @@
   }
  },
  "telegram": {
-  "mode": "sent",
-  "delivered": 1,
+  "mode": "no_creds",
+  "delivered": 0,
   "failed_chunks": 0,
-  "creds": true
+  "creds": false
  },
  "config_source": "defaults",
  "config_sha": null,

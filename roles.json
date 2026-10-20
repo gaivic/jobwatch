@@ -1,1 +1,4002 @@
-[]
+[
+ {
+  "id": "simplify:814742fa-a084-4b5c-8a86-88b5c02f9b2f",
+  "first_seen": 1792475283,
+  "company": "Palantir",
+  "title": "Software Engineer New Grad - Query Engines",
+  "location": "NYC",
+  "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply",
+  "category": "SWE",
+  "posted": "2026-10-20",
+  "date_posted": 1792459830,
+  "active": true,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "palantir|software engineer new grad query engines",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
+  "first_seen": 1792475283,
+  "company": "Amazon",
+  "title": "Software Engineer – Early Career",
+  "location": "Madison, WI, Boston, MA, Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+  "category": "SWE",
+  "posted": "2026-10-19",
+  "date_posted": 1792449569,
+  "active": true,
+  "locations": [
+   "Madison, WI",
+   "Boston, MA",
+   "Seattle, WA",
+   "Austin, TX",
+   "Detroit, MI",
+   "Santa Clara, CA",
+   "Arlington County, Arlington, VA",
+   "Minneapolis, MN",
+   "Denver, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software engineer early career",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:685e432a-5583-46a1-a7ac-d9819bab8f8d",
+  "first_seen": 1792475283,
+  "company": "Apple",
+  "title": "Software Engineer - IS&T",
+  "location": "Austin, TX",
+  "url": "https://jobs.apple.com/en-us/details/200688599",
+  "category": "SWE",
+  "posted": "2026-10-19",
+  "date_posted": 1792449035,
+  "active": true,
+  "locations": [
+   "Austin, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer is t",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:80493332-3c89-4c41-ac25-0143b349ecbc",
+  "first_seen": 1792475283,
+  "company": "NVIDIA",
+  "title": "Technical Product Marketing Engineer - Robotics Simulation",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742",
+  "category": "ML",
+  "posted": "2026-10-19",
+  "date_posted": 1792368000,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|technical product marketing engineer robotics simulation",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e6dd9201-55c5-46cf-a0bc-b9d1b81d9359",
+  "first_seen": 1792475283,
+  "company": "Amazon",
+  "title": "Systems Development Engineer – Early Career",
+  "location": "Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
+  "category": "SWE",
+  "posted": "2026-10-17",
+  "date_posted": 1792200310,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|systems development engineer early career",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:5aac86eb-5f0c-4bf5-b902-cd78aa3278a1",
+  "first_seen": 1792475283,
+  "company": "Microsoft",
+  "title": "Software Engineer - Forward Deployed Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406",
+  "category": "SWE",
+  "posted": "2026-10-16",
+  "date_posted": 1792190432,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer forward deployed engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:6e0e49d7-3f42-454e-9884-85f4bdf8c139",
+  "first_seen": 1792475283,
+  "company": "Salesforce",
+  "title": "AI Labs Rotational Fellow - Emerging Talent",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1",
+  "category": "SWE",
+  "posted": "2026-10-16",
+  "date_posted": 1792108800,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|ai labs rotational fellow emerging talent",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8c732701-b682-414e-8968-708f8b132ff0",
+  "first_seen": 1792475283,
+  "company": "Salesforce",
+  "title": "AI Labs Rotational Fellow - Emerging Talent",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678",
+  "category": "SWE",
+  "posted": "2026-10-16",
+  "date_posted": 1792108800,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|ai labs rotational fellow emerging talent",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:86c9474f-6e5a-412d-86b0-43966e80038a",
+  "first_seen": 1792475283,
+  "company": "Apple",
+  "title": "Graphics Software Content Engineer",
+  "location": "Orlando, FL",
+  "url": "https://jobs.apple.com/en-us/details/200689345",
+  "category": "HW",
+  "posted": "2026-10-15",
+  "date_posted": 1792103632,
+  "active": true,
+  "locations": [
+   "Orlando, FL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|graphics software content engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f3c27242-85bc-4d24-acb5-70028e2c09c2",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Backend Engineer Graduate - Social Foundation",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7696782198126545157",
+  "category": "SWE",
+  "posted": "2026-10-15",
+  "date_posted": 1792058086,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|backend engineer graduate social foundation",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:19107d15-9629-4efe-b0f5-7e1cc38dd47d",
+  "first_seen": 1792475283,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
+  "category": "SWE",
+  "posted": "2026-10-15",
+  "date_posted": 1792045225,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c440c071-0612-4db0-b149-50dcb1876b45",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Data Ecosystem - 2027 Start",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7685769994391832837",
+  "category": "SWE",
+  "posted": "2026-10-14",
+  "date_posted": 1792017648,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|software engineer graduate data ecosystem 2027 start",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:3c75f0ca-29e4-400d-8e74-9adafaebcc9c",
+  "first_seen": 1792475283,
+  "company": "Figure",
+  "title": "Data Quality Analyst",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/figureai/jobs/4590702006",
+  "category": "ML",
+  "posted": "2026-10-13",
+  "date_posted": 1791929786,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "figure|data quality analyst",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b1fd26e3-db3d-4f5c-8677-163fd6d481c6",
+  "first_seen": 1792475283,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556985571",
+  "category": "SWE",
+  "posted": "2026-10-13",
+  "date_posted": 1791882535,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:22b439fe-1f57-4be3-b47f-046920ffad7a",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Research Scientist Graduate",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7695929967028750645",
+  "category": "ML",
+  "posted": "2026-10-13",
+  "date_posted": 1791854064,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|research scientist graduate",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:1d634e6a-9473-4a3b-b0a7-4dcaec951731",
+  "first_seen": 1792475283,
+  "company": "NVIDIA",
+  "title": "SoC Software Engineer New Grad",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+  "category": "SWE",
+  "posted": "2026-10-13",
+  "date_posted": 1791849600,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|soc software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:664f484e-e080-4fb3-be9b-ace5f9872240",
+  "first_seen": 1792475283,
+  "company": "NVIDIA",
+  "title": "SoC Software Engineer New Grad",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+  "category": "SWE",
+  "posted": "2026-10-13",
+  "date_posted": 1791849600,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|soc software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:db3ca01b-bee9-4147-8df9-822f3a967e90",
+  "first_seen": 1792475283,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
+  "category": "SWE",
+  "posted": "2026-10-12",
+  "date_posted": 1791843025,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
+  "first_seen": 1792475283,
+  "company": "Microsoft",
+  "title": "Software Engineering",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
+  "category": "SWE",
+  "posted": "2026-10-12",
+  "date_posted": 1791843002,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:1935c5df-770d-45f2-bbde-4d4a462ad5cb",
+  "first_seen": 1792475283,
+  "company": "Wolverine Trading",
+  "title": "Early Career C++ Software Engineer",
+  "location": "Chicago, IL",
+  "url": "https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq",
+  "category": "SWE",
+  "posted": "2026-10-12",
+  "date_posted": 1791814756,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "wolverine trading|early career c software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:34e9778a-347d-4ab1-94fd-8da5c77008be",
+  "first_seen": 1792475283,
+  "company": "NVIDIA",
+  "title": "Deep Learning Software Engineer New Grad - TensorRT Performance",
+  "location": "Remote in USA, Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083",
+  "category": "ML",
+  "posted": "2026-10-12",
+  "date_posted": 1791763200,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|deep learning software engineer new grad tensorrt performance",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8944e3f6-18d2-4e20-b86a-23223ceba88f",
+  "first_seen": 1792475283,
+  "company": "NVIDIA",
+  "title": "Software Engineer New Grad - DL Kernel Libraries",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+  "category": "SWE",
+  "posted": "2026-10-11",
+  "date_posted": 1791676800,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|software engineer new grad dl kernel libraries",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c0e68386-5f91-485f-86a7-c92db1919740",
+  "first_seen": 1792475283,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 - Factory Team",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply",
+  "category": "SWE",
+  "posted": "2026-10-10",
+  "date_posted": 1791612416,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 factory team",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:9f92b24f-ac56-4f00-9aa8-355eb21841bd",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Conversational AI",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7670685495206857013",
+  "category": "ML",
+  "posted": "2026-10-09",
+  "date_posted": 1791584202,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate conversational ai",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:40476e00-e6a1-484f-9b0e-f965b658d768",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Conversational AI",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670686314588801333",
+  "category": "ML",
+  "posted": "2026-10-09",
+  "date_posted": 1791584201,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate conversational ai",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c2037c76-5c4e-47ec-bef7-a975a226c4a1",
+  "first_seen": 1792475283,
+  "company": "Shield AI",
+  "title": "Software Integration Engineer 1 - Software Integration",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69/apply",
+  "category": "HW",
+  "posted": "2026-10-09",
+  "date_posted": 1791584047,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software integration engineer 1 software integration",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8dc8094b-3378-4b61-b2e0-e96ca5a69fc5",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7694353236283935029",
+  "category": "ML",
+  "posted": "2026-10-08",
+  "date_posted": 1791497917,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce user growth",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e2182c1b-5804-476c-b3e7-fd9a76bfa949",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer New Grad - E-Commerce User Growth",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7694352871949682997",
+  "category": "ML",
+  "posted": "2026-10-08",
+  "date_posted": 1791497917,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer new grad e commerce user growth",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:edc4278f-b222-4879-adc6-0a1a97a007a6",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7694054165508557109",
+  "category": "ML",
+  "posted": "2026-10-08",
+  "date_posted": 1791422026,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce knowledge graph",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:2b3eca81-2577-435b-bff1-4b7a0b5a3e9a",
+  "first_seen": 1792475283,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer 1",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791411064,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer 1",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b2bf950b-bf97-4b9c-8ab7-e96bfd87276a",
+  "first_seen": 1792475283,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer 2 - Simulation Framework",
+  "location": "San Diego, CA",
+  "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791411064,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer 2 simulation framework",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8b5d1879-5003-4cf0-aaf6-4a45fdf0a007",
+  "first_seen": 1792475283,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA, Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791335266,
+  "active": true,
+  "locations": [
+   "Redmond, WA",
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f28161fe-bd49-4abe-9430-703600ec69d6",
+  "first_seen": 1792475283,
+  "company": "Shield AI",
+  "title": "Software Development Engineer New Grad",
+  "location": "San Diego, CA",
+  "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583/apply",
+  "category": "ML",
+  "posted": "2026-10-06",
+  "date_posted": 1791325522,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software development engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:52003851-c92f-4b80-85d1-0cfbfde820cd",
+  "first_seen": 1792475283,
+  "company": "Fireworks AI",
+  "title": "Member of Technical Staff New Grad",
+  "location": "San Mateo, CA, NYC",
+  "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-06",
+  "date_posted": 1791267827,
+  "active": true,
+  "locations": [
+   "San Mateo, CA",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "fireworks ai|member of technical staff new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
+  "first_seen": 1792475283,
+  "company": "Atlassian",
+  "title": "Data Engineer New Grad",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
+  "category": "ML",
+  "posted": "2026-10-05",
+  "date_posted": 1791237839,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|data engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
+  "first_seen": 1792475283,
+  "company": "Harvey",
+  "title": "Software Engineer New Grad",
+  "location": "SF",
+  "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979923,
+  "active": true,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "harvey|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:5993eb6e-3414-429f-86b9-dd467b9ddd1d",
+  "first_seen": 1792475283,
+  "company": "Harvey",
+  "title": "Software Engineer New Grad",
+  "location": "SF, NYC",
+  "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979915,
+  "active": true,
+  "locations": [
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "harvey|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:169846aa-cf8c-463a-9721-b9826b79a129",
+  "first_seen": 1792475283,
+  "company": "Amazon",
+  "title": "Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC",
+  "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA",
+  "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790921279,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "Jessup, MD",
+   "Arlington County, Arlington, VA",
+   "Denver, CO",
+   "Herndon, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer early career amazon dedicated cloud adc",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:ec6cf12a-dd02-4416-9eb0-6b01646dca5d",
+  "first_seen": 1792475283,
+  "company": "Pinterest",
+  "title": "Master's University Graduate Data Scientist",
+  "location": "Palo Alto, CA, Seattle, WA, SF",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
+  "category": "ML",
+  "posted": "2026-10-01",
+  "date_posted": 1790893159,
+  "active": true,
+  "locations": [
+   "Palo Alto, CA",
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "pinterest|master s university graduate data scientist",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c1aff4b4-bedf-4c66-b282-a592990ba632",
+  "first_seen": 1792475283,
+  "company": "Pinterest",
+  "title": "University Grad Software Engineer",
+  "location": "SF, Remote in USA",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
+  "category": "SWE",
+  "posted": "2026-10-01",
+  "date_posted": 1790893159,
+  "active": true,
+  "locations": [
+   "SF",
+   "Remote in USA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "pinterest|university grad software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e738e999-5fd1-4d8e-a451-bd26b18a0fa0",
+  "first_seen": 1792475283,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Robotics",
+  "location": "Seattle, WA, Nashville, TN, Austin, TX",
+  "url": "https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
+  "category": "SWE",
+  "posted": "2026-10-01",
+  "date_posted": 1790892578,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "Nashville, TN",
+   "Austin, TX",
+   "North Reading, MA",
+   "Arlington County, Arlington, VA",
+   "Bellevue, WA",
+   "Westborough, MA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer robotics",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:42079b38-2a81-4395-8380-8127f696afaf",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Software Engineer Graduate",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7689561253011097909/detail",
+  "category": "SWE",
+  "posted": "2026-10-01",
+  "date_posted": 1790817111,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|software engineer graduate",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:d739b0c1-7de2-4820-8075-fc8cf49855fd",
+  "first_seen": 1792475283,
+  "company": "Atlassian",
+  "title": "Data Scientist Graduate",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
+  "category": "ML",
+  "posted": "2026-09-30",
+  "date_posted": 1790806007,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|data scientist graduate",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f2c0c0c5-f679-46c2-98dc-36b42fe0532e",
+  "first_seen": 1792475283,
+  "company": "Anthropic",
+  "title": "Claude Corps",
+  "location": "United States",
+  "url": "https://job-boards.greenhouse.io/claudecorps/jobs/4402649009",
+  "category": "SWE",
+  "posted": "2026-09-29",
+  "date_posted": 1790720889,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "anthropic|claude corps",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c629b4e6-c4f2-414a-9bfa-e7be4219dd59",
+  "first_seen": 1792475283,
+  "company": "NVIDIA",
+  "title": "Applied Machine Learning Engineer - AI for VLSI Design",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
+  "category": "ML",
+  "posted": "2026-09-29",
+  "date_posted": 1790640000,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|applied machine learning engineer ai for vlsi design",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:72f6e435-1060-4700-9b90-48d82c3b1972",
+  "first_seen": 1792475283,
+  "company": "Apple",
+  "title": "CAD Engineer - Signoff Infrastructure",
+  "location": "Austin, TX, San Jose, CA",
+  "url": "https://jobs.apple.com/en-us/details/200685871",
+  "category": "SWE",
+  "posted": "2026-09-26",
+  "date_posted": 1790384785,
+  "active": true,
+  "locations": [
+   "Austin, TX",
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|cad engineer signoff infrastructure",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
+  "first_seen": 1792475283,
+  "company": "Atlassian",
+  "title": "Machine Learning Engineer - 2027 Graduate",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+  "category": "ML",
+  "posted": "2026-09-24",
+  "date_posted": 1790287661,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|machine learning engineer 2027 graduate",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:3248cc32-d514-472b-9277-9ee00783420d",
+  "first_seen": 1792475283,
+  "company": "Adobe",
+  "title": "Machine Learning Engineer New Grad",
+  "location": "Seattle, WA, SF, Austin, TX",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
+  "category": "ML",
+  "posted": "2026-09-24",
+  "date_posted": 1790208000,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "San Jose, CA",
+   "Waltham, MA",
+   "NYC",
+   "Lehi, UT"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "adobe|machine learning engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:9ac8fdf1-ae90-4f20-8e32-7a3f2c0d52e9",
+  "first_seen": 1792475283,
+  "company": "Adobe",
+  "title": "Software Engineer New Grad",
+  "location": "Seattle, WA, SF, Austin, TX",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
+  "category": "SWE",
+  "posted": "2026-09-24",
+  "date_posted": 1790208000,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "San Jose, CA",
+   "NYC",
+   "Lehi, UT"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "adobe|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:1f43ae17-edcd-41d2-ae22-578b9224a6e9",
+  "first_seen": 1792475283,
+  "company": "Scale AI",
+  "title": "Software Engineer New Grad - Public Sector",
+  "location": "SF",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+  "category": "SWE",
+  "posted": "2026-09-23",
+  "date_posted": 1790202325,
+  "active": true,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "scale ai|software engineer new grad public sector",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:6753e83e-b85a-4ab7-9211-95f03794a58c",
+  "first_seen": 1792475283,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982903",
+  "category": "SWE",
+  "posted": "2026-09-23",
+  "date_posted": 1790125610,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8afcea8a-f2ea-4939-a079-70873c2a97db",
+  "first_seen": 1792475283,
+  "company": "Microsoft",
+  "title": "Software Engineer - Cleared",
+  "location": "Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911",
+  "category": "SWE",
+  "posted": "2026-09-23",
+  "date_posted": 1790125610,
+  "active": true,
+  "locations": [
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer cleared",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:571da82a-c8c1-4683-bcd8-35ce56fdb8c4",
+  "first_seen": 1792475283,
+  "company": "Anduril",
+  "title": "Early Career Firmware Engineer",
+  "location": "Costa Mesa, CA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007",
+  "category": "HW",
+  "posted": "2026-09-22",
+  "date_posted": 1790115358,
+  "active": true,
+  "locations": [
+   "Costa Mesa, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|early career firmware engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:a339dae3-c079-4987-a6be-c0b863c83fb6",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Video",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7686999927260105013",
+  "category": "ML",
+  "posted": "2026-09-18",
+  "date_posted": 1789770552,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce recommendation video",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:83d0a294-51a6-4b84-867f-e039c06781af",
+  "first_seen": 1792475283,
+  "company": "Wolverine Trading",
+  "title": "Entry Level C++ Software Engineer",
+  "location": "Chicago, IL",
+  "url": "https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq",
+  "category": "SWE",
+  "posted": "2026-09-18",
+  "date_posted": 1789770139,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "wolverine trading|entry level c software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
+  "first_seen": 1792475283,
+  "company": "Stripe",
+  "title": "Software Engineer - Early Career - Immediate Start",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "category": "SWE",
+  "posted": "2026-09-18",
+  "date_posted": 1789694971,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "stripe|software engineer early career immediate start",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:a47dfc85-2d9a-4cad-9a29-0c244dc1a46e",
+  "first_seen": 1792475283,
+  "company": "Tower Research Capital",
+  "title": "Data Analyst - Data",
+  "location": "NYC",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=8167234",
+  "category": "ML",
+  "posted": "2026-09-16",
+  "date_posted": 1789598875,
+  "active": true,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "tower research capital|data analyst data",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:3b44169c-ba6c-47f8-8693-6dee8ef6bb65",
+  "first_seen": 1792475283,
+  "company": "DRW",
+  "title": "Floor Trader",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/drweng/jobs/8207750",
+  "category": "Quant",
+  "posted": "2026-09-16",
+  "date_posted": 1789598824,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "drw|floor trader",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c26d8252-d97c-43cd-a297-d22043b04581",
+  "first_seen": 1792475283,
+  "company": "Headlands Tech Holdings",
+  "title": "C++ Software Developer New Grad",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009",
+  "category": "SWE",
+  "posted": "2026-09-16",
+  "date_posted": 1789597534,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "headlands tech holdings|c software developer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:bbf97353-45cc-4b6c-b3a6-50e3aafa73fd",
+  "first_seen": 1792475283,
+  "company": "Anduril",
+  "title": "Software Engineer - Battlespace Awareness",
+  "location": "Fort Collins, CO, Broomfield, CO",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240165007",
+  "category": "SWE",
+  "posted": "2026-09-16",
+  "date_posted": 1789596349,
+  "active": true,
+  "locations": [
+   "Fort Collins, CO",
+   "Broomfield, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|software engineer battlespace awareness",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:d4c19c36-ef9a-4709-85c2-e54045c626b7",
+  "first_seen": 1792475283,
+  "company": "Cerebras",
+  "title": "Software Engineer - Kernel Reliability",
+  "location": "Canada, United States",
+  "url": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-09-15",
+  "date_posted": 1789511063,
+  "active": true,
+  "locations": [
+   "Canada",
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "cerebras|software engineer kernel reliability",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:82c69acd-73ca-4a6f-b334-fd16a295ccbf",
+  "first_seen": 1792475283,
+  "company": "Apple",
+  "title": "Systems Software Engineer",
+  "location": "San Diego, CA",
+  "url": "https://jobs.apple.com/en-us/details/200683808",
+  "category": "SWE",
+  "posted": "2026-09-15",
+  "date_posted": 1789509819,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|systems software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8531a8a8-615c-4eb3-8f19-b6a80d1d5d15",
+  "first_seen": 1792475283,
+  "company": "OpenAI",
+  "title": "Software Engineer - Applied Emerging Talent",
+  "location": "SF",
+  "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-09-15",
+  "date_posted": 1789435486,
+  "active": true,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "openai|software engineer applied emerging talent",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:71842870-b830-4748-a505-dedd8137d854",
+  "first_seen": 1792475283,
+  "company": "Atlassian",
+  "title": "Software Engineer",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
+  "category": "SWE",
+  "posted": "2026-09-15",
+  "date_posted": 1789434532,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
+  "first_seen": 1792475283,
+  "company": "Motional",
+  "title": "Motion Planning Engineer - Trajectory Generation",
+  "location": "Boston, MA, Las Vegas, NV, Remote in USA",
+  "url": "https://motional.com/open-positions/?gh_jid=7980363003#/7980363003",
+  "category": "ML",
+  "posted": "2026-09-14",
+  "date_posted": 1789411683,
+  "active": true,
+  "locations": [
+   "Boston, MA",
+   "Las Vegas, NV",
+   "Remote in USA",
+   "Pittsburgh, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "motional|motion planning engineer trajectory generation",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:13ed523b-577a-4fbe-a3da-032a28eb0207",
+  "first_seen": 1792475283,
+  "company": "ServiceNow",
+  "title": "Software Engineer",
+  "location": "West Palm Beach, FL",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149338366",
+  "category": "SWE",
+  "posted": "2026-09-14",
+  "date_posted": 1789394635,
+  "active": true,
+  "locations": [
+   "West Palm Beach, FL"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "servicenow|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:02ca659d-9ee1-4e08-a05b-2ddce897fa74",
+  "first_seen": 1792475283,
+  "company": "Amazon",
+  "title": "Software Privacy Engineer - Multiple Teams",
+  "location": "Bellevue, WA",
+  "url": "https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa",
+  "category": "SWE",
+  "posted": "2026-09-12",
+  "date_posted": 1789175855,
+  "active": true,
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software privacy engineer multiple teams",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:42f706ad-c2f4-4190-9175-61c8b63fda22",
+  "first_seen": 1792475283,
+  "company": "Google",
+  "title": "Research Engineer",
+  "location": "Mountain View, CA",
+  "url": "https://www.google.com/about/careers/applications/jobs/results/114077679900074694",
+  "category": "ML",
+  "posted": "2026-09-11",
+  "date_posted": 1789164755,
+  "active": true,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "google|research engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8f1666d8-5267-460a-9e6f-0b622ef9f60d",
+  "first_seen": 1792475283,
+  "company": "Anysphere",
+  "title": "Software Engineer New Grad - 2027",
+  "location": "SF, NYC",
+  "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-09-10",
+  "date_posted": 1789003401,
+  "active": true,
+  "locations": [
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anysphere|software engineer new grad 2027",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:765bfb9d-9f78-412c-8357-d831024c3885",
+  "first_seen": 1792475283,
+  "company": "Zoox",
+  "title": "Data Analyst - Hrs/wk",
+  "location": "Seattle, WA",
+  "url": "https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e/apply",
+  "category": "ML",
+  "posted": "2026-09-10",
+  "date_posted": 1789002250,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "zoox|data analyst hrs wk",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:43339d05-bf89-462e-9cbd-fb089126366b",
+  "first_seen": 1792475283,
+  "company": "Tesla",
+  "title": "Data Statistician",
+  "location": "Fremont, CA",
+  "url": "https://www.tesla.com/careers/search/job/282286",
+  "category": "ML",
+  "posted": "2026-09-09",
+  "date_posted": 1788993336,
+  "active": true,
+  "locations": [
+   "Fremont, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tesla|data statistician",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:7458ceb8-c0db-44e7-ae5e-41fb157b2104",
+  "first_seen": 1792475283,
+  "company": "Two Sigma",
+  "title": "Software Engineer",
+  "location": "Houston, TX",
+  "url": "https://twosigma.avature.net/careers/JobDetail/14018",
+  "category": "SWE",
+  "posted": "2026-09-08",
+  "date_posted": 1788906536,
+  "active": true,
+  "locations": [
+   "Houston, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "two sigma|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:281fb399-0f01-46dc-9b50-d761b69e53ab",
+  "first_seen": 1792475283,
+  "company": "Two Sigma",
+  "title": "Software Engineer",
+  "location": "NYC",
+  "url": "https://twosigma.avature.net/careers/JobDetail/14014",
+  "category": "SWE",
+  "posted": "2026-09-08",
+  "date_posted": 1788906534,
+  "active": true,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "two sigma|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:4c2c8e7d-cddf-48d9-b0cc-075ea6d1d6ff",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Data Engineer Graduate",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7681779180341709109",
+  "category": "ML",
+  "posted": "2026-09-07",
+  "date_posted": 1788769693,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|data engineer graduate",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:334c123e-435a-4a0f-898f-671610d593e3",
+  "first_seen": 1792475283,
+  "company": "Scale AI",
+  "title": "Software Engineer New Grad",
+  "location": "SF",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+  "category": "SWE",
+  "posted": "2026-09-04",
+  "date_posted": 1788561090,
+  "active": true,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "scale ai|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:03bcc190-297d-4f25-b85d-749b57da6016",
+  "first_seen": 1792475283,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Annapolis Junction, MD, Redmond, WA, Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+  "category": "SWE",
+  "posted": "2026-09-04",
+  "date_posted": 1788560182,
+  "active": true,
+  "locations": [
+   "Annapolis Junction, MD",
+   "Redmond, WA",
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:513e6d2f-18b8-4296-b39d-cd4c8b148b9b",
+  "first_seen": 1792475283,
+  "company": "DoorDash",
+  "title": "Software Engineer 1 - Entry-Level",
+  "location": "Seattle, WA, SF, LA",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
+  "category": "SWE",
+  "posted": "2026-09-04",
+  "date_posted": 1788533669,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "LA",
+   "NYC",
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "doordash|software engineer 1 entry level",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e397fcdb-4f0f-4c0e-96da-d776fd907956",
+  "first_seen": 1792475283,
+  "company": "Wintermute",
+  "title": "Algorithmic Trader",
+  "location": "London, UK, NYC",
+  "url": "https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply",
+  "category": "Quant",
+  "posted": "2026-09-03",
+  "date_posted": 1788452166,
+  "active": true,
+  "locations": [
+   "London, UK",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "wintermute|algorithmic trader",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:988e5175-a56f-4c3a-b1d9-3a643a63a503",
+  "first_seen": 1792475283,
+  "company": "Applied Intuition",
+  "title": "Forward Deployed Engineer New Grad",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-09-03",
+  "date_posted": 1788407677,
+  "active": true,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "applied intuition|forward deployed engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:551ab6e9-715d-4111-9de9-e888a5dd2718",
+  "first_seen": 1792475283,
+  "company": "Anduril",
+  "title": "Early Career Flight Software Engineer",
+  "location": "Costa Mesa, CA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
+  "category": "HW",
+  "posted": "2026-09-03",
+  "date_posted": 1788402460,
+  "active": true,
+  "locations": [
+   "Costa Mesa, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|early career flight software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:85dead42-3a0f-4fce-9c5d-2fbf16a36e75",
+  "first_seen": 1792475283,
+  "company": "Apple",
+  "title": "Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.apple.com/en-us/details/200681316",
+  "category": "HW",
+  "posted": "2026-09-01",
+  "date_posted": 1788302614,
+  "active": true,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|cellular layer 1 control software development engineer wireless technologies ecosystems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:2aaa1a15-920f-4253-b75b-54b3cb438dbe",
+  "first_seen": 1792475283,
+  "company": "Wintermute",
+  "title": "Graduate Algorithmic Trader",
+  "location": "NYC",
+  "url": "https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44/apply",
+  "category": "Quant",
+  "posted": "2026-09-01",
+  "date_posted": 1788283928,
+  "active": true,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "wintermute|graduate algorithmic trader",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8b0c8a04-8a4d-4675-8ea4-401a27ae962f",
+  "first_seen": 1792475283,
+  "company": "Stripe",
+  "title": "Software Engineer New Grad",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "category": "SWE",
+  "posted": "2026-09-01",
+  "date_posted": 1788254091,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "stripe|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:bcf0ebb5-fa28-4ab5-94e0-888b2793c7e6",
+  "first_seen": 1792475283,
+  "company": "Anduril",
+  "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+  "location": "Washington, DC",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226473007",
+  "category": "SWE",
+  "posted": "2026-09-01",
+  "date_posted": 1788238641,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "anduril|mission software engineer undersea reconnaissance strike",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:fde7a562-b1ef-4e1a-b87e-4ec14e137f58",
+  "first_seen": 1792475283,
+  "company": "Anduril",
+  "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+  "location": "Boston, MA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226471007",
+  "category": "SWE",
+  "posted": "2026-09-01",
+  "date_posted": 1788238641,
+  "active": true,
+  "locations": [
+   "Boston, MA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "anduril|mission software engineer undersea reconnaissance strike",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:44e52bc7-ab61-4213-82c0-900b7ded7a15",
+  "first_seen": 1792475283,
+  "company": "Amazon",
+  "title": "Robotics System Development Engineer",
+  "location": "Austin, TX",
+  "url": "https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer",
+  "category": "SWE",
+  "posted": "2026-09-01",
+  "date_posted": 1788224661,
+  "active": true,
+  "locations": [
+   "Austin, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|robotics system development engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:924a8e94-4f3a-475e-93ea-e8208d857766",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7679156878833682693",
+  "category": "ML",
+  "posted": "2026-08-29",
+  "date_posted": 1787963507,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce knowledge graph",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:bd50ff7c-e21f-427c-87ad-4a45b42e134c",
+  "first_seen": 1792475283,
+  "company": "IMC Trading",
+  "title": "Performance Engineer",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823836101",
+  "category": "SWE",
+  "posted": "2026-08-27",
+  "date_posted": 1787869651,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "imc trading|performance engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:1f2e1b58-5b27-4f5a-8096-df61f24a3aaf",
+  "first_seen": 1792475283,
+  "company": "Apple",
+  "title": "CAD Automation and Mixed-Signal Simulation Engineer",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.apple.com/en-us/details/200680375",
+  "category": "SWE",
+  "posted": "2026-08-27",
+  "date_posted": 1787869189,
+  "active": true,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|cad automation and mixed signal simulation engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:6832fd60-4dd3-44e2-a1a5-1e80106a41a1",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Video",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7678145401619237173",
+  "category": "ML",
+  "posted": "2026-08-27",
+  "date_posted": 1787790979,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce recommendation video",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b9818860-8ae5-4d0d-85c4-fa881f59838a",
+  "first_seen": 1792475283,
+  "company": "Marshall Wace",
+  "title": "Quant Research - Quantitative Associate Programme",
+  "location": "London, UK, NYC",
+  "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002",
+  "category": "Quant",
+  "posted": "2026-08-26",
+  "date_posted": 1787752837,
+  "active": true,
+  "locations": [
+   "London, UK",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "marshall wace|quant research quantitative associate programme",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f3037d73-79f8-4a62-8699-7aa72f598e50",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Data Engineer Graduate - Data Platform E-commerce",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7676253726624024837",
+  "category": "ML",
+  "posted": "2026-08-26",
+  "date_posted": 1787704449,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|data engineer graduate data platform e commerce",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:014a66bd-015e-44a4-9b1a-32d3b69c73ca",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Data Engineer Graduate - Data Platform Global Live",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7678120538997098805",
+  "category": "ML",
+  "posted": "2026-08-26",
+  "date_posted": 1787704445,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|data engineer graduate data platform global live",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:22286d2e-ab8f-421b-9e32-02038a5bffa4",
+  "first_seen": 1792475283,
+  "company": "The Voleon Group",
+  "title": "Software Engineer - University Hire 2027",
+  "location": "Berkeley, CA, NYC",
+  "url": "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-08-25",
+  "date_posted": 1787692907,
+  "active": true,
+  "locations": [
+   "Berkeley, CA",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "the voleon group|software engineer university hire 2027",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:ce9b5601-f631-40d5-93f2-c131bea80fdd",
+  "first_seen": 1792475283,
+  "company": "AQR Capital Management",
+  "title": "Trading Analyst",
+  "location": "Greenwich, CT",
+  "url": "https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709",
+  "category": "Quant",
+  "posted": "2026-08-25",
+  "date_posted": 1787682504,
+  "active": true,
+  "locations": [
+   "Greenwich, CT"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "aqr capital management|trading analyst",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:157b6bc2-6368-407f-9ba7-8af25443d0be",
+  "first_seen": 1792475283,
+  "company": "Anduril",
+  "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+  "location": "Quincy, MA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221253007",
+  "category": "SWE",
+  "posted": "2026-08-25",
+  "date_posted": 1787682237,
+  "active": true,
+  "locations": [
+   "Quincy, MA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "anduril|mission software engineer undersea reconnaissance strike",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:9ecb4578-6a8a-4f73-ac53-0651cbbd7167",
+  "first_seen": 1792475283,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Amazon Leo",
+  "location": "Redmond, WA, Northridge, LA",
+  "url": "https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026",
+  "category": "SWE",
+  "posted": "2026-08-25",
+  "date_posted": 1787617806,
+  "active": true,
+  "locations": [
+   "Redmond, WA",
+   "Northridge, LA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer amazon leo",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
+  "first_seen": 1792475283,
+  "company": "Susquehanna International Group",
+  "title": "Trading System Engineer New Grad",
+  "location": "Bala Cynwyd, PA",
+  "url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-08-21",
+  "date_posted": 1787333319,
+  "active": true,
+  "locations": [
+   "Bala Cynwyd, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|trading system engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:d96fafe9-2ce5-48db-8750-98e1d30c0c85",
+  "first_seen": 1792475283,
+  "company": "NVIDIA",
+  "title": "Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398",
+  "category": "ML",
+  "posted": "2026-08-21",
+  "date_posted": 1787270400,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|architecture energy modeling engineer power modeling methodology and analysis",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:5050a4ec-870d-44d2-894d-d2369c296564",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7675843332462872885",
+  "category": "ML",
+  "posted": "2026-08-20",
+  "date_posted": 1787190347,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:cbf7d7ce-dde5-4b9b-a5e3-9663654dbc2e",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Graduate Software Engineer - TikTok Search Data Infra",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7675829388634392837",
+  "category": "SWE",
+  "posted": "2026-08-20",
+  "date_posted": 1787190346,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|graduate software engineer tiktok search data infra",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c9dff2be-8f4e-4123-866d-9dac43703bd2",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7675844938504702213",
+  "category": "ML",
+  "posted": "2026-08-20",
+  "date_posted": 1787190346,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:03168c7d-a3ff-4da7-9e0a-378b83a7de04",
+  "first_seen": 1792475283,
+  "company": "Susquehanna International Group",
+  "title": "Quantitative Strategy Developer New Grad",
+  "location": "Bala Cynwyd, PA",
+  "url": "https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-08-19",
+  "date_posted": 1787177673,
+  "active": true,
+  "locations": [
+   "Bala Cynwyd, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|quantitative strategy developer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7675477660855781637/detail",
+  "category": "ML",
+  "posted": "2026-08-19",
+  "date_posted": 1787104955,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|machine learning engineer graduate e commerce risk control",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:173a8b63-ed46-4aa4-be9f-9519b5d3ebe2",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7675477254315428149/detail",
+  "category": "ML",
+  "posted": "2026-08-19",
+  "date_posted": 1787104954,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|machine learning engineer graduate e commerce risk control",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c54797bf-2ee6-4b31-a8dd-c4cdbb8e5254",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7673632479987992837/detail",
+  "category": "ML",
+  "posted": "2026-08-19",
+  "date_posted": 1787104954,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|multi cloud cdn data platform engineer graduate cdn platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:62751ae8-bd05-4fa8-8629-d50f034fcc04",
+  "first_seen": 1792475283,
+  "company": "Anduril",
+  "title": "Software Engineer - Tracking",
+  "location": "Fort Collins, CO, Broomfield, CO",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215629007",
+  "category": "SWE",
+  "posted": "2026-08-19",
+  "date_posted": 1787103087,
+  "active": true,
+  "locations": [
+   "Fort Collins, CO",
+   "Broomfield, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|software engineer tracking",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:20a58aca-229f-4e97-b6ae-6ffb0759e594",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Data Engineer Graduate - Data Platform - Global Live",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7675484418022181173",
+  "category": "ML",
+  "posted": "2026-08-19",
+  "date_posted": 1787102089,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|data engineer graduate data platform global live",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:4d762004-fbe7-46b2-bdcf-3c4e02d54b87",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Governance",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7674023327725373701",
+  "category": "ML",
+  "posted": "2026-08-17",
+  "date_posted": 1786972919,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce governance",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:a4647510-ce85-43c7-af8c-50d890fbd299",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Governance",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7674025781001062709",
+  "category": "ML",
+  "posted": "2026-08-17",
+  "date_posted": 1786972915,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce governance",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8b2ac290-4592-4349-9f0f-52381aae132f",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Data Scientist Graduate - Multimedia",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7673672141010815237",
+  "category": "ML",
+  "posted": "2026-08-15",
+  "date_posted": 1786754854,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|data scientist graduate multimedia",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:13e63ccc-9879-4a3a-a29a-f10688ec7ba6",
+  "first_seen": 1792475283,
+  "company": "Wolverine Trading",
+  "title": "Entry Level C++ Software Engineer",
+  "location": "Chicago, IL",
+  "url": "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq",
+  "category": "SWE",
+  "posted": "2026-08-15",
+  "date_posted": 1786754508,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "wolverine trading|entry level c software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:24b848e7-18bc-4eab-b684-9d352141cbdd",
+  "first_seen": 1792475283,
+  "company": "Wolverine Trading",
+  "title": "Entry Level C++ Software Engineer",
+  "location": "Chicago, IL",
+  "url": "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq",
+  "category": "SWE",
+  "posted": "2026-08-15",
+  "date_posted": 1786754507,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "wolverine trading|entry level c software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e5f41de9-f6f5-454c-b80a-c5df9b9e417a",
+  "first_seen": 1792475283,
+  "company": "Applied Intuition",
+  "title": "Research Engineer New Grad",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true",
+  "category": "ML",
+  "posted": "2026-08-15",
+  "date_posted": 1786754505,
+  "active": true,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "applied intuition|research engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:ee50e885-5709-43c5-adf1-bd280a6e8786",
+  "first_seen": 1792475283,
+  "company": "Applied Intuition",
+  "title": "Software Engineer New Grad - December 2026",
+  "location": "Ann Arbor, MI, Sunnyvale, CA",
+  "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-08-15",
+  "date_posted": 1786754505,
+  "active": true,
+  "locations": [
+   "Ann Arbor, MI",
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "applied intuition|software engineer new grad december 2026",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:549f3df3-0ef0-4157-8a32-ee4acfbb3080",
+  "first_seen": 1792475283,
+  "company": "Applied Intuition",
+  "title": "Software Integration Engineer New Grad",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true",
+  "category": "HW",
+  "posted": "2026-08-15",
+  "date_posted": 1786754505,
+  "active": true,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "applied intuition|software integration engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:880f2a36-5a43-4a08-ba33-5d4e5a77f266",
+  "first_seen": 1792475283,
+  "company": "Applied Intuition",
+  "title": "Embedded Software Engineer New Grad",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true",
+  "category": "HW",
+  "posted": "2026-08-15",
+  "date_posted": 1786754501,
+  "active": true,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "applied intuition|embedded software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:44cfae05-3432-4ad6-9b3d-a72958d87695",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Foundation Platform",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7673674252889246005",
+  "category": "SWE",
+  "posted": "2026-08-14",
+  "date_posted": 1786745334,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|software engineer graduate foundation platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:7378026f-0707-48bb-8570-ac926d5ca53f",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Ads Infra",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7673409179353139461",
+  "category": "SWE",
+  "posted": "2026-08-14",
+  "date_posted": 1786745320,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|software engineer graduate ads infra",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:87d1b39d-5c83-431c-9e1f-bc13469fde4b",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Video-on-Demand Algorithm",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7673674249270839557",
+  "category": "SWE",
+  "posted": "2026-08-14",
+  "date_posted": 1786745320,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|software engineer graduate video on demand algorithm",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f2855012-e2cd-499e-acf4-000f068e1489",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "LLM Post-Training Engineer Graduate - Research & Product",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7673672141012093189",
+  "category": "ML",
+  "posted": "2026-08-14",
+  "date_posted": 1786745318,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|llm post training engineer graduate research product",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:a69d666d-f9d3-4321-9a63-85962cfda0a2",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7673630747427719429/detail",
+  "category": "ML",
+  "posted": "2026-08-14",
+  "date_posted": 1786699874,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|multi cloud cdn data platform engineer graduate cdn platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:0acd3302-db9b-4fb1-9c06-35483b4569d3",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate - CDN Platform",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7673626856724023557/detail",
+  "category": "SWE",
+  "posted": "2026-08-14",
+  "date_posted": 1786699874,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|multi cloud cdn scheduling platform engineer graduate cdn platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:de4d23d6-ecc1-4aa2-9d2f-0d2113c4e5a5",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Multi-Cloud CDN Platform Engineer Graduate - CDN Platform",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7670355132899526965/detail",
+  "category": "SWE",
+  "posted": "2026-08-14",
+  "date_posted": 1786699870,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|multi cloud cdn platform engineer graduate cdn platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:47a11f8e-c096-4cad-ba59-7807a675d2c7",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Media Engine",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7673667938889009461",
+  "category": "SWE",
+  "posted": "2026-08-14",
+  "date_posted": 1786698611,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|software engineer graduate media engine",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:99d4157b-10cb-42d0-88ff-db290cc271f9",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Backend Software Engineer Graduate - Creation Platform",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7673669198965278981",
+  "category": "SWE",
+  "posted": "2026-08-14",
+  "date_posted": 1786698606,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|backend software engineer graduate creation platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
+  "first_seen": 1792475283,
+  "company": "WorldQuant",
+  "title": "Quantitative Developer - Portfolio Management Solutions",
+  "location": "Connecticut, NYC",
+  "url": "https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
+  "category": "Quant",
+  "posted": "2026-08-13",
+  "date_posted": 1786659311,
+  "active": true,
+  "locations": [
+   "Connecticut",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "worldquant|quantitative developer portfolio management solutions",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:823dc91a-f895-469a-b516-b3be2e1894e7",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Recommendation Infrastructure",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7673284715407886597",
+  "category": "SWE",
+  "posted": "2026-08-13",
+  "date_posted": 1786612220,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|software engineer graduate recommendation infrastructure",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:495ef837-6877-48bd-9606-a506661f9f5c",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Data Scientist Graduate - Multimedia",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670288355678177589",
+  "category": "ML",
+  "posted": "2026-08-13",
+  "date_posted": 1786612218,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|data scientist graduate multimedia",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8f0f4a4f-19f8-4ae3-8cb4-d69de28aefba",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Research Scientist Graduate - Seed AI Foundation Model Infrastructure",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7673268418623293749/detail",
+  "category": "ML",
+  "posted": "2026-08-13",
+  "date_posted": 1786584313,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|research scientist graduate seed ai foundation model infrastructure",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:ae31bcf5-3524-4c9f-8b9e-361d60f9fa17",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Backend Software Engineer New Grad - Creator Strategy",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7672976491146004741",
+  "category": "SWE",
+  "posted": "2026-08-13",
+  "date_posted": 1786583338,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|backend software engineer new grad creator strategy",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:82b0f083-f346-4f10-91bf-8d21a2b88675",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7672530785573980421",
+  "category": "SWE",
+  "posted": "2026-08-13",
+  "date_posted": 1786583315,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|software engineer graduate recommendation architecture feeds infrastructure",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:ffeca018-6c17-4e6a-8535-e22d9b7ae551",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7670355647603984693/detail",
+  "category": "ML",
+  "posted": "2026-08-12",
+  "date_posted": 1786574608,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|multi cloud cdn data platform engineer graduate cdn platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:2841155f-a6b5-417e-850c-c1fc194c2d3c",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Backend Software Engineer Graduate - Creation Platform",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670292836050422021",
+  "category": "SWE",
+  "posted": "2026-08-12",
+  "date_posted": 1786572523,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|backend software engineer graduate creation platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:fe0776af-83c2-4cf6-8991-f8436b19be7e",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Graduate Software Engineer - Media Engine",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670367152357673221",
+  "category": "SWE",
+  "posted": "2026-08-12",
+  "date_posted": 1786572513,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|graduate software engineer media engine",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b3b345f1-09df-4662-9599-550ea9653c34",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Large Language Model Post-training Engineer Graduate - Research & Product",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670285949976201477",
+  "category": "ML",
+  "posted": "2026-08-12",
+  "date_posted": 1786572509,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|large language model post training engineer graduate research product",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:ac849011-1197-4917-aa7b-e4870ced33fa",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Foundation Platform",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670276769459456309",
+  "category": "SWE",
+  "posted": "2026-08-12",
+  "date_posted": 1786572509,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|software engineer graduate foundation platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:6eee6f4b-bc6f-4aab-87e5-c10dbbfed41a",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Video-on-Demand Algorithm",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670282906426476853",
+  "category": "SWE",
+  "posted": "2026-08-12",
+  "date_posted": 1786572509,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|software engineer graduate video on demand algorithm",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:cbc9cae5-131c-4da5-9664-90601d74f6de",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Recommendation",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7672517471946000645",
+  "category": "SWE",
+  "posted": "2026-08-12",
+  "date_posted": 1786545323,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|software engineer graduate recommendation",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8676c704-b2ee-4643-8fbc-9ad19fa89fa4",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7672915427278457141",
+  "category": "ML",
+  "posted": "2026-08-12",
+  "date_posted": 1786545123,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce recommendation mall",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:4ec8e592-f297-479a-ab56-d80abf24fa27",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - TikTok Vertical Recommendation",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7672532275557583157",
+  "category": "ML",
+  "posted": "2026-08-12",
+  "date_posted": 1786545122,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate tiktok vertical recommendation",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:a09f224d-f684-4fb4-915b-6dbc5f486570",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7672911151560296709",
+  "category": "ML",
+  "posted": "2026-08-12",
+  "date_posted": 1786545121,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce recommendation mall",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b7fadd8a-1f88-4b03-9fa5-8befef1a3a26",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7672532801686571317",
+  "category": "SWE",
+  "posted": "2026-08-12",
+  "date_posted": 1786545102,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|backend engineer graduate tiktok vertical recommendation architecture 2027 start",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:d18e7a7d-54ff-4946-bca8-1bdb2a671a6f",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Big Data Engineer Graduate - TikTok Recommendation Architecture",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7672518398222387461",
+  "category": "ML",
+  "posted": "2026-08-12",
+  "date_posted": 1786545102,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|big data engineer graduate tiktok recommendation architecture",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:511e7c10-e092-4a5a-8187-fe5563536b99",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "AI Infrastructure Engineer Graduate - Recommendation & LLM",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7672654026594093317",
+  "category": "ML",
+  "posted": "2026-08-12",
+  "date_posted": 1786498242,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|ai infrastructure engineer graduate recommendation llm",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:408e20cf-c3dc-45af-b899-339fc8e2925a",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7672880386574338309",
+  "category": "ML",
+  "posted": "2026-08-12",
+  "date_posted": 1786498240,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce recommendation foundation",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:d97157b9-8f0c-4cfb-be47-a801be8548ae",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7672882500030138629",
+  "category": "ML",
+  "posted": "2026-08-12",
+  "date_posted": 1786498238,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce recommendation foundation",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:1bf4a67e-16ac-4465-bb86-b325834f6ac1",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7672391016194066693/detail",
+  "category": "ML",
+  "posted": "2026-08-11",
+  "date_posted": 1786468731,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|agent evaluation and evolution machine learning engineer graduate applied machine learning ark",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:3d753fc3-2bd4-4933-88e0-f2500926ed8b",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7672395094280063285/detail",
+  "category": "ML",
+  "posted": "2026-08-11",
+  "date_posted": 1786468730,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|data lake infrastructure data analytics research engineer graduate aml ark",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:73cef19e-ced7-497b-bf62-388cb64b1801",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7672392998189959429/detail",
+  "category": "ML",
+  "posted": "2026-08-11",
+  "date_posted": 1786468730,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|visual generation multimodal evaluation machine learning engineer graduate",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:6ecd2227-64fc-4d77-99bb-158081023302",
+  "first_seen": 1792475283,
+  "company": "Apple",
+  "title": "Frontend Engineer",
+  "location": "Austin, TX",
+  "url": "https://jobs.apple.com/en-us/details/200676168",
+  "category": "SWE",
+  "posted": "2026-08-10",
+  "date_posted": 1786400464,
+  "active": true,
+  "locations": [
+   "Austin, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|frontend engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b45813fe-2ef0-4d2a-8254-1b090c8f722f",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7671102043532462389/detail",
+  "category": "ML",
+  "posted": "2026-08-10",
+  "date_posted": 1786388391,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|visual generation multimodal evaluation machine learning engineer graduate applied machine learning ark",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:2edede57-7aef-4b3c-bf5a-75457e023318",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7671107540954777861/detail",
+  "category": "ML",
+  "posted": "2026-08-10",
+  "date_posted": 1786388382,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|data lake infrastructure data analytics research engineer graduate applied machine learning ark",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:983f8874-b9ed-43ca-9910-718e20bcac70",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Software Development Engineer Graduate - Intent-Based Networking",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7671145911004842245/detail",
+  "category": "SWE",
+  "posted": "2026-08-07",
+  "date_posted": 1786140955,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|software development engineer graduate intent based networking",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:9b0f8950-0501-4d6a-b6c6-0079f375db8f",
+  "first_seen": 1792475283,
+  "company": "Belvedere Trading",
+  "title": "Quantitative Trader",
+  "location": "Chicago, IL",
+  "url": "https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply",
+  "category": "Quant",
+  "posted": "2026-08-07",
+  "date_posted": 1786140656,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "belvedere trading|quantitative trader",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f4b05847-d015-43a2-b07f-482144c9580f",
+  "first_seen": 1792475283,
+  "company": "Belvedere Trading",
+  "title": "Software Engineer",
+  "location": "Chicago, IL",
+  "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply",
+  "category": "SWE",
+  "posted": "2026-08-07",
+  "date_posted": 1786140614,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "belvedere trading|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:d2423d18-b85e-42bc-91ad-3e14d9570554",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Recommendation Architecture AI/ML Infrastructure Engineer Graduate - Data-Arch-Tiktok Live",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670876337129425205",
+  "category": "ML",
+  "posted": "2026-08-07",
+  "date_posted": 1786112667,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|recommendation architecture ai ml infrastructure engineer graduate data arch tiktok live",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:37eb8005-8ed0-4c9c-9441-4833520687dc",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Large Language Model Inference System Engineer New Grad - Applied Machine Learning",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7667726338627356933/detail",
+  "category": "ML",
+  "posted": "2026-08-07",
+  "date_posted": 1786094696,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|large language model inference system engineer new grad applied machine learning",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e0c8a83a-ab36-4f9d-8587-275d4d7007db",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "LLM Backend Engineer Graduate - Applied Machine Learning",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7667730992538585349/detail",
+  "category": "ML",
+  "posted": "2026-08-07",
+  "date_posted": 1786094695,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|llm backend engineer graduate applied machine learning",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:4d438c3b-47f9-456f-af8e-c67ed0178519",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Machine Learning Engineer Graduate - Agent Evaluation & Evolution",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7670932427485186309/detail",
+  "category": "ML",
+  "posted": "2026-08-07",
+  "date_posted": 1786094690,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|machine learning engineer graduate agent evaluation evolution",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:74391b84-c863-477a-a54b-f52e947e9724",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Research Scientist Graduate - ML Recommendation Systems",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7670850283815160069/detail",
+  "category": "ML",
+  "posted": "2026-08-07",
+  "date_posted": 1786094688,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|research scientist graduate ml recommendation systems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f555debe-b0d3-424f-b231-329a6d2df96a",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Backend Software Engineer Graduate - Data Lifecycle Management",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670391173613160757",
+  "category": "SWE",
+  "posted": "2026-08-07",
+  "date_posted": 1786065503,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|backend software engineer graduate data lifecycle management",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:65374907-a79c-4477-928a-78fd06e99828",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Backend Software Engineer Graduate - Privacy and Security - Product",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670387719826786565",
+  "category": "SWE",
+  "posted": "2026-08-07",
+  "date_posted": 1786065502,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|backend software engineer graduate privacy and security product",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e4ec4b12-71e5-44a2-9874-b52d28e6006a",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "LLM/AI Operations Development Engineer Graduate - Data Center Networking",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7670773781477394741/detail",
+  "category": "ML",
+  "posted": "2026-08-07",
+  "date_posted": 1786065256,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|llm ai operations development engineer graduate data center networking",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:50e97511-4f52-43a6-985d-3fc9ce92d6bb",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Backend Inference Runtime Engineer New Grad - AML Inference",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7669789046777940229/detail",
+  "category": "SWE",
+  "posted": "2026-08-06",
+  "date_posted": 1785996826,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|backend inference runtime engineer new grad aml inference",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:5cb3ada5-c00c-41c3-b649-06b652453d46",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Machine Learning Backend Engineer Graduate - AML MLDev",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7669791940490168629/detail",
+  "category": "ML",
+  "posted": "2026-08-06",
+  "date_posted": 1785996825,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|machine learning backend engineer graduate aml mldev",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:ea9a3407-4535-40e5-900c-45b263afa69c",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Backend Inference Framework Engineer - AML Inference",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7669670735275526453/detail",
+  "category": "SWE",
+  "posted": "2026-08-06",
+  "date_posted": 1785996824,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|backend inference framework engineer aml inference",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:da8a18fa-889f-40b2-aed8-e47cf70f8f15",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7669859743775000885/detail",
+  "category": "SWE",
+  "posted": "2026-08-06",
+  "date_posted": 1785996824,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|graduate software engineer data intelligent creation ai platform global vision engineering",
+  "in_feed": true,
+  "reason": null
+ }
+]
