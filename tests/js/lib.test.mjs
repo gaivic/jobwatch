@@ -254,7 +254,8 @@ test("mostAdvancedStage", () => {
   assert.equal(buildView(ROLES.slice(0, 3), {t1: {s: "rejected"}, t2: {s: "applied"}}, {f: "all"}, NOW, opts).rows[0].stage, "applied");
   assert.equal(buildView(ROLES.slice(0, 3), {}, {f: "all"}, NOW, opts).rows[0].stage, "todo");
   assert.ok(STAGE_RANK.offer > STAGE_RANK.interview && STAGE_RANK.interview > STAGE_RANK.oa && STAGE_RANK.oa > STAGE_RANK.applied
-    && STAGE_RANK.applied > STAGE_RANK.rejected && STAGE_RANK.rejected > STAGE_RANK.seen && STAGE_RANK.seen > STAGE_RANK.dropped && STAGE_RANK.dropped > STAGE_RANK.todo);
+    && STAGE_RANK.applied > STAGE_RANK.queued && STAGE_RANK.queued > STAGE_RANK.rejected && STAGE_RANK.rejected > STAGE_RANK.seen
+    && STAGE_RANK.seen > STAGE_RANK.dropped && STAGE_RANK.dropped > STAGE_RANK.todo);
 });
 
 test("buildView_sorts", () => {
@@ -405,10 +406,17 @@ test("humanizeError_table", () => {
 test("constants", () => {
   assert.equal(typeof APP_VERSION, "number");
   assert.ok(Number.isInteger(APP_VERSION) && APP_VERSION >= 2);
-  assert.deepEqual([...STAGES], ["todo", "seen", "applied", "oa", "interview", "offer", "rejected", "dropped"]);
+  assert.deepEqual([...STAGES], ["todo", "seen", "queued", "applied", "oa", "interview", "offer", "rejected", "dropped"]);
   assert.deepEqual(CAT_ORDER, {Quant: 0, ML: 1, SWE: 2, HW: 3});
   assert.throws(() => { DEFAULT_CONFIG.deny.push("x"); }, "DEFAULT_CONFIG is frozen");
   assert.deepEqual(DEFAULT_CONFIG.regions, ["US", "TW"]);
   assert.equal(DEFAULT_CONFIG.telegram.quiet_hours, null);
   assert.ok(DEFAULT_CONFIG.title_exclude.includes("intern") && DEFAULT_CONFIG.title_exclude.includes("internship"));
+});
+
+test("queued_stage", () => {
+  assert.ok(STAGES.includes("queued"), "queued stage exists");
+  assert.ok(STAGE_RANK.queued < STAGE_RANK.applied, "queued ranks below applied");
+  assert.ok(STAGE_RANK.queued > STAGE_RANK.seen, "queued ranks above seen");
+  assert.equal(STAGE_RANK.queued, 3.5, "queued has rank 3.5");
 });
