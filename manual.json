@@ -1,1 +1,3417 @@
-[]
+[
+ {
+  "id": "manual:tn6yhmugz8zf",
+  "company": "3Red Partners",
+  "title": "Graduate C++ Developer (2027 Incoming Graduate)",
+  "url": "https://job-boards.greenhouse.io/3redpartners/jobs/8631086002",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmbyyvyk",
+  "company": "Abnormal AI",
+  "title": "Software Engineer 1 - Cloud Infrastructure",
+  "url": "https://job-boards.greenhouse.io/abnormalsecurity/jobs/8015179003",
+  "location": "Remote USA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792252800,
+  "active": true,
+  "manual": true,
+  "added": 1792252800,
+  "locations": [
+   "Remote USA"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmp8h81v",
+  "company": "Abridge",
+  "title": "Member of Technical Staff, Early Career",
+  "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application",
+  "location": "San Francisco",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmyyhu77",
+  "company": "Adobe",
+  "title": "2027 University Graduate - Software Engineer",
+  "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
+  "location": "San Jose",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790438400,
+  "active": true,
+  "manual": true,
+  "added": 1790438400,
+  "locations": [
+   "San Jose"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmdzjnkj",
+  "company": "Adobe",
+  "title": "2027 University Graduate - Machine Learning Engineer",
+  "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
+  "location": "San Jose",
+  "category": "ML",
+  "posted": "added by you",
+  "date_posted": 1790438400,
+  "active": true,
+  "manual": true,
+  "added": 1790438400,
+  "locations": [
+   "San Jose"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmo2uwrx",
+  "company": "Affirm",
+  "title": "Software Engineer, Early Career",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+  "location": "New York NY",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791302400,
+  "active": true,
+  "manual": true,
+  "added": 1791302400,
+  "locations": [
+   "New York NY"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmjk7pqu",
+  "company": "Affirm",
+  "title": "Software Engineer I (New Grad 2027) (SF)",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+  "location": "San Francisco CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791302400,
+  "active": true,
+  "manual": true,
+  "added": 1791302400,
+  "locations": [
+   "San Francisco CA"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmq8pc29",
+  "company": "Affirm",
+  "title": "Software Engineer I, Fullstack (Search)",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+  "location": "Remote US",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792166400,
+  "active": true,
+  "manual": true,
+  "added": 1792166400,
+  "locations": [
+   "Remote US"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm8xoeyk",
+  "company": "AiPrise",
+  "title": "Software Engineer I",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhm9y8dzv",
+  "company": "Akuna Capital",
+  "title": "Junior Quantitative Developer & Strategist",
+  "url": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
+  "location": "location N/A",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhmaafci4",
+  "company": "Akuna Capital",
+  "title": "Software Engineer Entry-Level Python",
+  "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmkrv74m",
+  "company": "Akuna Capital",
+  "title": "Software Engineer (Entry-Level) – C++",
+  "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmhwm865",
+  "company": "Ambral",
+  "title": "Member of Technical Staff (New Grad)",
+  "url": "https://jobs.ashbyhq.com/ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90/application",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmaoix61",
+  "company": "Amplitude",
+  "title": "Software Engineer I (Agent Analytics)",
+  "url": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be/application",
+  "location": "San Francisco CA hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791388800,
+  "active": true,
+  "manual": true,
+  "added": 1791388800,
+  "locations": [
+   "San Francisco CA hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmtf9ztt",
+  "company": "Applied Intuition",
+  "title": "Build & Release Engineer New Grad Dec 2026",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmse2nmt",
+  "company": "Applied Intuition",
+  "title": "Software Integration Engineer New Grad 2027",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmsi6svp",
+  "company": "Applied Intuition",
+  "title": "Cybersecurity SWE New Grad Dec 2027",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhm4ddgne",
+  "company": "Applied Intuition",
+  "title": "Software Engineer New Grad Dec 2026",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmuhcqim",
+  "company": "AppLovin",
+  "title": "ML Infrastructure Engineer",
+  "url": "",
+  "location": "location N/A",
+  "category": "ML",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600
+ },
+ {
+  "id": "manual:tn6yhm2m31wr",
+  "company": "Arc Institute",
+  "title": "Software Engineer, Lab Platform",
+  "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/6222737004",
+  "location": "Palo Alto CA onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791907200,
+  "active": true,
+  "manual": true,
+  "added": 1791907200,
+  "locations": [
+   "Palo Alto CA onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmhs2kjb",
+  "company": "Arch",
+  "title": "Software Engineer | Early Careers, 2027 Start",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788883200,
+  "active": true,
+  "manual": true,
+  "added": 1788883200
+ },
+ {
+  "id": "manual:tn6yhm8ki3ma",
+  "company": "Arch",
+  "title": "Operations Engineer | Early Careers, 2027 Start",
+  "url": "https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847/application",
+  "location": "NYC onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790352000,
+  "active": true,
+  "manual": true,
+  "added": 1790352000,
+  "locations": [
+   "NYC onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmh67pe5",
+  "company": "Astera Labs",
+  "title": "Applied AI NCG (Non Silicon)",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005",
+  "location": "San Jose CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791302400,
+  "active": true,
+  "manual": true,
+  "added": 1791302400,
+  "locations": [
+   "San Jose CA"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmok345x",
+  "company": "Astera Labs",
+  "title": "Platform Solutions Engineer NCG (CE)",
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731637005",
+  "location": "Cary/RTP NC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792080000,
+  "active": true,
+  "manual": true,
+  "added": 1792080000,
+  "locations": [
+   "Cary/RTP NC"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmo9j4lp",
+  "company": "Atoms",
+  "title": "Back-End Engineer - Fleet Management",
+  "url": "https://job-boards.greenhouse.io/atoms/jobs/8899479002",
+  "location": "San Francisco CA onsite 5d",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792425600,
+  "active": true,
+  "manual": true,
+  "added": 1792425600,
+  "locations": [
+   "San Francisco CA onsite 5d"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm1wzsh8",
+  "company": "Atoms",
+  "title": "Software Engineer - New Grad",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600
+ },
+ {
+  "id": "manual:tn6yhm38l9r9",
+  "company": "Authentic",
+  "title": "New Grad Software Engineer",
+  "url": "https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009",
+  "location": "New York NY onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790611200,
+  "active": true,
+  "manual": true,
+  "added": 1790611200,
+  "locations": [
+   "New York NY onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmx48k24",
+  "company": "Automat",
+  "title": "Software Engineer (Junior/Intermediate)",
+  "url": "https://jobs.ashbyhq.com/automat/a4172515-0353-47ec-9c71-631a294aa137/application",
+  "location": "San Francisco onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791129600,
+  "active": true,
+  "manual": true,
+  "added": 1791129600,
+  "locations": [
+   "San Francisco onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmgvzgl2",
+  "company": "AXQ Capital",
+  "title": "Quantitative Developer",
+  "url": "",
+  "location": "location N/A",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000
+ },
+ {
+  "id": "manual:tn6yhmruddnr",
+  "company": "Bertram Capital",
+  "title": "Forward Deployed AI Engineer",
+  "url": "https://job-boards.greenhouse.io/bertramcapitalmanagement/jobs/8789855002",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmzndcn2",
+  "company": "Bitdeer",
+  "title": "AI & Cloud Infra Software Engineer (Fresh Grad)",
+  "url": "https://bitdeer.breezy.hr/p/611f14be34db/apply",
+  "location": "Austin TX / Massillon OH / TN",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791129600,
+  "active": true,
+  "manual": true,
+  "added": 1791129600,
+  "locations": [
+   "Austin TX / Massillon OH / TN"
+  ]
+ },
+ {
+  "id": "manual:tn6yhma468g1",
+  "company": "Bitdeer",
+  "title": "SRE Monitoring Platform Software Engineer (Entry Level)",
+  "url": "https://bitdeer.breezy.hr/p/ed6314823d0c-sre-monitoring-platform-software-engineer-entry-level/apply",
+  "location": "Remote",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791129600,
+  "active": true,
+  "manual": true,
+  "added": 1791129600,
+  "locations": [
+   "Remote"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmt7duyd",
+  "company": "BlackEdge Capital",
+  "title": "Graduate Quantitative Developer",
+  "url": "",
+  "location": "Chicago",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1790092800,
+  "active": true,
+  "manual": true,
+  "added": 1790092800,
+  "locations": [
+   "Chicago"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmdziszl",
+  "company": "Bot Auto",
+  "title": "Planning & Control Engineer, Early Career",
+  "url": "https://job-boards.greenhouse.io/botauto/jobs/5441694008",
+  "location": "Houston TX onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790956800,
+  "active": true,
+  "manual": true,
+  "added": 1790956800,
+  "locations": [
+   "Houston TX onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmccnjjs",
+  "company": "Bot Auto",
+  "title": "Software Engineer, Core Platforms",
+  "url": "https://job-boards.greenhouse.io/botauto/jobs/5448119008",
+  "location": "Houston TX onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792252800,
+  "active": true,
+  "manual": true,
+  "added": 1792252800,
+  "locations": [
+   "Houston TX onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmx9uwuj",
+  "company": "Bot Auto",
+  "title": "Software Engineer, Security Engineering",
+  "url": "https://job-boards.greenhouse.io/botauto/jobs/5433415008",
+  "location": "Houston TX onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792425600,
+  "active": true,
+  "manual": true,
+  "added": 1792425600,
+  "locations": [
+   "Houston TX onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmcjbcbd",
+  "company": "C3 AI",
+  "title": "Platform Full-Stack Engineer, New Grad 2027",
+  "url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+  "location": "Redwood City CA onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "Redwood City CA onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmkcmtij",
+  "company": "C3 AI",
+  "title": "Forward Deployed Engineer, New Grad 2027",
+  "url": "https://c3.ai/job-description/8804558002?gh_jid=8804558002",
+  "location": "Redwood City CA onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "Redwood City CA onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmb29ku9",
+  "company": "C3 AI",
+  "title": "Associate SRE",
+  "url": "https://c3.ai/job-description/8879453002?gh_jid=8879453002",
+  "location": "Redwood City CA onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791907200,
+  "active": true,
+  "manual": true,
+  "added": 1791907200,
+  "locations": [
+   "Redwood City CA onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm4nngdq",
+  "company": "Cerebras",
+  "title": "CoDesign & NextGen - New College Grad",
+  "url": "https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhm3u4b88",
+  "company": "Cerebras",
+  "title": "AI Inference Core - Software Integration Engineer",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000
+ },
+ {
+  "id": "manual:tn6yhmg243yc",
+  "company": "Cherry Technologies",
+  "title": "Software Engineer, Entry-Level",
+  "url": "",
+  "location": "Remote USA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789833600,
+  "active": true,
+  "manual": true,
+  "added": 1789833600,
+  "locations": [
+   "Remote USA"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmrsu6tk",
+  "company": "Chicago Trading Company",
+  "title": "Associate Engineer - 2027 Start",
+  "url": "",
+  "location": "Chicago IL / New York NY",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790092800,
+  "active": true,
+  "manual": true,
+  "added": 1790092800,
+  "locations": [
+   "Chicago IL / New York NY"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmziklvt",
+  "company": "Chime",
+  "title": "Unknown role (Greenhouse 8606649002)",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789660800,
+  "active": true,
+  "manual": true,
+  "added": 1789660800
+ },
+ {
+  "id": "manual:tn6yhmxf1ftr",
+  "company": "Citadel",
+  "title": "Software Engineer – University Graduate (US)",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789488000,
+  "active": true,
+  "manual": true,
+  "added": 1789488000
+ },
+ {
+  "id": "manual:tn6yhmn9qos6",
+  "company": "Citadel Securities",
+  "title": "Quantitative Trader – University Graduate",
+  "url": "",
+  "location": "location N/A",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhmdgpday",
+  "company": "Clark",
+  "title": "Junior Software Engineer",
+  "url": "https://jobs.ashbyhq.com/clark/78fae57b-98da-46c2-be2e-11a1ca5bb5eb/application",
+  "location": "New York City",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "New York City"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm537h16",
+  "company": "Clay",
+  "title": "Early Career Software Engineer",
+  "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application",
+  "location": "New York hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790956800,
+  "active": true,
+  "manual": true,
+  "added": 1790956800,
+  "locations": [
+   "New York hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmftxs5e",
+  "company": "CLEAR",
+  "title": "Software Engineer, Infrastructure",
+  "url": "https://job-boards.greenhouse.io/clear/jobs/7901600",
+  "location": "New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "New York"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmkrkab1",
+  "company": "CLEAR",
+  "title": "Software Development Engineer I",
+  "url": "https://job-boards.greenhouse.io/clear/jobs/8241829",
+  "location": "Austin TX",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791993600,
+  "active": true,
+  "manual": true,
+  "added": 1791993600,
+  "locations": [
+   "Austin TX"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmmrrj3y",
+  "company": "Collinear AI",
+  "title": "MTS - Research",
+  "url": "https://jobs.ashbyhq.com/collinear-ai/4b21f4d6-519c-42c9-b721-e73bbc81b3ad/application",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhm9hjj7j",
+  "company": "Commure",
+  "title": "Software Engineer, Early Career 2027",
+  "url": "https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced/application",
+  "location": "Mountain View / Los Angeles",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "Mountain View / Los Angeles"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm1o5fs5",
+  "company": "Commure",
+  "title": "Software Engineer, Scribe AI",
+  "url": "https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application",
+  "location": "Mountain View",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790956800,
+  "active": true,
+  "manual": true,
+  "added": 1790956800,
+  "locations": [
+   "Mountain View"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm62q1pa",
+  "company": "Composio",
+  "title": "Forward Deployed Engineer (New Grad)",
+  "url": "",
+  "location": "SF onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789747200,
+  "active": true,
+  "manual": true,
+  "added": 1789747200,
+  "locations": [
+   "SF onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmep813i",
+  "company": "Composio",
+  "title": "Fullstack Engineer, Product Team (New Grad)",
+  "url": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application",
+  "location": "SF onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790265600,
+  "active": true,
+  "manual": true,
+  "added": 1790265600,
+  "locations": [
+   "SF onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmqn2dpg",
+  "company": "Constant Contact",
+  "title": "Software Engineering Development Program",
+  "url": "https://job-boards.greenhouse.io/constantcontact/jobs/8212432",
+  "location": "Waltham MA hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000,
+  "locations": [
+   "Waltham MA hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmsaucfm",
+  "company": "Coram AI",
+  "title": "Graduate Software Engineer",
+  "url": "",
+  "location": "Sunnyvale",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789574400,
+  "active": true,
+  "manual": true,
+  "added": 1789574400,
+  "locations": [
+   "Sunnyvale"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm7kpcyc",
+  "company": "Crusoe",
+  "title": "Software Engineer 1 Storage",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhm66pgos",
+  "company": "Cursor",
+  "title": "Software Engineer, New Grad 2027",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhmvbe3bw",
+  "company": "Cylake",
+  "title": "Software Engineer (2027 University Grad)",
+  "url": "",
+  "location": "Sunnyvale CA onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790006400,
+  "active": true,
+  "manual": true,
+  "added": 1790006400,
+  "locations": [
+   "Sunnyvale CA onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm3vd052",
+  "company": "D. E. Shaw",
+  "title": "Software Developer",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600
+ },
+ {
+  "id": "manual:tn6yhm7a2eoe",
+  "company": "D. E. Shaw",
+  "title": "Quant Systems: Systems Developer",
+  "url": "https://www.deshaw.com/careers/quant-systems-systems-developer-new-york-5739",
+  "location": "New York",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000,
+  "locations": [
+   "New York"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmg7bpwa",
+  "company": "Datacor",
+  "title": "Software Engineer",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791907200,
+  "active": true,
+  "manual": true,
+  "added": 1791907200
+ },
+ {
+  "id": "manual:tn6yhmgm7ovf",
+  "company": "Decagon",
+  "title": "Member of Technical Staff - New Grad (2027 Start)",
+  "url": "https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f/application",
+  "location": "San Francisco / New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "San Francisco / New York"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmppun59",
+  "company": "DeepFin Research",
+  "title": "Graduate Quantitative Developer",
+  "url": "https://job-boards.eu.greenhouse.io/deepfinresearch/jobs/4737473101",
+  "location": "New York",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "New York"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmv8qhbg",
+  "company": "DeepL",
+  "title": "Software Engineer | API",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789228800,
+  "active": true,
+  "manual": true,
+  "added": 1789228800
+ },
+ {
+  "id": "manual:tn6yhmbqxlej",
+  "company": "Dell Technologies",
+  "title": "Software Engineer 1 - IT (ITDP AI-Native) 298784",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmq0tpmt",
+  "company": "Domino Data Lab",
+  "title": "Forward Deployed Engineer - New Grad, 2027",
+  "url": "",
+  "location": "NYC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789315200,
+  "active": true,
+  "manual": true,
+  "added": 1789315200,
+  "locations": [
+   "NYC"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm7792o2",
+  "company": "DoorDash",
+  "title": "Unknown role (Greenhouse 8163709)",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789488000,
+  "active": true,
+  "manual": true,
+  "added": 1789488000
+ },
+ {
+  "id": "manual:tn6yhm0wobb3",
+  "company": "DRW",
+  "title": "Trade Systems Engineer",
+  "url": "https://job-boards.greenhouse.io/drweng/jobs/6821173",
+  "location": "Chicago",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000,
+  "locations": [
+   "Chicago"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmuaauwx",
+  "company": "DV Trading",
+  "title": "2027 Graduate Software Engineer (DV Commodities)",
+  "url": "",
+  "location": "New York onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790006400,
+  "active": true,
+  "manual": true,
+  "added": 1790006400,
+  "locations": [
+   "New York onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmv0hsdy",
+  "company": "Embedding VC / Lingopal",
+  "title": "AI Engineer (Early Career)",
+  "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmgwxmzl",
+  "company": "Emerald AI",
+  "title": "Member of Technical Staff - Backend/Distributed Systems",
+  "url": "https://jobs.ashbyhq.com/emerald-ai/ca65afd7-4b42-45ac-9e17-ea88f07240af/application",
+  "location": "Bay Area/Boston/DC hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790784000,
+  "active": true,
+  "manual": true,
+  "added": 1790784000,
+  "locations": [
+   "Bay Area/Boston/DC hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmufy426",
+  "company": "Endeavor AI",
+  "title": "Forward Deployed Engineer, Early Career",
+  "url": "https://jobs.ashbyhq.com/endeavorai/e397ddef-2102-40e5-82e8-cd1e126f9da8/application",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmbjzjce",
+  "company": "EvenUp",
+  "title": "Software Engineer (New Grad), AI Entities",
+  "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application",
+  "location": "San Francisco hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790870400,
+  "active": true,
+  "manual": true,
+  "added": 1790870400,
+  "locations": [
+   "San Francisco hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmozremh",
+  "company": "Pure Storage (Everpure)",
+  "title": "Software Engineer Grad 2027",
+  "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
+  "location": "Santa Clara CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791388800,
+  "active": true,
+  "manual": true,
+  "added": 1791388800,
+  "locations": [
+   "Santa Clara CA"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmvg88zj",
+  "company": "EvolutionIQ",
+  "title": "Associate Data Engineer (Python / AI Insurance SaaS)",
+  "url": "https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmvcj2k6",
+  "company": "Faros AI",
+  "title": "Software Engineer - New Grad",
+  "url": "",
+  "location": "San Mateo hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789747200,
+  "active": true,
+  "manual": true,
+  "added": 1789747200,
+  "locations": [
+   "San Mateo hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmxjmdh5",
+  "company": "Firetiger",
+  "title": "Product Engineer — New Grad",
+  "url": "",
+  "location": "SF onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789747200,
+  "active": true,
+  "manual": true,
+  "added": 1789747200,
+  "locations": [
+   "SF onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm4g72ix",
+  "company": "Fireworks AI",
+  "title": "Member of Technical Staff New Grad",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmg85n4h",
+  "company": "Foundation Health",
+  "title": "Software Engineer",
+  "url": "https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhm1n6wp4",
+  "company": "FurtherAI",
+  "title": "Forward Deployed Engineer",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000
+ },
+ {
+  "id": "manual:tn6yhmx1vh8l",
+  "company": "Glydways",
+  "title": "Software Engineer (Build Infrastructure)",
+  "url": "https://job-boards.greenhouse.io/glydways/jobs/5262378007",
+  "location": "Remote",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792339200,
+  "active": true,
+  "manual": true,
+  "added": 1792339200,
+  "locations": [
+   "Remote"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmm02qll",
+  "company": "Google",
+  "title": "Software Engineer Early Career",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhmtgwnp2",
+  "company": "Graphcore",
+  "title": "Graduate Firmware Engineer",
+  "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841995002",
+  "location": "Austin TX",
+  "category": "HW",
+  "posted": "added by you",
+  "date_posted": 1791993600,
+  "active": true,
+  "manual": true,
+  "added": 1791993600,
+  "locations": [
+   "Austin TX"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmio2gcu",
+  "company": "Greenboard",
+  "title": "Software Engineer (2027 Grads)",
+  "url": "",
+  "location": "NYC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789488000,
+  "active": true,
+  "manual": true,
+  "added": 1789488000,
+  "locations": [
+   "NYC"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmg43hpz",
+  "company": "Headlands Technologies",
+  "title": "C++ Software Developer, New Grad",
+  "url": "",
+  "location": "Chicago",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789660800,
+  "active": true,
+  "manual": true,
+  "added": 1789660800,
+  "locations": [
+   "Chicago"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm10rxtn",
+  "company": "Hipp Health",
+  "title": "Software Engineer - New Grad",
+  "url": "",
+  "location": "United States",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790006400,
+  "active": true,
+  "manual": true,
+  "added": 1790006400,
+  "locations": [
+   "United States"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmi0b1q8",
+  "company": "HP IQ",
+  "title": "Software Engineer, Tooling and Development Infrastructure",
+  "url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
+  "location": "San Francisco hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792252800,
+  "active": true,
+  "manual": true,
+  "added": 1792252800,
+  "locations": [
+   "San Francisco hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm44n4e4",
+  "company": "Hudson River Trading",
+  "title": "Algorithm Developer New Grad",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhma5qs1n",
+  "company": "ID.me",
+  "title": "Summer 2027- Software Development Engineer - New Grad",
+  "url": "",
+  "location": "Mountain View",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600,
+  "locations": [
+   "Mountain View"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmd9n2z1",
+  "company": "ID.me",
+  "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
+  "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+  "location": "Mountain View CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791302400,
+  "active": true,
+  "manual": true,
+  "added": 1791302400,
+  "locations": [
+   "Mountain View CA"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm86qv0q",
+  "company": "ID.me",
+  "title": "Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career)",
+  "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
+  "location": "Mountain View CA onsite 5d",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791820800,
+  "active": true,
+  "manual": true,
+  "added": 1791820800,
+  "locations": [
+   "Mountain View CA onsite 5d"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmzosyqr",
+  "company": "IMC",
+  "title": "Graduate Software Engineer Chicago",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhml9pz0l",
+  "company": "IMC",
+  "title": "Software Engineer Early Career Chicago",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhm3l0tnc",
+  "company": "impact.com",
+  "title": "Associate Software Engineer",
+  "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+  "location": "Santa Barbara CA hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791907200,
+  "active": true,
+  "manual": true,
+  "added": 1791907200,
+  "locations": [
+   "Santa Barbara CA hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm13aayl",
+  "company": "InstaLILY",
+  "title": "Software Engineer I, General",
+  "url": "",
+  "location": "NYC/SF",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789660800,
+  "active": true,
+  "manual": true,
+  "added": 1789660800,
+  "locations": [
+   "NYC/SF"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm646ab2",
+  "company": "InterSystems",
+  "title": "Core Development Program",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788883200,
+  "active": true,
+  "manual": true,
+  "added": 1788883200
+ },
+ {
+  "id": "manual:tn6yhmg7dr4g",
+  "company": "Intuit",
+  "title": "Software Engineer 1",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhmcck6bd",
+  "company": "Intuitive Surgical",
+  "title": "RISE Software Engineer",
+  "url": "",
+  "location": "Sunnyvale onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790179200,
+  "active": true,
+  "manual": true,
+  "added": 1790179200,
+  "locations": [
+   "Sunnyvale onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmczhlou",
+  "company": "IXL Learning",
+  "title": "Software Engineer, New Grad",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788883200,
+  "active": true,
+  "manual": true,
+  "added": 1788883200
+ },
+ {
+  "id": "manual:tn6yhmajgbfo",
+  "company": "IXL Learning",
+  "title": "Software Engineer, New Grad",
+  "url": "",
+  "location": "Raleigh",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789315200,
+  "active": true,
+  "manual": true,
+  "added": 1789315200,
+  "locations": [
+   "Raleigh"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmtuzbtb",
+  "company": "IXL Learning",
+  "title": "Software Engineer, New Grad",
+  "url": "",
+  "location": "San Mateo CA HQ onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791475200,
+  "active": true,
+  "manual": true,
+  "added": 1791475200,
+  "locations": [
+   "San Mateo CA HQ onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmtd6kbl",
+  "company": "IXL Learning",
+  "title": "Software Engineer, New Grad",
+  "url": "",
+  "location": "Raleigh NC HQ onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791561600,
+  "active": true,
+  "manual": true,
+  "added": 1791561600,
+  "locations": [
+   "Raleigh NC HQ onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm2qrehn",
+  "company": "Jane Street",
+  "title": "Software Engineer (NY)",
+  "url": "https://www.janestreet.com/join-jane-street/apply/4274288002?gh_jid=4274288002",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhm5427ww",
+  "company": "Jane Street",
+  "title": "IN FOCUS NYC Software Engineering",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789142400,
+  "active": true,
+  "manual": true,
+  "added": 1789142400
+ },
+ {
+  "id": "manual:tn6yhm2ukbxk",
+  "company": "Jane Street",
+  "title": "Software Engineer (New Grad)",
+  "url": "https://www.janestreet.com/join-jane-street/apply/8594541002/?gh_jid=8594541002",
+  "location": "NYC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000,
+  "locations": [
+   "NYC"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm7luepf",
+  "company": "Jane Street",
+  "title": "Linux Engineer (New Grad)",
+  "url": "https://www.janestreet.com/join-jane-street/apply/8635672002/?gh_jid=8635672002",
+  "location": "NYC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000,
+  "locations": [
+   "NYC"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmdl6w8b",
+  "company": "Jump Trading",
+  "title": "Campus AI Research Engineer (Full-Time)",
+  "url": "https://boards.greenhouse.io/jumptrading/jobs/8052313",
+  "location": "location N/A",
+  "category": "ML",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmtmh1iv",
+  "company": "Jump Trading",
+  "title": "Campus Systems Engineer (Full-Time)",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmirot38",
+  "company": "Jump Trading",
+  "title": "Campus AI Research Engineer – Deep Learning (Full-Time)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8052343",
+  "location": "location N/A",
+  "category": "ML",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhm23f9ke",
+  "company": "Jump Trading",
+  "title": "Campus Systems Engineer (London)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7215943",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789142400,
+  "active": true,
+  "manual": true,
+  "added": 1789142400
+ },
+ {
+  "id": "manual:tn6yhmmru53e",
+  "company": "Kikoff",
+  "title": "Software Engineer - Recent Grad",
+  "url": "",
+  "location": "San Francisco hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791561600,
+  "active": true,
+  "manual": true,
+  "added": 1791561600,
+  "locations": [
+   "San Francisco hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmpnia5b",
+  "company": "Klaviyo",
+  "title": "AI Engineer I",
+  "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmjj9zmu",
+  "company": "LangChain",
+  "title": "Deployed Engineer (Early Career-NYC)",
+  "url": "https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134/application",
+  "location": "New York NY onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791302400,
+  "active": true,
+  "manual": true,
+  "added": 1791302400,
+  "locations": [
+   "New York NY onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmkp48az",
+  "company": "Lassie",
+  "title": "Software Engineer, Growth",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600
+ },
+ {
+  "id": "manual:tn6yhmk0rjti",
+  "company": "LexisNexis Legal & Professional",
+  "title": "Aspire Tech Graduate Software Engineer I",
+  "url": "",
+  "location": "Raleigh NC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789574400,
+  "active": true,
+  "manual": true,
+  "added": 1789574400,
+  "locations": [
+   "Raleigh NC"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmd0gb7g",
+  "company": "LexisNexis Risk Solutions",
+  "title": "Tech Accelerate Graduate Program – Software Engineer (Alpharetta – June)",
+  "url": "",
+  "location": "Alpharetta GA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789660800,
+  "active": true,
+  "manual": true,
+  "added": 1789660800,
+  "locations": [
+   "Alpharetta GA"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmbg11jp",
+  "company": "LexisNexis Risk Solutions",
+  "title": "Software Engineer 1",
+  "url": "",
+  "location": "Alpharetta GA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789833600,
+  "active": true,
+  "manual": true,
+  "added": 1789833600,
+  "locations": [
+   "Alpharetta GA"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmqbi285",
+  "company": "LexisNexis Risk Solutions",
+  "title": "Tech Accelerate Graduate Program – Software Engineer (Boca Raton – June)",
+  "url": "",
+  "location": "Boca Raton FL",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789920000,
+  "active": true,
+  "manual": true,
+  "added": 1789920000,
+  "locations": [
+   "Boca Raton FL"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmljx12v",
+  "company": "Lightfield",
+  "title": "Software Engineer, Infrastructure (Early Career)",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhmob9y60",
+  "company": "Lightfield",
+  "title": "Software Engineer, Applied AI (Early Career)",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789142400,
+  "active": true,
+  "manual": true,
+  "added": 1789142400
+ },
+ {
+  "id": "manual:tn6yhmz4804b",
+  "company": "LiteLLM",
+  "title": "Forward Deployed Engineer (New Grad)",
+  "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application",
+  "location": "United States",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790870400,
+  "active": true,
+  "manual": true,
+  "added": 1790870400,
+  "locations": [
+   "United States"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmcm1ysi",
+  "company": "MAP / VML (WPP)",
+  "title": "Associate Data Engineer",
+  "url": "https://job-boards.greenhouse.io/map/jobs/8816124002",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmchlyk2",
+  "company": "Marshall Wace",
+  "title": "Quant Developer - Quant Associate Programme - 2027",
+  "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002",
+  "location": "New York",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1790611200,
+  "active": true,
+  "manual": true,
+  "added": 1790611200,
+  "locations": [
+   "New York"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmkzjujs",
+  "company": "Maven Securities",
+  "title": "Graduate Developer Programme Chicago 2027",
+  "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
+  "location": "Chicago",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "Chicago"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmezike5",
+  "company": "Maximor AI",
+  "title": "Software Engineer (New Grad)",
+  "url": "",
+  "location": "NYC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600,
+  "locations": [
+   "NYC"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmseohxd",
+  "company": "Mechanize",
+  "title": "Junior Software Engineer",
+  "url": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application",
+  "location": "San Francisco onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790265600,
+  "active": true,
+  "manual": true,
+  "added": 1790265600,
+  "locations": [
+   "San Francisco onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmrq9qze",
+  "company": "Meow",
+  "title": "Software Engineer - New graduate",
+  "url": "",
+  "location": "NYC onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789747200,
+  "active": true,
+  "manual": true,
+  "added": 1789747200,
+  "locations": [
+   "NYC onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm1woyax",
+  "company": "Meta",
+  "title": "Software Engineer, GenAI Frameworks",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789228800,
+  "active": true,
+  "manual": true,
+  "added": 1789228800
+ },
+ {
+  "id": "manual:tn6yhm83m6ny",
+  "company": "Micron",
+  "title": "New College Grad IT Software Support Engineer JR111038",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmvpyec2",
+  "company": "Mimecast",
+  "title": "Software Engineer I - Endpoint Sensor",
+  "url": "",
+  "location": "Minneapolis MN",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789574400,
+  "active": true,
+  "manual": true,
+  "added": 1789574400,
+  "locations": [
+   "Minneapolis MN"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm1z9urc",
+  "company": "MintMCP",
+  "title": "Software Engineer",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600
+ },
+ {
+  "id": "manual:tn6yhmst775n",
+  "company": "Miter",
+  "title": "Software Engineer (New Grad)",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600
+ },
+ {
+  "id": "manual:tn6yhmx0h5f0",
+  "company": "Mitratech",
+  "title": "Software Engineer I, AssureHire (Go)",
+  "url": "",
+  "location": "Remote US",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790006400,
+  "active": true,
+  "manual": true,
+  "added": 1790006400,
+  "locations": [
+   "Remote US"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm72zi61",
+  "company": "Netic",
+  "title": "Software Engineer Agent Platform NG",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmle1yce",
+  "company": "NewsBreak",
+  "title": "Software Engineer, ML Infra (Junior & New Grad)",
+  "url": "",
+  "location": "location N/A",
+  "category": "ML",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhm58lbqm",
+  "company": "NewsBreak",
+  "title": "NewsBreak Venture, AI Growth Intelligence Engineer (New Grad)",
+  "url": "",
+  "location": "Mountain View",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789315200,
+  "active": true,
+  "manual": true,
+  "added": 1789315200,
+  "locations": [
+   "Mountain View"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmhbh64c",
+  "company": "NewsBreak",
+  "title": "Applied AI Engineer, Advertising Agents (New Grad)",
+  "url": "",
+  "location": "Mountain View",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789315200,
+  "active": true,
+  "manual": true,
+  "added": 1789315200,
+  "locations": [
+   "Mountain View"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmhh3vqn",
+  "company": "Nextdoor",
+  "title": "Software Engineer – Fullstack",
+  "url": "https://about.nextdoor.com/careers-list/?gh_jid=8198186",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600
+ },
+ {
+  "id": "manual:tn6yhm93kvgn",
+  "company": "Nimble Robotics",
+  "title": "Robotics Software Engineer",
+  "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4371388009",
+  "location": "San Francisco CA onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792339200,
+  "active": true,
+  "manual": true,
+  "added": 1792339200,
+  "locations": [
+   "San Francisco CA onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmz67lip",
+  "company": "Nooks",
+  "title": "Software Engineer, New Grad",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789228800,
+  "active": true,
+  "manual": true,
+  "added": 1789228800
+ },
+ {
+  "id": "manual:tn6yhmt7zvou",
+  "company": "Notion",
+  "title": "Software Engineer New Grad Dec 2026",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhm3i6fwm",
+  "company": "Notion",
+  "title": "Software Engineer Early Career AI",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmutbhy4",
+  "company": "Notion",
+  "title": "Software Engineer Early Career",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmsgjtg8",
+  "company": "Nuance Labs",
+  "title": "Member of Technical Staff — Model Optimization and Inference (New Grad)",
+  "url": "https://job-boards.greenhouse.io/nuancelabs/jobs/4283935009",
+  "location": "location N/A",
+  "category": "ML",
+  "posted": "added by you",
+  "date_posted": 1790784000,
+  "active": true,
+  "manual": true,
+  "added": 1790784000
+ },
+ {
+  "id": "manual:tn6yhm0h1kyf",
+  "company": "Nuro",
+  "title": "Unknown role (Greenhouse 7895644)",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789660800,
+  "active": true,
+  "manual": true,
+  "added": 1789660800
+ },
+ {
+  "id": "manual:tn6yhmi826en",
+  "company": "Nuro",
+  "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+  "url": "https://nuro.ai/careersitem?gh_jid=8227399",
+  "location": "Mountain View hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790179200,
+  "active": true,
+  "manual": true,
+  "added": 1790179200,
+  "locations": [
+   "Mountain View hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm85ofil",
+  "company": "Nuro",
+  "title": "Software Engineer, AI Platform - New Grad",
+  "url": "https://www.nuro.ai/careersitem?gh_jid=7351066",
+  "location": "Mountain View hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790179200,
+  "active": true,
+  "manual": true,
+  "added": 1790179200,
+  "locations": [
+   "Mountain View hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmmbrxg1",
+  "company": "Nuro",
+  "title": "New Grad Software Engineer, Routing",
+  "url": "",
+  "location": "Mountain View CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000,
+  "locations": [
+   "Mountain View CA"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm4y7de5",
+  "company": "NVIDIA",
+  "title": "SWE Coding Agent Harness Eng NCG 2026",
+  "url": "",
+  "location": "Santa Clara",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789660800,
+  "active": true,
+  "manual": true,
+  "added": 1789660800,
+  "locations": [
+   "Santa Clara"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm0o460b",
+  "company": "NVIDIA",
+  "title": "Infra Tools",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791820800,
+  "active": true,
+  "manual": true,
+  "added": 1791820800
+ },
+ {
+  "id": "manual:tn6yhmfmb17r",
+  "company": "Old Mission",
+  "title": "Software Engineer 2027 Graduate Program Aug Start",
+  "url": "",
+  "location": "Chicago",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000,
+  "locations": [
+   "Chicago"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmldky1u",
+  "company": "Old Mission",
+  "title": "Junior Trading Operations/DevOps Engineer",
+  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7989374003",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmvawspa",
+  "company": "Optiver",
+  "title": "Graduate Software Engineer (2027 Start) Chicago",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmk6afor",
+  "company": "Optiver",
+  "title": "Graduate Software Engineer (2027 Start) Austin",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789228800,
+  "active": true,
+  "manual": true,
+  "added": 1789228800
+ },
+ {
+  "id": "manual:tn6yhm8b7ik8",
+  "company": "Optiver",
+  "title": "Graduate FPGA Engineer (2027 Start - Chicago)",
+  "url": "",
+  "location": "Chicago",
+  "category": "HW",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "Chicago"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmx6apf6",
+  "company": "Pangram Labs",
+  "title": "Machine Learning Engineer (Junior)",
+  "url": "https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d/application",
+  "location": "New York City",
+  "category": "ML",
+  "posted": "added by you",
+  "date_posted": 1791129600,
+  "active": true,
+  "manual": true,
+  "added": 1791129600,
+  "locations": [
+   "New York City"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm0zypbk",
+  "company": "Parallel Web Systems",
+  "title": "Early Career Research Engineer",
+  "url": "https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd/application",
+  "location": "Palo Alto onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790265600,
+  "active": true,
+  "manual": true,
+  "added": 1790265600,
+  "locations": [
+   "Palo Alto onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmmf8jxo",
+  "company": "Parasail",
+  "title": "Software Engineer, Forward Deploy -- New Graduate '27",
+  "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application",
+  "location": "San Mateo",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791043200,
+  "active": true,
+  "manual": true,
+  "added": 1791043200,
+  "locations": [
+   "San Mateo"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm6mw4l2",
+  "company": "PathAI",
+  "title": "Software Engineer I, Fullstack (backend-heavy)",
+  "url": "",
+  "location": "Boston hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791648000,
+  "active": true,
+  "manual": true,
+  "added": 1791648000,
+  "locations": [
+   "Boston hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmwt4dwv",
+  "company": "Perpay",
+  "title": "Software Engineer, New Grad",
+  "url": "",
+  "location": "Philadelphia PA onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789660800,
+  "active": true,
+  "manual": true,
+  "added": 1789660800,
+  "locations": [
+   "Philadelphia PA onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmg9o8gp",
+  "company": "Perplexity",
+  "title": "Member of Technical Staff (New Grad) - Columbia 2026-2027",
+  "url": "https://jobs.ashbyhq.com/Perplexity/c68c0973-f6b4-4eff-9746-e6e031f6e010/application",
+  "location": "San Francisco",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790438400,
+  "active": true,
+  "manual": true,
+  "added": 1790438400,
+  "locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmsndaqt",
+  "company": "Perseus Group",
+  "title": "Software Engineer I",
+  "url": "",
+  "location": "Sharon PA / Jacksonville FL",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789920000,
+  "active": true,
+  "manual": true,
+  "added": 1789920000,
+  "locations": [
+   "Sharon PA / Jacksonville FL"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmvvvr4n",
+  "company": "Pinterest",
+  "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
+  "url": "",
+  "location": "location N/A",
+  "category": "ML",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000
+ },
+ {
+  "id": "manual:tn6yhm2ovnai",
+  "company": "Pinterest",
+  "title": "University Grad Software Engineer 2027 (USA)",
+  "url": "https://job-boards.greenhouse.io/pinterest/jobs/7838591",
+  "location": "San Francisco CA / Remote US",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791302400,
+  "active": true,
+  "manual": true,
+  "added": 1791302400,
+  "locations": [
+   "San Francisco CA / Remote US"
+  ]
+ },
+ {
+  "id": "manual:tn6yhms2v5ws",
+  "company": "Plaid",
+  "title": "Software Engineer, Backend",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789488000,
+  "active": true,
+  "manual": true,
+  "added": 1789488000
+ },
+ {
+  "id": "manual:tn6yhm35umz9",
+  "company": "Plaid",
+  "title": "Software Engineer, Full Stack",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789488000,
+  "active": true,
+  "manual": true,
+  "added": 1789488000
+ },
+ {
+  "id": "manual:tn6yhmnivwje",
+  "company": "Point Digital Finance",
+  "title": "Associate Software Engineer",
+  "url": "https://point.com/careers/job/associate-software-engineer-8829278002",
+  "location": "Palo Alto onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790179200,
+  "active": true,
+  "manual": true,
+  "added": 1790179200,
+  "locations": [
+   "Palo Alto onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmjg4kev",
+  "company": "Point72 / Cubist",
+  "title": "2027 Cubist Quant Academy – Developers",
+  "url": "https://boards.greenhouse.io/point72/jobs/7598678002",
+  "location": "location N/A",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmbxq2k2",
+  "company": "Point72 / Cubist",
+  "title": "Quantitative Software Developer",
+  "url": "https://job-boards.greenhouse.io/point72/jobs/8036928002",
+  "location": "NYC",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000,
+  "locations": [
+   "NYC"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmqpovwt",
+  "company": "PROS",
+  "title": "Software Engineer I",
+  "url": "",
+  "location": "Houston TX",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789660800,
+  "active": true,
+  "manual": true,
+  "added": 1789660800,
+  "locations": [
+   "Houston TX"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmwkkdpc",
+  "company": "Quora",
+  "title": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
+  "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application",
+  "location": "Remote US",
+  "category": "ML",
+  "posted": "added by you",
+  "date_posted": 1790438400,
+  "active": true,
+  "manual": true,
+  "added": 1790438400,
+  "locations": [
+   "Remote US"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmvevnnf",
+  "company": "Radiant",
+  "title": "2027 New Graduate Software Engineer",
+  "url": "https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687/application",
+  "location": "El Segundo",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791043200,
+  "active": true,
+  "manual": true,
+  "added": 1791043200,
+  "locations": [
+   "El Segundo"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm8gjw6m",
+  "company": "Replit",
+  "title": "Software Engineer New Grad 2027",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789228800,
+  "active": true,
+  "manual": true,
+  "added": 1789228800
+ },
+ {
+  "id": "manual:tn6yhmun51is",
+  "company": "Retell AI",
+  "title": "Forward Deployed Engineer, New Grad",
+  "url": "",
+  "location": "Redwood City",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789574400,
+  "active": true,
+  "manual": true,
+  "added": 1789574400,
+  "locations": [
+   "Redwood City"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmm2k4m5",
+  "company": "Salesforce",
+  "title": "Software Engineering AMTS (College Grad) JR355250",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhmlvvgxc",
+  "company": "Scale AI",
+  "title": "Software Engineer New Grad",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792474906,
+  "active": true,
+  "manual": true,
+  "added": 1792474906
+ },
+ {
+  "id": "manual:tn6yhmmbwshm",
+  "company": "Schonfeld",
+  "title": "AI Engineer (Junior/Senior)",
+  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843962",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmxoe1a3",
+  "company": "Scopely",
+  "title": "Software Engineer, Machine Learning",
+  "url": "https://job-boards.greenhouse.io/scopely/jobs/5456049008",
+  "location": "San Francisco CA",
+  "category": "ML",
+  "posted": "added by you",
+  "date_posted": 1792425600,
+  "active": true,
+  "manual": true,
+  "added": 1792425600,
+  "locations": [
+   "San Francisco CA"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmb1fnpp",
+  "company": "SeatGeek",
+  "title": "Software Engineer - New Grad",
+  "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
+  "location": "New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790265600,
+  "active": true,
+  "manual": true,
+  "added": 1790265600,
+  "locations": [
+   "New York"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm9pp8rh",
+  "company": "Sentry",
+  "title": "Software Engineer, New Grad (2027)",
+  "url": "https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421/application",
+  "location": "San Francisco",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790438400,
+  "active": true,
+  "manual": true,
+  "added": 1790438400,
+  "locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmpo35br",
+  "company": "ServiceNow",
+  "title": "Software Engineer JB0075198",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhmaj94ln",
+  "company": "ServiceNow",
+  "title": "Assoc Applications Dev Engineer JB0074683",
+  "url": "",
+  "location": "Santa Clara",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600,
+  "locations": [
+   "Santa Clara"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmqi7xvz",
+  "company": "ServiceNow",
+  "title": "Data Platform Software Engineer JB0074968",
+  "url": "",
+  "location": "San Diego",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000,
+  "locations": [
+   "San Diego"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmsnn99k",
+  "company": "ServiceNow",
+  "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-",
+  "location": "Mountain View CA onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791129600,
+  "active": true,
+  "manual": true,
+  "added": 1791129600,
+  "locations": [
+   "Mountain View CA onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmq29qaq",
+  "company": "SimpliSafe",
+  "title": "Software Engineer I - User Systems",
+  "url": "",
+  "location": "Boston hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789488000,
+  "active": true,
+  "manual": true,
+  "added": 1789488000,
+  "locations": [
+   "Boston hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm7i99x0",
+  "company": "SimpliSafe",
+  "title": "Software Engineer I - Device Control",
+  "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+  "location": "Boston hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789920000,
+  "active": true,
+  "manual": true,
+  "added": 1789920000,
+  "locations": [
+   "Boston hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhma1w64r",
+  "company": "SingleStore",
+  "title": "Software Engineer–New Grad 2027",
+  "url": "",
+  "location": "Seattle",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789574400,
+  "active": true,
+  "manual": true,
+  "added": 1789574400,
+  "locations": [
+   "Seattle"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmbfbaho",
+  "company": "SingleStore",
+  "title": "Software Engineer–New Grad 2027",
+  "url": "",
+  "location": "SF",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789574400,
+  "active": true,
+  "manual": true,
+  "added": 1789574400,
+  "locations": [
+   "SF"
+  ]
+ },
+ {
+  "id": "manual:tn6yhma9vrzj",
+  "company": "SingleStore",
+  "title": "MIT-Software Engineer-New Grad |Helios|",
+  "url": "",
+  "location": "Seattle / United States",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790092800,
+  "active": true,
+  "manual": true,
+  "added": 1790092800,
+  "locations": [
+   "Seattle / United States"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm13i7bu",
+  "company": "SingleStore",
+  "title": "MIT-Software Engineer-New Grad |Engine|",
+  "url": "",
+  "location": "San Francisco / United States",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790092800,
+  "active": true,
+  "manual": true,
+  "added": 1790092800,
+  "locations": [
+   "San Francisco / United States"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmaigf7z",
+  "company": "SirenOpt",
+  "title": "Software Engineer (Early Career) – C++ & Systems",
+  "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792080000,
+  "active": true,
+  "manual": true,
+  "added": 1792080000
+ },
+ {
+  "id": "manual:tn6yhmba3uu8",
+  "company": "Squarepoint",
+  "title": "Junior SRE",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmh9cinj",
+  "company": "Squarepoint",
+  "title": "Trading Infrastructure Specialist Graduate Programme",
+  "url": "",
+  "location": "NYC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000,
+  "locations": [
+   "NYC"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm8jw0wb",
+  "company": "Squarepoint",
+  "title": "Graduate Trading Applications Specialist",
+  "url": "https://job-boards.greenhouse.io/squarepointcapital/jobs/6100081",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhms0kzkh",
+  "company": "Strada",
+  "title": "Software Engineer (New Grad)",
+  "url": "https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6/application",
+  "location": "SF onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "SF onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmfvckei",
+  "company": "Stripe",
+  "title": "Software Engineer New Grad",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhm1c7pmj",
+  "company": "Superhuman",
+  "title": "Software Engineer, Early Career",
+  "url": "",
+  "location": "SF/Seattle hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789488000,
+  "active": true,
+  "manual": true,
+  "added": 1789488000,
+  "locations": [
+   "SF/Seattle hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmv555mm",
+  "company": "Supernova Technology",
+  "title": "Junior Software Engineer",
+  "url": "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502/apply?jobBoardSlug=supernova-technology&jobId=7ea1a05c-b0e6-4f1a-b53c-193ce3d91502",
+  "location": "Chicago IL",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "Chicago IL"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmgzg66g",
+  "company": "Susquehanna (SIG)",
+  "title": "Trading System Engineer - New Grad",
+  "url": "https://careers-sig.icims.com/jobs/11349/job",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhmtxhr0g",
+  "company": "Sydecar",
+  "title": "Software Engineer 1, Platform",
+  "url": "https://jobs.ashbyhq.com/sydecar/79847304-2735-47ce-ae04-237c8957982a/application",
+  "location": "San Francisco / New York hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "San Francisco / New York hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm28sj08",
+  "company": "Talroo",
+  "title": "Associate Software Engineer",
+  "url": "https://boards.greenhouse.io/embed/job_app?for=talroo&token=1003689",
+  "location": "Austin TX onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790870400,
+  "active": true,
+  "manual": true,
+  "added": 1790870400,
+  "locations": [
+   "Austin TX onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm6hw8vt",
+  "company": "Tebra",
+  "title": "Unknown role (Greenhouse 4726985005)",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmjj9trd",
+  "company": "Teleskope",
+  "title": "Software Engineer",
+  "url": "https://jobs.ashbyhq.com/teleskope/f96084cd-766a-4791-95e4-2f4ffbadacc0/application",
+  "location": "New York NY hybrid FiDi",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791216000,
+  "active": true,
+  "manual": true,
+  "added": 1791216000,
+  "locations": [
+   "New York NY hybrid FiDi"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmw0texg",
+  "company": "Texas Sports Academy",
+  "title": "Junior AI Software Engineer (Austin, TX)",
+  "url": "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/",
+  "location": "Austin TX",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790784000,
+  "active": true,
+  "manual": true,
+  "added": 1790784000,
+  "locations": [
+   "Austin TX"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmrrjk1d",
+  "company": "Voleon",
+  "title": "Software Engineer - University Hire 2027",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmuf0fe3",
+  "company": "Together AI",
+  "title": "Software Engineer, New Grad (2027)",
+  "url": "",
+  "location": "San Francisco onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789833600,
+  "active": true,
+  "manual": true,
+  "added": 1789833600,
+  "locations": [
+   "San Francisco onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmz3rcy4",
+  "company": "Together AI",
+  "title": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering",
+  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5186628007",
+  "location": "San Francisco",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792166400,
+  "active": true,
+  "manual": true,
+  "added": 1792166400,
+  "locations": [
+   "San Francisco"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmse0wkn",
+  "company": "Tower Research Capital",
+  "title": "Quantitative Trader/Researcher - 2027",
+  "url": "",
+  "location": "location N/A",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1789142400,
+  "active": true,
+  "manual": true,
+  "added": 1789142400
+ },
+ {
+  "id": "manual:tn6yhm508clm",
+  "company": "Tower Research Capital",
+  "title": "Software Engineer, Trading Systems (C++)",
+  "url": "https://job-boards.greenhouse.io/towerresearchcapital/jobs/7985905",
+  "location": "New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "New York"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmprzv23",
+  "company": "TransMarket Group",
+  "title": "Junior Software Engineer",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhmwqouq8",
+  "company": "TransMarket Group",
+  "title": "Junior Data Engineer",
+  "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151492007",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789056000,
+  "active": true,
+  "manual": true,
+  "added": 1789056000
+ },
+ {
+  "id": "manual:tn6yhm61g8ic",
+  "company": "Trulioo",
+  "title": "Junior Software Engineer",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788883200,
+  "active": true,
+  "manual": true,
+  "added": 1788883200
+ },
+ {
+  "id": "manual:tn6yhmkk2fm3",
+  "company": "Trunk Tools",
+  "title": "Forward Deployed Engineer",
+  "url": "",
+  "location": "NYC HQ",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790524800,
+  "active": true,
+  "manual": true,
+  "added": 1790524800,
+  "locations": [
+   "NYC HQ"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm8q2x7y",
+  "company": "Twitch",
+  "title": "Software Engineer I, Commerce Engineering",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600
+ },
+ {
+  "id": "manual:tn6yhmdruqbj",
+  "company": "Two Sigma",
+  "title": "Software Engineering Full-Time Campus Hire NYC",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhm7kcmz8",
+  "company": "Two Sigma",
+  "title": "SWE Campus Hire London",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1791820800,
+  "active": true,
+  "manual": true,
+  "added": 1791820800
+ },
+ {
+  "id": "manual:tn6yhm83brvu",
+  "company": "Uare.ai",
+  "title": "Software Engineer (Early Career)",
+  "url": "",
+  "location": "Los Altos CA onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789833600,
+  "active": true,
+  "manual": true,
+  "added": 1789833600,
+  "locations": [
+   "Los Altos CA onsite"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmavkf00",
+  "company": "Valency",
+  "title": "Software Engineer (Full-stack)",
+  "url": "https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff/application",
+  "location": "Berkeley CA hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790611200,
+  "active": true,
+  "manual": true,
+  "added": 1790611200,
+  "locations": [
+   "Berkeley CA hybrid"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmddqegu",
+  "company": "Valon",
+  "title": "Software Engineer New Grad",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788883200,
+  "active": true,
+  "manual": true,
+  "added": 1788883200
+ },
+ {
+  "id": "manual:tn6yhmajhv51",
+  "company": "VAST Data",
+  "title": "Top Graduate Software Engineer - V-Force - New York",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792080000,
+  "active": true,
+  "manual": true,
+  "added": 1792080000
+ },
+ {
+  "id": "manual:tn6yhm1hqwit",
+  "company": "VAST Data",
+  "title": "Top Graduate Software Engineer - V-Force - RTP",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792080000,
+  "active": true,
+  "manual": true,
+  "added": 1792080000
+ },
+ {
+  "id": "manual:tn6yhmbre0w1",
+  "company": "Verkada",
+  "title": "Backend Engineer, Connectivity",
+  "url": "https://job-boards.greenhouse.io/verkada/jobs/5194598007",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmqwt8l7",
+  "company": "Voloridge Investment Management",
+  "title": "Quantitative Developer - 2026/2027 Grads",
+  "url": "",
+  "location": "Jupiter FL",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1790524800,
+  "active": true,
+  "manual": true,
+  "added": 1790524800,
+  "locations": [
+   "Jupiter FL"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmzjmd01",
+  "company": "Wealth.com",
+  "title": "Associate Software Engineer",
+  "url": "https://jobs.ashbyhq.com/wealth-com/30842daf-a487-4d21-abbc-452acb72518b/application",
+  "location": "Hybrid NYC/Tempe/SF",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790784000,
+  "active": true,
+  "manual": true,
+  "added": 1790784000,
+  "locations": [
+   "Hybrid NYC/Tempe/SF"
+  ]
+ },
+ {
+  "id": "manual:tn6yhm4z88ws",
+  "company": "Whatnot",
+  "title": "Software Engineer - Recent Grad / New Grad",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1789401600,
+  "active": true,
+  "manual": true,
+  "added": 1789401600
+ },
+ {
+  "id": "manual:tn6yhmlabcnx",
+  "company": "WorldQuant",
+  "title": "Quantitative Developer (Junior / Platform & Operations)",
+  "url": "https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
+  "location": "Old Greenwich/NYC",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600,
+  "locations": [
+   "Old Greenwich/NYC"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmmftj91",
+  "company": "Yext",
+  "title": "Software Engineer (Team Watson / search-retrieval)",
+  "url": "https://job-boards.greenhouse.io/yext/jobs/8224109",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790697600,
+  "active": true,
+  "manual": true,
+  "added": 1790697600
+ },
+ {
+  "id": "manual:tn6yhmg7mwi7",
+  "company": "Yext",
+  "title": "Software Engineer (Team Hedwig)",
+  "url": "https://job-boards.greenhouse.io/yext/jobs/8174875",
+  "location": "New York NY hybrid 3d",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792252800,
+  "active": true,
+  "manual": true,
+  "added": 1792252800,
+  "locations": [
+   "New York NY hybrid 3d"
+  ]
+ },
+ {
+  "id": "manual:tn6yhmffvsxk",
+  "company": "Zip",
+  "title": "Software Engineer, New Grad (2027 Start)",
+  "url": "",
+  "location": "location N/A",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1788969600,
+  "active": true,
+  "manual": true,
+  "added": 1788969600
+ },
+ {
+  "id": "manual:tn6yhmgcsu8w",
+  "company": "ZipRecruiter",
+  "title": "Software Engineer - New Grad",
+  "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108",
+  "location": "Santa Monica CA hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1790352000,
+  "active": true,
+  "manual": true,
+  "added": 1790352000,
+  "locations": [
+   "Santa Monica CA hybrid"
+  ]
+ }
+]
