@@ -9,6 +9,7 @@ interfaces that must not drift, and the routines (release, fixtures, tests) that
 jobwatch/
 ├── jobwatch.py                     bot, single file, sectioned (below); stdlib only
 ├── tools/backfill_marks.py         one-off, user-run: derive t/h for existing marks from git history
+├── tools/mark.py                   CLI for external bots: mark job status via GitHub API (no local checkout)
 ├── index.html                      tracker shell: <html data-app="N">, CSP meta, dialogs, static #list fallback text
 ├── assets/
 │   ├── lib.js                      PURE: APP_VERSION, STAGES, norm, groupKey, parseMarks, serializeMarks, mergeMarks,
@@ -56,7 +57,7 @@ and keep its signature and `(ok, err)` return; nothing else changes.
 | File | Writer(s) | Never written by |
 |---|---|---|
 | `roles.json`, `seen.json`, `meta.json`, `README.md` (generated sections) | bot | page |
-| `status.json` | page; `tools/backfill_marks.py` (the user runs it) | bot |
+| `status.json` | page; `tools/backfill_marks.py`; `tools/mark.py` (external bots) | bot |
 | `companies.json` | page; bot **only** seeds when the file is absent | bot when the file exists (even `[]`) |
 | `manual.json` | page | bot |
 | `config.json` | page (Settings) or hand | bot |
@@ -64,6 +65,81 @@ and keep its signature and `(ok, err)` return; nothing else changes.
 The workflow stages exactly `roles.json seen.json meta.json README.md` (+ `companies.json` only when the run log
 contains `::notice::seeded companies.json`). Disjoint write sets are why the bot's rebase never conflicts with a page
 commit.
+
+## `tools/mark.py` — CLI for external bots
+
+A dependency-free CLI that updates job status in `status.json` via the GitHub REST API. It works without a local
+checkout and coexists with the tracker page using conflict-retry logic.
+
+### Environment variables
+
+| Variable | Description |
+|---|---|
+| `JOBWATCH_GH_TOKEN` | GitHub fine-grained token with Contents: Read and write |
+| `JOBWATCH_REPO` | Repository as owner/repo (default: gaivic/jobwatch) |
+
+### Stage names (in progression order)
+
+```
+seen → queued → applied → oa → interview → offer
+                                         ↘ rejected
+      ↘ dropped
+```
+
+The `queued` stage represents jobs queued for application (user clicked "Apply" in the tracker's Daily view). An
+auto-apply bot polls for queued jobs, submits applications, then marks them `applied`.
+
+### Command examples
+
+```bash
+# Mark a job as applied by company + title
+python3 tools/mark.py applied --company "TikTok" --title "Software Engineer"
+
+# Mark with URL for disambiguation when multiple matches
+python3 tools/mark.py applied --company "Amazon" --title "SDE" --url "https://amazon.jobs/..."
+
+# Mark by exact job ID
+python3 tools/mark.py oa --id "simplify:abc123-def456"
+
+# Mark OA/interview/offer/rejected by company
+python3 tools/mark.py oa --company "Google"
+python3 tools/mark.py interview --company "Meta"
+python3 tools/mark.py offer --company "Apple"
+python3 tools/mark.py rejected --company "Netflix"
+
+# Add a new manual job and mark it applied (job not in roles.json)
+python3 tools/mark.py applied --company "Startup Inc" --title "Engineer" --add-manual
+
+# Find/list matching jobs without marking
+python3 tools/mark.py find --company "TikTok"
+
+# List all jobs in 'queued' stage (for auto-apply bot polling)
+python3 tools/mark.py list --stage queued
+
+# Dry run (show what would happen)
+python3 tools/mark.py applied --company "TikTok" --title "SDE" --dry-run
+
+# Force overwrite even if moving backward
+python3 tools/mark.py seen --id "simplify:abc" --force
+```
+
+### JSON output
+
+All commands produce JSON output for bot parsing:
+
+```json
+{
+  "success": true,
+  "action": "updated",
+  "job_id": "simplify:abc123",
+  "previous_stage": "queued",
+  "new_stage": "applied",
+  "sha": "abc123def..."
+}
+```
+
+The tool refuses to move a job backward (e.g., from `interview` to `applied`) unless `--force` is specified.
+Moving from `queued` to `applied` is forward progress.
 
 ## Exit codes (the workflow depends on them)
 
