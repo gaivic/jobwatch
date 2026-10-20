@@ -10,19 +10,19 @@
 export const APP_VERSION = 2;
 
 /** Pipeline stages in UI order. "todo" is the default and is never stored in status.json. */
-export const STAGES = Object.freeze(["todo", "seen", "applied", "oa", "interview", "offer", "rejected", "dropped"]);
+export const STAGES = Object.freeze(["todo", "seen", "queued", "applied", "oa", "interview", "offer", "rejected", "dropped"]);
 
 /** Human labels for `STAGES`. */
 export const STAGE_LABEL = Object.freeze({
-  todo: "To review", seen: "Seen", applied: "Applied", oa: "OA", interview: "Interviewing",
+  todo: "To review", seen: "Seen", queued: "Queued", applied: "Applied", oa: "OA", interview: "Interviewing",
   offer: "Offer", rejected: "Rejected", dropped: "Dismissed",
 });
 
-/** "Most advanced" ordering used for group rows: offer > interview > oa > applied > rejected > seen > dropped > todo. */
-export const STAGE_RANK = Object.freeze({offer: 7, interview: 6, oa: 5, applied: 4, rejected: 3, seen: 2, dropped: 1, todo: 0});
+/** "Most advanced" ordering used for group rows: offer > interview > oa > applied > queued > rejected > seen > dropped > todo. */
+export const STAGE_RANK = Object.freeze({offer: 7, interview: 6, oa: 5, applied: 4, queued: 3.5, rejected: 3, seen: 2, dropped: 1, todo: 0});
 
 /** Stages that exempt a role from the bot's 180-day prune (plus any star or note). Mirrors `config.keep_marks`. */
-export const KEEP_STAGES = Object.freeze(["applied", "oa", "interview", "offer", "rejected"]);
+export const KEEP_STAGES = Object.freeze(["queued", "applied", "oa", "interview", "offer", "rejected"]);
 
 /** Category display/sort order. `HW` (Hardware rescue) is new in v2 and sorts last. */
 export const CAT_ORDER = Object.freeze({Quant: 0, ML: 1, SWE: 2, HW: 3});
@@ -72,11 +72,11 @@ export const DEFAULT_CONFIG = deepFreeze({
 });
 
 const STORED_STAGES = new Set(STAGES.filter((s) => s !== "todo"));
-const PIPELINE_STAGES = ["offer", "interview", "oa", "applied"];
-const VIEWS = Object.freeze(["inbox", "new", "pipeline", "star", "all", "closed", "untracked",
-  "seen", "applied", "oa", "interview", "offer", "rejected", "dropped"]);
+const PIPELINE_STAGES = ["offer", "interview", "oa", "applied", "queued"];
+const VIEWS = Object.freeze(["inbox", "new", "daily", "pipeline", "star", "all", "closed", "untracked",
+  "seen", "queued", "applied", "oa", "interview", "offer", "rejected", "dropped"]);
 const SORTS = Object.freeze(["company", "newest", "oldest", "added", "updated", "closed"]);
-const VIEW_DEFAULT_SORT = {new: "added", pipeline: "updated", closed: "closed"};
+const VIEW_DEFAULT_SORT = {new: "added", daily: "added", pipeline: "updated", closed: "closed"};
 const HISTORY_CAP = 12;
 const TOMBSTONE_TTL_S = 60 * 86400;
 const NEW_FLOOR_S = 36 * 3600;
@@ -352,6 +352,7 @@ function inView(f, name, hideClosed) {
   switch (name) {
     case "inbox": return f.active && f.stage === "todo";
     case "new": return f.active && f.stage === "todo" && f.isNew;
+    case "daily": return f.active && f.stage === "todo";
     case "pipeline": return PIPELINE_STAGES.includes(f.stage);
     case "star": return f.star;
     case "all": return hideClosed ? f.active || f.hasMark : true;
@@ -421,7 +422,25 @@ function sectionize(rows, v) {
     const sections = partition(rows, (row) => row.stage, (row) => STAGE_LABEL[row.stage]);
     return sections.sort((a, b) => (STAGE_RANK[b.key] ?? 0) - (STAGE_RANK[a.key] ?? 0));
   }
+  if (v.f === "daily") {
+    const sections = partition(rows, (row) => dailyKey(row.added), (row) => dailyLabel(row.added, rows.filter((r) => dailyKey(r.added) === dailyKey(row.added)).reduce((n, r) => n + r.ids.length, 0)));
+    return sections.sort((a, b) => Number(b.key) - Number(a.key));
+  }
   return rows.length ? [{key: "", name: "", rows, count: rows.reduce((n, r) => n + r.ids.length, 0)}] : [];
+}
+
+function dailyKey(ts) {
+  if (!Number.isFinite(ts) || ts <= 0) return "0";
+  const d = new Date(ts * 1000);
+  return String(Math.floor(d.getTime() / 86400000));
+}
+
+function dailyLabel(ts, count) {
+  if (!Number.isFinite(ts) || ts <= 0) return "Unknown date";
+  const d = new Date(ts * 1000);
+  const m = d.getMonth() + 1;
+  const day = d.getDate();
+  return `${m}/${day} · ${count} new`;
 }
 
 function partition(rows, keyOf, nameOf) {

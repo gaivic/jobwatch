@@ -10,8 +10,8 @@ import {
 import {createSync} from "./sync.js?v=2";
 
 const VIEW_LABEL = Object.freeze({
-  inbox: "Inbox", new: "New", pipeline: "Pipeline", star: "Saved", all: "All", closed: "Closed", untracked: "Untracked",
-  seen: "Seen", applied: "Applied", oa: "OA", interview: "Interviewing", offer: "Offer", rejected: "Rejected", dropped: "Dismissed",
+  inbox: "Inbox", new: "New", daily: "Daily", pipeline: "Pipeline", star: "Saved", all: "All", closed: "Closed", untracked: "Untracked",
+  seen: "Seen", queued: "Queued", applied: "Applied", oa: "OA", interview: "Interviewing", offer: "Offer", rejected: "Rejected", dropped: "Dismissed",
 });
 const SORT_LABEL = Object.freeze({
   company: "By company", newest: "Newest posting", oldest: "Oldest posting", added: "Recently added",
@@ -20,8 +20,8 @@ const SORT_LABEL = Object.freeze({
 const WHY_LABEL = Object.freeze({
   phd: "PhD-only", title: "title", region: "region", category: "category", sponsorship: "sponsorship", company: "company removed",
 });
-const QUICK_VIEWS = new Set(["inbox", "new"]);
-const PIPELINE = new Set(["applied", "oa", "interview", "offer"]);
+const QUICK_VIEWS = new Set(["inbox", "new", "daily"]);
+const PIPELINE = new Set(["queued", "applied", "oa", "interview", "offer"]);
 const CATS = ["SWE", "ML", "Quant", "HW"];
 const KEYS = Object.freeze({ui: "jobwatch.ui.v1", lastVisit: "jobwatch.lastVisit", trash: "jobwatch.trash.v1", repo: "jobwatch.gh.repo"});
 const NOTE_IDLE_MS = 2000;
@@ -516,7 +516,7 @@ function expandedHtml(row, v, gid) {
 }
 
 function askVerb(stage) {
-  return {applied: "apply to", oa: "get the OA for", interview: "interview for", offer: "get the offer for", rejected: "get rejected from", seen: "see", dropped: "dismiss", todo: "return to review"}[stage] || "mean";
+  return {queued: "queue for application", applied: "apply to", oa: "get the OA for", interview: "interview for", offer: "get the offer for", rejected: "get rejected from", seen: "see", dropped: "dismiss", todo: "return to review"}[stage] || "mean";
 }
 
 function memberRowHtml(m, v, ask) {
@@ -533,6 +533,11 @@ function memberRowHtml(m, v, ask) {
 function controlsHtml(row, member, v, name) {
   const stage = member ? member.stage : row.stage;
   if (QUICK_VIEWS.has(v.f) && stage === "todo") {
+    if (v.f === "daily") {
+      return `<div class="quick" data-part="quick">
+        <button class="qbtn applied" data-act="stage" data-s="queued" aria-label="Queue ${esc(name)} for application">Apply</button>
+        <button class="qbtn dismiss" data-act="stage" data-s="dropped" aria-label="Skip ${esc(name)}">Skip</button></div>`;
+    }
     return `<div class="quick" data-part="quick">
       <button class="qbtn seen" data-act="stage" data-s="seen" aria-label="Mark ${esc(name)} as Seen">Seen</button>
       <button class="qbtn applied" data-act="stage" data-s="applied" aria-label="Mark ${esc(name)} as Applied">Applied</button>
@@ -553,7 +558,8 @@ function emptyHtml(vb) {
   switch (v.f) {
     case "inbox": return box("Inbox zero.", `Nothing left to review — next scan ${esc(nextScanText())}.`);
     case "new": return box(state.lastVisitPrev ? `Nothing new since your last visit (${esc(fmtLocal(state.lastVisitPrev))}).` : "Nothing new yet.", "New roles appear here for 36 hours after the bot finds them.");
-    case "pipeline": return box("No applications in flight.", "Mark a role Applied and it shows up here with its date.");
+    case "daily": return box("All caught up.", "Jobs to review will appear here grouped by the date they were added.");
+    case "pipeline": return box("No applications in flight.", "Mark a role Queued or Applied and it shows up here with its date.");
     case "star": return box("No saved roles.", "Tap the star to save one.");
     case "all": return box(state.roles.length ? "Nothing here yet." : "No roles yet — run the workflow once from the Actions tab.");
     case "closed": case "untracked": return box("Nothing here yet.");
