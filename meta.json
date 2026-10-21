@@ -4,31 +4,31 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1792497032,
- "last_change": 1792497032,
+ "last_run": 1792543267,
+ "last_change": 1792543267,
  "last_result": "ok",
  "feed": {
-  "records": 19270,
-  "active": 2999,
-  "fetched_at": 1792497032,
+  "records": 19308,
+  "active": 3029,
+  "fetched_at": 1792543267,
   "attempts": 1
  },
  "counts": {
-  "active": 167,
+  "active": 172,
   "closed": 2,
   "untracked": 0,
-  "groups": 139,
-  "companies": 42,
+  "groups": 142,
+  "companies": 43,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 119,
+  "category": 121,
   "phd": 178,
   "title": 19,
-  "region": 41,
+  "region": 40,
   "sponsorship": 0,
   "age": 155
  },
@@ -102,8 +102,8 @@
    "denied": 0
   },
   "aqr": {
-   "active": 1,
-   "all_time": 1,
+   "active": 2,
+   "all_time": 2,
    "names": [
     "AQR Capital Management"
    ],
@@ -532,8 +532,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 8,
-   "all_time": 10,
+   "active": 11,
+   "all_time": 13,
    "names": [
     "Microsoft"
    ],
@@ -726,9 +726,11 @@
    "denied": 0
   },
   "sambanova": {
-   "active": 0,
-   "all_time": 0,
-   "names": [],
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "SambaNova Systems"
+   ],
    "denied": 0
   },
   "scale ai": {

@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_167 open new-grad roles at 42 companies · list last changed 2026-10-20 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Microsoft 8 · Amazon 7 · Anduril 7 · Apple 7 · NVIDIA 7 · Applied Intuition 5 · …
+_172 open new-grad roles at 43 companies · list last changed 2026-10-21 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Microsoft 11 · Amazon 7 · Anduril 7 · Apple 7 · NVIDIA 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -272,10 +272,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (8)</summary>
+<summary>Microsoft (11)</summary>
 
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039399) · [2](https://apply.careers.microsoft.com/careers/job/1970393557043616) · [3](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [4](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [6](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [7](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-20 · SWE · BS/MS
+- [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
 - [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027406) · [2](https://apply.careers.microsoft.com/careers/job/1970393557004814) — Redmond, WA · posted 2026-10-16 · SWE · BS/MS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [2](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [3](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [5](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-15 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
 
 </details>
@@ -368,6 +369,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>AQR Capital Management (2)</summary>
+
+- [Software Engineer](https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812) — Greenwich, CT · posted 2026-10-20 · SWE · BS/MS
+- [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) — Greenwich, CT · posted 2026-08-25 · Quant · BS/MS
+
+</details>
+<details open>
 <summary>Belvedere Trading (2)</summary>
 
 - [Quantitative Trader](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply) — Chicago, IL · posted 2026-08-07 · Quant
@@ -440,12 +448,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>AQR Capital Management (1)</summary>
-
-- [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) — Greenwich, CT · posted 2026-08-25 · Quant · BS/MS
-
-</details>
-<details open>
 <summary>Cerebras (1)</summary>
 
 - [Software Engineer - Kernel Reliability](https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true) — Canada, United States · posted 2026-09-15 · SWE
@@ -515,6 +517,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Palantir (1)</summary>
 
 - [Software Engineer New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply) — NYC · posted 2026-10-20 · SWE · BS/MS/PhD
+
+</details>
+<details open>
+<summary>SambaNova Systems (1)</summary>
+
+- [AI Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) — Austin, TX, San Jose, CA · posted 2026-10-20 · ML · BS/MS/PhD
 
 </details>
 <details open>
