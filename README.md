@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_171 open new-grad roles at 43 companies · list last changed 2026-10-21 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Microsoft 11 · Amazon 8 · Anduril 7 · Apple 7 · NVIDIA 6 · Applied Intuition 5 · …
+_170 open new-grad roles at 43 companies · list last changed 2026-10-21 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Microsoft 10 · Amazon 8 · Anduril 7 · Apple 7 · NVIDIA 6 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -272,9 +272,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (11)</summary>
+<summary>Microsoft (10)</summary>
 
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039399) · [2](https://apply.careers.microsoft.com/careers/job/1970393557043616) · [3](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [4](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [6](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [7](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-20 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039399) · [2](https://apply.careers.microsoft.com/careers/job/1970393557043616) · [3](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [4](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [5](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [6](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-20 · SWE · BS/MS
 - [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
 - [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027406) · [2](https://apply.careers.microsoft.com/careers/job/1970393557004814) — Redmond, WA · posted 2026-10-16 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
