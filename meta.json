@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1792590975,
- "last_change": 1792590975,
+ "last_run": 1792625196,
+ "last_change": 1792625196,
  "last_result": "ok",
  "feed": {
-  "records": 19307,
-  "active": 3003,
-  "fetched_at": 1792590975,
+  "records": 19341,
+  "active": 3022,
+  "fetched_at": 1792625196,
   "attempts": 1
  },
  "counts": {
-  "active": 170,
+  "active": 171,
   "closed": 6,
   "untracked": 0,
-  "groups": 141,
+  "groups": 142,
   "companies": 43,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 122,
-  "phd": 178,
-  "title": 19,
-  "region": 41,
+  "category": 125,
+  "phd": 174,
+  "title": 18,
+  "region": 38,
   "sponsorship": 0,
-  "age": 154
+  "age": 149
  },
  "keywords": {
   "adobe": {
@@ -572,8 +572,8 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 6,
-   "all_time": 8,
+   "active": 7,
+   "all_time": 9,
    "names": [
     "NVIDIA"
    ],
