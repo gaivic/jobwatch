@@ -3413,5 +3413,101 @@
   "locations": [
    "Santa Monica CA hybrid"
   ]
+ },
+ {
+  "id": "manual:tnaf2muaksc558",
+  "company": "Otter.ai",
+  "title": "Software Engineer, Backend (New Grad)",
+  "url": "https://job-boards.greenhouse.io/otterai/jobs/7798264003",
+  "location": "Mountain View CA hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792512000,
+  "active": true,
+  "manual": true,
+  "added": 1792512000,
+  "locations": [
+   "Mountain View CA hybrid"
+  ]
+ },
+ {
+  "id": "manual:tnaf2mudgvwyvz",
+  "company": "Function Health",
+  "title": "Associate Software Engineer (ENG-26-70)",
+  "url": "https://jobs.gem.com/function-health/am9icG9zdDp-gt43iE0g_OJWJWwA27Tx",
+  "location": "Remote US",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792512000,
+  "active": true,
+  "manual": true,
+  "added": 1792512000,
+  "locations": [
+   "Remote US"
+  ]
+ },
+ {
+  "id": "manual:tnaf2mvfyhh2th",
+  "company": "Storable",
+  "title": "Software Development Engineer",
+  "url": "https://job-boards.greenhouse.io/storable/jobs/6230578004",
+  "location": "Seattle/Bellevue WA hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792598400,
+  "active": true,
+  "manual": true,
+  "added": 1792598400,
+  "locations": [
+   "Seattle/Bellevue WA hybrid"
+  ]
+ },
+ {
+  "id": "manual:tnaf2mdkn01ga4",
+  "company": "Intuitive Surgical",
+  "title": "Full-Stack Engineer",
+  "url": "https://jobs.smartrecruiters.com/Intuitive/744000156658124",
+  "location": "Sunnyvale CA hybrid",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792598400,
+  "active": true,
+  "manual": true,
+  "added": 1792598400,
+  "locations": [
+   "Sunnyvale CA hybrid"
+  ]
+ },
+ {
+  "id": "manual:tnaf2meuqy3jkk",
+  "company": "Clear Street",
+  "title": "DevOps Production Engineer",
+  "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8304159",
+  "location": "New York NY onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792598400,
+  "active": true,
+  "manual": true,
+  "added": 1792598400,
+  "locations": [
+   "New York NY onsite"
+  ]
+ },
+ {
+  "id": "manual:tnaf2mpm7yaslo",
+  "company": "Pure Storage (Everpure)",
+  "title": "Junior DevOps Engineer",
+  "url": "https://job-boards.greenhouse.io/purestorage/jobs/8282746",
+  "location": "Santa Clara CA onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792598400,
+  "active": true,
+  "manual": true,
+  "added": 1792598400,
+  "locations": [
+   "Santa Clara CA onsite"
+  ]
  }
 ]
