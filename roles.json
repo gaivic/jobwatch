@@ -1806,34 +1806,6 @@
   "reason": null
  },
  {
-  "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
-  "first_seen": 1792475283,
-  "company": "Motional",
-  "title": "Motion Planning Engineer - Trajectory Generation",
-  "location": "Boston, MA, Las Vegas, NV, Remote in USA",
-  "url": "https://motional.com/open-positions/?gh_jid=7980363003#/7980363003",
-  "category": "ML",
-  "posted": "2026-09-14",
-  "date_posted": 1789411683,
-  "active": true,
-  "locations": [
-   "Boston, MA",
-   "Las Vegas, NV",
-   "Remote in USA",
-   "Pittsburgh, PA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "motional|motion planning engineer trajectory generation",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:13ed523b-577a-4fbe-a3da-032a28eb0207",
   "first_seen": 1792475283,
   "company": "ServiceNow",
@@ -2513,30 +2485,6 @@
   "reason": null
  },
  {
-  "id": "simplify:ce9b5601-f631-40d5-93f2-c131bea80fdd",
-  "first_seen": 1792475283,
-  "company": "AQR Capital Management",
-  "title": "Trading Analyst",
-  "location": "Greenwich, CT",
-  "url": "https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709",
-  "category": "Quant",
-  "posted": "2026-08-25",
-  "date_posted": 1787682504,
-  "active": true,
-  "locations": [
-   "Greenwich, CT"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "aqr capital management|trading analyst",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:157b6bc2-6368-407f-9ba7-8af25443d0be",
   "first_seen": 1792475283,
   "company": "Anduril",
@@ -2554,6 +2502,31 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "anduril|mission software engineer undersea reconnaissance strike",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e5efd84d-ee5e-47b6-8b5c-f101e7094c9f",
+  "first_seen": 1792762519,
+  "company": "Apple",
+  "title": "Software Engineer - Infrastructure Services - Cloud Network Fault Tolerance",
+  "location": "California",
+  "url": "https://jobs.apple.com/en-us/details/200679765",
+  "category": "SWE",
+  "posted": "2026-08-25",
+  "date_posted": 1787626810,
+  "active": true,
+  "locations": [
+   "California"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer infrastructure services cloud network fault tolerance",
   "in_feed": true,
   "reason": null
  },
@@ -4413,6 +4386,62 @@
   "reason": "closed",
   "closed_at": 1792670695,
   "last_seen": 1792670695
+ },
+ {
+  "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
+  "first_seen": 1792475283,
+  "company": "Motional",
+  "title": "Motion Planning Engineer - Trajectory Generation",
+  "location": "Boston, MA, Las Vegas, NV, Remote in USA",
+  "url": "https://motional.com/open-positions/?gh_jid=7980363003#/7980363003",
+  "category": "ML",
+  "posted": "2026-09-14",
+  "date_posted": 1789411683,
+  "active": false,
+  "locations": [
+   "Boston, MA",
+   "Las Vegas, NV",
+   "Remote in USA",
+   "Pittsburgh, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "motional|motion planning engineer trajectory generation",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792762519,
+  "last_seen": 1792762519
+ },
+ {
+  "id": "simplify:ce9b5601-f631-40d5-93f2-c131bea80fdd",
+  "first_seen": 1792475283,
+  "company": "AQR Capital Management",
+  "title": "Trading Analyst",
+  "location": "Greenwich, CT",
+  "url": "https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709",
+  "category": "Quant",
+  "posted": "2026-08-25",
+  "date_posted": 1787682504,
+  "active": false,
+  "locations": [
+   "Greenwich, CT"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "aqr capital management|trading analyst",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792762519,
+  "last_seen": 1792762519
  },
  {
   "id": "simplify:f4b05847-d015-43a2-b07f-482144c9580f",
