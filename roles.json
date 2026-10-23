@@ -1,5 +1,136 @@
 [
  {
+  "id": "simplify:312b7b27-dc1b-4ccc-a582-f20be014c2e9",
+  "first_seen": 1792741312,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+  "location": "Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792720347,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer prime video personalization discovery",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:2b5665cf-ffeb-4c91-adce-7d9357641676",
+  "first_seen": 1792741312,
+  "company": "Amazon",
+  "title": "Software Development Engineer 1 Early Career - Annapurna Labs",
+  "location": "Seattle, WA, Austin, TX, NYC",
+  "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792720223,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "Austin, TX",
+   "NYC",
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer 1 early career annapurna labs",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:beb3809f-7e70-4921-8048-c14921c4ba78",
+  "first_seen": 1792741312,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+  "location": "Seattle, WA, NYC, Sunnyvale, CA",
+  "url": "https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792720171,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "NYC",
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer prime video personalization discovery",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:4d59f74a-c96d-4f88-bf07-1f3df967b2de",
+  "first_seen": 1792741312,
+  "company": "Amazon",
+  "title": "System Development Engineer - Region Reliability Engineering",
+  "location": "Denver, CO",
+  "url": "https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792720056,
+  "active": true,
+  "locations": [
+   "Denver, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Associate's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|system development engineer region reliability engineering",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
+  "first_seen": 1792741312,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Embedded Systems",
+  "location": "Seattle, WA, Austin, TX, Redmond, WA",
+  "url": "https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
+  "category": "HW",
+  "posted": "2026-10-23",
+  "date_posted": 1792719944,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "Austin, TX",
+   "Redmond, WA",
+   "Santa Clara, CA",
+   "Northridge, LA",
+   "Hudson, MA",
+   "Cupertino, CA",
+   "Sunnyvale, CA",
+   "Herndon, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer embedded systems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:b160c2da-eab8-4a59-9b66-181feed9fbdb",
   "first_seen": 1792716216,
   "company": "Palantir",

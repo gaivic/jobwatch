@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_172 open new-grad roles at 43 companies · list last changed 2026-10-23 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 10 · Microsoft 8 · Anduril 7 · Apple 7 · NVIDIA 7 · Applied Intuition 5 · …
+_177 open new-grad roles at 43 companies · list last changed 2026-10-23 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 15 · Microsoft 8 · Anduril 7 · Apple 7 · NVIDIA 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -272,8 +272,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Amazon (10)</summary>
+<summary>Amazon (15)</summary>
 
+- [Software Development Engineer - Prime Video Personalization & Discovery](https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery) · [2](https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) — Seattle, WA; Seattle, WA, NYC, Sunnyvale, CA · posted 2026-10-23 · SWE · BS/MS
+- [Software Development Engineer 1 Early Career - Annapurna Labs](https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) — Seattle, WA, Austin, TX, NYC · posted 2026-10-23 · SWE · BS/MS
+- [System Development Engineer - Region Reliability Engineering](https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering) — Denver, CO · posted 2026-10-23 · SWE
+- [Software Development Engineer - Embedded Systems](https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us) — Seattle, WA, Austin, TX, Redmond, WA · posted 2026-10-23 · HW · BS
 - [Robotics Embedded Software Development Engineer](https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer) — North Reading, MA, Westborough, MA · posted 2026-10-22 · HW · BS
 - [Software Development Engineer 1 - AI/ML Network Infrastructure](https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) · [2](https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) — Cupertino, CA · posted 2026-10-22 · SWE · BS/MS/PhD
 - [Software Engineer – Early Career](https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) — Madison, WI, Boston, MA, Seattle, WA · posted 2026-10-19 · SWE · BS/MS
