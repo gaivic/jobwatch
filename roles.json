@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:b29c852f-50f9-42bc-a4b6-65ef06b990be",
+  "first_seen": 1792780135,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad",
+  "location": "Seattle, WA",
+  "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792765162,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:312b7b27-dc1b-4ccc-a582-f20be014c2e9",
   "first_seen": 1792741312,
   "company": "Amazon",
@@ -195,31 +218,6 @@
   "degrees": [
    "Bachelor's",
    "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|software development engineer 1 ai ml network infrastructure",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
-  "first_seen": 1792568905,
-  "company": "Amazon",
-  "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
-  "location": "Cupertino, CA",
-  "url": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
-  "category": "SWE",
-  "posted": "2026-10-21",
-  "date_posted": 1792546696,
-  "active": true,
-  "locations": [
-   "Cupertino, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
   ],
   "sponsorship": "Other",
   "group": "amazon|software development engineer 1 ai ml network infrastructure",
@@ -451,6 +449,30 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software engineer early career",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:946bbff5-9d0d-4834-8b42-b696719861f5",
+  "first_seen": 1792780135,
+  "company": "Apple",
+  "title": "Software Engineer",
+  "location": "Cupertino, CA, Sunnyvale, CA",
+  "url": "https://jobs.apple.com/en-us/details/200689349",
+  "category": "SWE",
+  "posted": "2026-10-19",
+  "date_posted": 1792449037,
+  "active": true,
+  "locations": [
+   "Cupertino, CA",
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -1316,30 +1338,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "anthropic|claude corps",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:c629b4e6-c4f2-414a-9bfa-e7be4219dd59",
-  "first_seen": 1792475283,
-  "company": "NVIDIA",
-  "title": "Applied Machine Learning Engineer - AI for VLSI Design",
-  "location": "Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
-  "category": "ML",
-  "posted": "2026-09-29",
-  "date_posted": 1790640000,
-  "active": true,
-  "locations": [
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|applied machine learning engineer ai for vlsi design",
   "in_feed": true,
   "reason": null
  },
@@ -4204,6 +4202,33 @@
   "reason": null
  },
  {
+  "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
+  "first_seen": 1792568905,
+  "company": "Amazon",
+  "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+  "location": "Cupertino, CA",
+  "url": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+  "category": "SWE",
+  "posted": "2026-10-21",
+  "date_posted": 1792546696,
+  "active": false,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer 1 ai ml network infrastructure",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792780135,
+  "last_seen": 1792780135
+ },
+ {
   "id": "simplify:19107d15-9629-4efe-b0f5-7e1cc38dd47d",
   "first_seen": 1792475283,
   "company": "Microsoft",
@@ -4386,6 +4411,32 @@
   "reason": "closed",
   "closed_at": 1792670695,
   "last_seen": 1792670695
+ },
+ {
+  "id": "simplify:c629b4e6-c4f2-414a-9bfa-e7be4219dd59",
+  "first_seen": 1792475283,
+  "company": "NVIDIA",
+  "title": "Applied Machine Learning Engineer - AI for VLSI Design",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
+  "category": "ML",
+  "posted": "2026-09-29",
+  "date_posted": 1790640000,
+  "active": false,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|applied machine learning engineer ai for vlsi design",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792780135,
+  "last_seen": 1792780135
  },
  {
   "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
