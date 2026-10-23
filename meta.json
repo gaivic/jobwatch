@@ -4,21 +4,21 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1792780135,
- "last_change": 1792780135,
+ "last_run": 1792797232,
+ "last_change": 1792797232,
  "last_result": "ok",
  "feed": {
-  "records": 19300,
-  "active": 3069,
-  "fetched_at": 1792780135,
+  "records": 19344,
+  "active": 3095,
+  "fetched_at": 1792797232,
   "attempts": 1
  },
  "counts": {
-  "active": 176,
-  "closed": 12,
+  "active": 177,
+  "closed": 14,
   "untracked": 0,
-  "groups": 148,
-  "companies": 42,
+  "groups": 149,
+  "companies": 43,
   "new_this_run": 0,
   "silent_known_this_run": 0,
   "closed_this_run": 2,
@@ -26,11 +26,11 @@
  },
  "rejects": {
   "category": 119,
-  "phd": 176,
+  "phd": 177,
   "title": 19,
   "region": 45,
   "sponsorship": 0,
-  "age": 153
+  "age": 152
  },
  "keywords": {
   "adobe": {
@@ -54,7 +54,7 @@
    "denied": 0
   },
   "amazon": {
-   "active": 14,
+   "active": 13,
    "all_time": 15,
    "names": [
     "Amazon"
@@ -533,7 +533,7 @@
   },
   "microsoft": {
    "active": 8,
-   "all_time": 13,
+   "all_time": 14,
    "names": [
     "Microsoft"
    ],
@@ -624,9 +624,11 @@
    "denied": 0
   },
   "perplexity": {
-   "active": 0,
-   "all_time": 0,
-   "names": [],
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Perplexity AI"
+   ],
    "denied": 0
   },
   "physical intelligence": {
@@ -746,8 +748,8 @@
    "denied": 0
   },
   "servicenow": {
-   "active": 1,
-   "all_time": 1,
+   "active": 2,
+   "all_time": 2,
    "names": [
     "ServiceNow"
    ],
