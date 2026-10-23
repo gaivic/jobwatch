@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:b160c2da-eab8-4a59-9b66-181feed9fbdb",
+  "first_seen": 1792716216,
+  "company": "Palantir",
+  "title": "Forward Deployed Software Engineer New Grad",
+  "location": "NYC",
+  "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply",
+  "category": "SWE",
+  "posted": "2026-10-22",
+  "date_posted": 1792708611,
+  "active": true,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "palantir|forward deployed software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:f970364b-ba46-4607-8459-05ce7311e1b5",
   "first_seen": 1792670695,
   "company": "Amazon",

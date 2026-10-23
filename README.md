@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_171 open new-grad roles at 43 companies · list last changed 2026-10-22 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 10 · Microsoft 8 · Anduril 7 · Apple 7 · NVIDIA 7 · Applied Intuition 5 · …
+_172 open new-grad roles at 43 companies · list last changed 2026-10-23 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 10 · Microsoft 8 · Anduril 7 · Apple 7 · NVIDIA 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -384,6 +384,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Palantir (2)</summary>
+
+- [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply) — NYC · posted 2026-10-22 · SWE · BS
+- [Software Engineer New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply) — NYC · posted 2026-10-20 · SWE · BS/MS/PhD
+
+</details>
+<details open>
 <summary>Pinterest (2)</summary>
 
 - [Master's University Graduate Data Scientist](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) — Palo Alto, CA, Seattle, WA, SF · posted 2026-10-01 · ML · MS
@@ -512,12 +519,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>OpenAI (1)</summary>
 
 - [Software Engineer - Applied Emerging Talent](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true) — SF · posted 2026-09-15 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Palantir (1)</summary>
-
-- [Software Engineer New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply) — NYC · posted 2026-10-20 · SWE · BS/MS/PhD
 
 </details>
 <details open>
