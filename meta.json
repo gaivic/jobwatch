@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1792840556,
- "last_change": 1792840556,
+ "last_run": 1792867862,
+ "last_change": 1792867862,
  "last_result": "ok",
  "feed": {
-  "records": 19249,
-  "active": 3071,
-  "fetched_at": 1792840556,
+  "records": 19223,
+  "active": 2939,
+  "fetched_at": 1792867862,
   "attempts": 1
  },
  "counts": {
-  "active": 177,
-  "closed": 15,
+  "active": 171,
+  "closed": 21,
   "untracked": 0,
-  "groups": 149,
-  "companies": 43,
+  "groups": 143,
+  "companies": 41,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 6,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 119,
-  "phd": 176,
+  "phd": 172,
   "title": 19,
-  "region": 45,
+  "region": 39,
   "sponsorship": 0,
-  "age": 152
+  "age": 147
  },
  "keywords": {
   "adobe": {
@@ -110,11 +110,9 @@
    "denied": 0
   },
   "atlassian": {
-   "active": 4,
+   "active": 0,
    "all_time": 4,
-   "names": [
-    "Atlassian"
-   ],
+   "names": [],
    "denied": 0
   },
   "aurora": {
@@ -802,11 +800,9 @@
    "denied": 0
   },
   "susquehanna": {
-   "active": 2,
+   "active": 0,
    "all_time": 2,
-   "names": [
-    "Susquehanna International Group"
-   ],
+   "names": [],
    "denied": 0
   },
   "tenstorrent": {

@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_177 open new-grad roles at 43 companies · list last changed 2026-10-24 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 13 · Apple 9 · Microsoft 8 · Anduril 7 · NVIDIA 6 · Shield AI 6 · …
+_171 open new-grad roles at 41 companies · list last changed 2026-10-24 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 13 · Apple 9 · Microsoft 8 · Anduril 7 · NVIDIA 6 · Shield AI 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -353,15 +353,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Atlassian (4)</summary>
-
-- [Data Engineer New Grad](https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job) — Seattle, WA · posted 2026-10-05 · ML · BS/MS
-- [Data Scientist Graduate](https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-30 · ML · MS
-- [Machine Learning Engineer - 2027 Graduate](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-24 · ML · BS/MS
-- [Software Engineer](https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-15 · SWE · BS/MS
-
-</details>
-<details open>
 <summary>Wolverine Trading (4)</summary>
 
 - [Early Career C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq) — Chicago, IL · posted 2026-10-12 · SWE · BS/MS
@@ -420,13 +411,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
 - [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Seattle, WA, SF, NYC · posted 2026-09-01 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Susquehanna International Group (2)</summary>
-
-- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
-- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-19 · Quant · BS/MS
 
 </details>
 <details open>
