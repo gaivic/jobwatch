@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_177 open new-grad roles at 43 companies · list last changed 2026-10-23 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 13 · Apple 9 · Microsoft 8 · Anduril 7 · NVIDIA 6 · Shield AI 6 · …
+_177 open new-grad roles at 43 companies · list last changed 2026-10-24 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 13 · Apple 9 · Microsoft 8 · Anduril 7 · NVIDIA 6 · Shield AI 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -529,7 +529,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <details open>
 <summary>Perplexity AI (1)</summary>
 
-- [Member of Technical Staff - AI Policy and Strategic Initiatives](https://jobs.ashbyhq.com/perplexity/c23c4d82-3c53-432b-8a00-2e400ccdf3ea/application?embed=true) — Washington, DC, SF · posted 2026-10-23 · SWE
+- [Member of Technical Staff - AI Policy and Strategic Initiatives](https://jobs.ashbyhq.com/perplexity/7e4a95c3-6322-4300-9455-96c511ab2621/application?embed=true) — Washington, DC, SF · posted 2026-10-24 · SWE
 
 </details>
 <details open>
