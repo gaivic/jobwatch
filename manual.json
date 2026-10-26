@@ -3525,5 +3525,37 @@
   "locations": [
    "Rowayton CT"
   ]
+ },
+ {
+  "id": "manual:tnike3jxvhigpq",
+  "company": "DRW",
+  "title": "UP - Analytics/Middle Office - Quant Developer",
+  "url": "https://job-boards.greenhouse.io/drweng/jobs/8303364",
+  "location": "Chicago",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792857600,
+  "active": true,
+  "manual": true,
+  "added": 1792857600,
+  "locations": [
+   "Chicago"
+  ]
+ },
+ {
+  "id": "manual:tnike3wcadzbz0",
+  "company": "Old Mission",
+  "title": "C++ Software Engineer",
+  "url": "https://jobs.ashbyhq.com/oldmission/1108925d-16ef-4c43-b309-9e6f33dbe65f",
+  "location": "Chicago",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1792857600,
+  "active": true,
+  "manual": true,
+  "added": 1792857600,
+  "locations": [
+   "Chicago"
+  ]
  }
 ]
