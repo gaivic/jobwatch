@@ -4,31 +4,31 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793027829,
- "last_change": 1792867862,
- "last_result": "ok-no-change",
+ "last_run": 1793048701,
+ "last_change": 1793048701,
+ "last_result": "ok",
  "feed": {
-  "records": 18992,
-  "active": 2925,
-  "fetched_at": 1793027829,
+  "records": 18985,
+  "active": 2888,
+  "fetched_at": 1793048701,
   "attempts": 1
  },
  "counts": {
-  "active": 171,
-  "closed": 21,
+  "active": 169,
+  "closed": 23,
   "untracked": 0,
-  "groups": 143,
+  "groups": 141,
   "companies": 41,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 121,
   "phd": 172,
   "title": 20,
-  "region": 39,
+  "region": 38,
   "sponsorship": 0,
   "age": 146
  },
@@ -86,7 +86,7 @@
    "denied": 0
   },
   "apple": {
-   "active": 9,
+   "active": 7,
    "all_time": 9,
    "names": [
     "Apple"
