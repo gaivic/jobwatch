@@ -2222,10 +2222,15 @@
    {
     "s": "applied",
     "t": 1789488000
+   },
+   {
+    "s": "rejected",
+    "t": 1793016521
    }
   ],
-  "s": "applied",
-  "t": 1789488000
+  "note": "Rejected 2026-10-06 (email)",
+  "s": "rejected",
+  "t": 1793016521
  },
  "manual:tn6yhmxjmdh5": {
   "h": [
