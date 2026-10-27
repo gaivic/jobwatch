@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_169 open new-grad roles at 41 companies · list last changed 2026-10-26 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 13 · Microsoft 8 · Anduril 7 · Apple 7 · NVIDIA 6 · Shield AI 6 · …
+_172 open new-grad roles at 41 companies · list last changed 2026-10-27 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 13 · Microsoft 9 · Anduril 8 · Apple 7 · NVIDIA 6 · Shield AI 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -289,17 +289,18 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (8)</summary>
+<summary>Microsoft (9)</summary>
 
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557045536) · [2](https://apply.careers.microsoft.com/careers/job/1970393557039399) · [3](https://apply.careers.microsoft.com/careers/job/1970393557043616) · [4](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [5](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA; Redmond, WA, Reston, VA · posted 2026-10-23 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [2](https://apply.careers.microsoft.com/careers/job/1970393557045536) · [3](https://apply.careers.microsoft.com/careers/job/1970393557039399) · [4](https://apply.careers.microsoft.com/careers/job/1970393557043616) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [6](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA, Reston, VA; Redmond, WA · posted 2026-10-26 · SWE · BS/MS
 - [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
 - [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027406) — Redmond, WA · posted 2026-10-16 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
 
 </details>
 <details open>
-<summary>Anduril (7)</summary>
+<summary>Anduril (8)</summary>
 
+- [Early Career Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5275431007) — Fort Collins, CO, Broomfield, CO · posted 2026-10-26 · SWE · BS
 - [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007) — Costa Mesa, CA · posted 2026-09-22 · HW · BS/MS
 - [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5240165007) — Fort Collins, CO, Broomfield, CO · posted 2026-09-16 · SWE · BS
 - [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) — Costa Mesa, CA · posted 2026-09-03 · HW · BS/MS
@@ -412,6 +413,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Tesla (2)</summary>
+
+- [Data Collection Coordinator - Optimus](https://www.tesla.com/careers/search/job/257533) — Fremont, CA · posted 2026-10-26 · ML
+- [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
+
+</details>
+<details open>
 <summary>Two Sigma (2)</summary>
 
 - [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
@@ -518,12 +526,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>SambaNova Systems (1)</summary>
 
 - [AI Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) — Austin, TX, San Jose, CA · posted 2026-10-20 · ML · BS/MS/PhD
-
-</details>
-<details open>
-<summary>Tesla (1)</summary>
-
-- [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
 
 </details>
 <details open>
