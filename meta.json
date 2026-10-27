@@ -4,31 +4,31 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793111962,
- "last_change": 1793111962,
+ "last_run": 1793134046,
+ "last_change": 1793134046,
  "last_result": "ok",
  "feed": {
-  "records": 19048,
-  "active": 2940,
-  "fetched_at": 1793111962,
+  "records": 19051,
+  "active": 2926,
+  "fetched_at": 1793134046,
   "attempts": 1
  },
  "counts": {
-  "active": 172,
-  "closed": 24,
+  "active": 171,
+  "closed": 25,
   "untracked": 0,
-  "groups": 143,
+  "groups": 142,
   "companies": 41,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 126,
   "phd": 173,
   "title": 20,
-  "region": 39,
+  "region": 38,
   "sponsorship": 0,
   "age": 146
  },
@@ -62,7 +62,7 @@
    "denied": 0
   },
   "anduril": {
-   "active": 8,
+   "active": 7,
    "all_time": 8,
    "names": [
     "Anduril"
