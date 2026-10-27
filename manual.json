@@ -3557,5 +3557,21 @@
   "locations": [
    "Chicago"
   ]
+ },
+ {
+  "id": "manual:tnkj1ayyaji6jc",
+  "company": "Clark",
+  "title": "2027 Engineering Talent (New Grad Pipeline)",
+  "url": "https://jobs.ashbyhq.com/clark/e62f6ecd-48a2-42fa-8725-599673e354d5",
+  "location": "New York City onsite",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793116800,
+  "active": true,
+  "manual": true,
+  "added": 1793116800,
+  "locations": [
+   "New York City onsite"
+  ]
  }
 ]
