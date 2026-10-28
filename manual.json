@@ -3813,5 +3813,21 @@
   "locations": [
    "Chicago"
   ]
+ },
+ {
+  "id": "manual:tnmvploims697r",
+  "company": "WorldQuant",
+  "title": "WorldQuant Technology Talent Network",
+  "url": "https://job-boards.greenhouse.io/worldquant/jobs/4565984006",
+  "location": "New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "New York"
+  ]
  }
 ]
