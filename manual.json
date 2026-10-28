@@ -3733,5 +3733,21 @@
   "locations": [
    "NYC"
   ]
+ },
+ {
+  "id": "manual:tnmv9zlali6za1",
+  "company": "Schonfeld",
+  "title": "AI Data Scientist",
+  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7589451",
+  "location": "NYC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "NYC"
+  ]
  }
 ]
