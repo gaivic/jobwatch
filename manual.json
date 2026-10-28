@@ -3797,5 +3797,21 @@
   "locations": [
    "New York"
   ]
+ },
+ {
+  "id": "manual:tnmvn0rzx9kb18",
+  "company": "3Red Partners",
+  "title": "General Technologist Submissions: Developers, DevOps, SysAdmin",
+  "url": "https://job-boards.greenhouse.io/3redpartners/jobs/4201091002",
+  "location": "Chicago",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "Chicago"
+  ]
  }
 ]
