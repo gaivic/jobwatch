@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793150862,
- "last_change": 1793150862,
+ "last_run": 1793176991,
+ "last_change": 1793176991,
  "last_result": "ok",
  "feed": {
-  "records": 19100,
-  "active": 2960,
-  "fetched_at": 1793150862,
+  "records": 19155,
+  "active": 3025,
+  "fetched_at": 1793176991,
   "attempts": 1
  },
  "counts": {
-  "active": 177,
-  "closed": 26,
+  "active": 184,
+  "closed": 27,
   "untracked": 0,
-  "groups": 149,
-  "companies": 42,
+  "groups": 156,
+  "companies": 43,
   "new_this_run": 0,
   "silent_known_this_run": 0,
   "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 131,
-  "phd": 172,
+  "category": 137,
+  "phd": 175,
   "title": 20,
-  "region": 39,
+  "region": 40,
   "sponsorship": 0,
-  "age": 145
+  "age": 148
  },
  "keywords": {
   "adobe": {
@@ -584,9 +584,11 @@
    "denied": 0
   },
   "old mission": {
-   "active": 0,
-   "all_time": 0,
-   "names": [],
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Old Mission"
+   ],
    "denied": 0
   },
   "openai": {
@@ -748,7 +750,7 @@
    "denied": 0
   },
   "servicenow": {
-   "active": 3,
+   "active": 2,
    "all_time": 3,
    "names": [
     "ServiceNow"
@@ -756,8 +758,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 6,
-   "all_time": 6,
+   "active": 13,
+   "all_time": 13,
    "names": [
     "Shield AI"
    ],
