@@ -3669,5 +3669,21 @@
   "locations": [
    "San Jose CA / Austin TX"
   ]
+ },
+ {
+  "id": "manual:tnmdvcxex43i70",
+  "company": "StarTree",
+  "title": "Software Engineer I",
+  "url": "https://job-boards.greenhouse.io/startree/jobs/6235909004",
+  "location": "Remote US",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "Remote US"
+  ]
  }
 ]
