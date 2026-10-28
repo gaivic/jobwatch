@@ -3589,5 +3589,53 @@
   "locations": [
    "San Francisco"
   ]
+ },
+ {
+  "id": "manual:tnltdxm64lykgx",
+  "company": "Torc Robotics",
+  "title": "Software Engineer I, Data Engineering",
+  "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002",
+  "location": "Ann Arbor MI",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "Ann Arbor MI"
+  ]
+ },
+ {
+  "id": "manual:tnltdxvfaf6fbi",
+  "company": "AppLovin",
+  "title": "ML Data Infrastructure Engineer",
+  "url": "https://job-boards.greenhouse.io/applovin/jobs/4716524006",
+  "location": "Palo Alto CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "Palo Alto CA"
+  ]
+ },
+ {
+  "id": "manual:tnltdx5w7rs0et",
+  "company": "Twilio",
+  "title": "Software Engineer Platform Access (L2)",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211",
+  "location": "Remote US",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "Remote US"
+  ]
  }
 ]
