@@ -3653,5 +3653,21 @@
   "locations": [
    "Remote US/Canada"
   ]
+ },
+ {
+  "id": "manual:tnlu7zx8zwevn0",
+  "company": "SambaNova Systems",
+  "title": "Cloud Platform Engineer - New Grad",
+  "url": "https://job-boards.greenhouse.io/sambanovasystems/jobs/6224940004",
+  "location": "San Jose CA / Austin TX",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "San Jose CA / Austin TX"
+  ]
  }
 ]
