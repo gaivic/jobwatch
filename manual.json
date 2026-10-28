@@ -3701,5 +3701,21 @@
   "locations": [
    "Chicago"
   ]
+ },
+ {
+  "id": "manual:tnmv35kub34yrs",
+  "company": "Point72 / Cubist",
+  "title": "NLP Engineer",
+  "url": "https://job-boards.greenhouse.io/point72/jobs/8018850002",
+  "location": "NYC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "NYC"
+  ]
  }
 ]
