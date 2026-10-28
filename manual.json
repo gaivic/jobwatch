@@ -3685,5 +3685,21 @@
   "locations": [
    "Remote US"
   ]
+ },
+ {
+  "id": "manual:tnmuya34uxemcx",
+  "company": "DRW",
+  "title": "Research Engineer (Options)",
+  "url": "https://job-boards.greenhouse.io/drweng/jobs/7377915",
+  "location": "Chicago",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "Chicago"
+  ]
  }
 ]
