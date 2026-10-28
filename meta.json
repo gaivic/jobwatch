@@ -4,28 +4,28 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793205761,
- "last_change": 1793205761,
+ "last_run": 1793227338,
+ "last_change": 1793227338,
  "last_result": "ok",
  "feed": {
-  "records": 19154,
-  "active": 3014,
-  "fetched_at": 1793205761,
+  "records": 19180,
+  "active": 3009,
+  "fetched_at": 1793227338,
   "attempts": 1
  },
  "counts": {
-  "active": 180,
+  "active": 182,
   "closed": 31,
   "untracked": 0,
-  "groups": 154,
-  "companies": 43,
+  "groups": 156,
+  "companies": 44,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 4,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 137,
+  "category": 136,
   "phd": 175,
   "title": 21,
   "region": 39,
@@ -54,8 +54,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 14,
-   "all_time": 16,
+   "active": 15,
+   "all_time": 17,
    "names": [
     "Amazon"
    ],
@@ -390,9 +390,11 @@
    "denied": 0
   },
   "glean": {
-   "active": 0,
-   "all_time": 0,
-   "names": [],
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Glean"
+   ],
    "denied": 0
   },
   "google": {
