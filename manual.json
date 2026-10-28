@@ -3749,5 +3749,21 @@
   "locations": [
    "NYC"
   ]
+ },
+ {
+  "id": "manual:tnmvbeu729fy7r",
+  "company": "Evergreen Statistical Trading",
+  "title": "HPC Operations Engineer",
+  "url": "https://job-boards.greenhouse.io/evergreenstatisticaltrading/jobs/4371264009",
+  "location": "Bellevue WA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "Bellevue WA"
+  ]
  }
 ]
