@@ -3717,5 +3717,21 @@
   "locations": [
    "NYC"
   ]
+ },
+ {
+  "id": "manual:tnmv641smfqd9g",
+  "company": "Point72 / Cubist",
+  "title": "Cubist Data Scientist",
+  "url": "https://job-boards.greenhouse.io/point72/jobs/7045938002",
+  "location": "NYC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793203200,
+  "active": true,
+  "manual": true,
+  "added": 1793203200,
+  "locations": [
+   "NYC"
+  ]
  }
 ]
