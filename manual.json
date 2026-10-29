@@ -3829,5 +3829,21 @@
   "locations": [
    "New York"
   ]
+ },
+ {
+  "id": "manual:tnmvtkrg5qd5u7",
+  "company": "Rubrik",
+  "title": "Software Engineer - Entra ID",
+  "url": "https://job-boards.greenhouse.io/rubrik/jobs/8267709",
+  "location": "Palo Alto, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793289600,
+  "active": true,
+  "manual": true,
+  "added": 1793289600,
+  "locations": [
+   "Palo Alto, CA"
+  ]
  }
 ]
