@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_185 open new-grad roles at 46 companies · list last changed 2026-10-29 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 14 · Shield AI 13 · Anduril 7 · Apple 7 · Microsoft 6 · Applied Intuition 5 · …
+_188 open new-grad roles at 46 companies · list last changed 2026-10-29 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 17 · Shield AI 13 · Anduril 7 · Apple 7 · Microsoft 6 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -272,8 +272,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Amazon (14)</summary>
+<summary>Amazon (17)</summary>
 
+- [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) · [2](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-10-29 · SWE · BS
+- [Software Development Engineer](https://amazon.jobs/en/jobs/10592066/software-development-engineer) — Cupertino, CA · posted 2026-10-29 · SWE · BS
+- [Applied Scientist - North America Sort Centers - Amazon Transportation Services](https://amazon.jobs/en/jobs/10592906/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services) — Bellevue, WA · posted 2026-10-29 · ML · MS/PhD
 - [Software Developer Engineer - Product Knowledge Store](https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store) — Seattle, WA, United States · posted 2026-10-28 · SWE · BS
 - [Software Developer Engineer 1 - Graviton Software - Annapurna Labs](https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs) — Austin, TX · posted 2026-10-27 · SWE · BS
 - [Software Development Engineer - Prime Video Personalization & Discovery](https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery) · [2](https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) — Seattle, WA; Seattle, WA, NYC, Sunnyvale, CA · posted 2026-10-23 · SWE · BS/MS
@@ -284,7 +287,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Software Engineer – Early Career](https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) — Madison, WI, Boston, MA, Seattle, WA · posted 2026-10-19 · SWE · BS/MS
 - [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-10-02 · SWE · BS
 - [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Seattle, WA, Nashville, TN, Austin, TX · posted 2026-10-01 · SWE · BS
-- [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-09-12 · SWE · BS
 - [Robotics System Development Engineer](https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer) — Austin, TX · posted 2026-09-01 · SWE · BS
 - [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) — Redmond, WA, Northridge, LA · posted 2026-08-25 · SWE · BS/MS
 
