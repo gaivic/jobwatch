@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_184 open new-grad roles at 46 companies · list last changed 2026-10-29 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 14 · Shield AI 13 · Anduril 7 · Apple 7 · Microsoft 6 · Applied Intuition 5 · …
+_185 open new-grad roles at 46 companies · list last changed 2026-10-29 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 14 · Shield AI 13 · Anduril 7 · Apple 7 · Microsoft 6 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -373,6 +373,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Salesforce (3)</summary>
+
+- [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598) — Indianapolis, IN, Dallas, TX · posted 2026-10-27 · SWE · BS
+- [AI Labs Rotational Fellow - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678) — Seattle, WA, SF, NYC · posted 2026-10-16 · SWE · BS/MS
+
+</details>
+<details open>
 <summary>Adobe (2)</summary>
 
 - [Machine Learning Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · ML · MS/PhD
@@ -410,12 +417,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Master's University Graduate Data Scientist](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) — Palo Alto, CA, Seattle, WA, SF · posted 2026-10-01 · ML · MS
 - [University Grad Software Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) — SF, Remote in USA · posted 2026-10-01 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Salesforce (2)</summary>
-
-- [AI Labs Rotational Fellow - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678) — Seattle, WA, SF, NYC · posted 2026-10-16 · SWE · BS/MS
 
 </details>
 <details open>

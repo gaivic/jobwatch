@@ -4,31 +4,31 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793279942,
- "last_change": 1793279942,
+ "last_run": 1793302970,
+ "last_change": 1793302970,
  "last_result": "ok",
  "feed": {
-  "records": 19143,
-  "active": 3058,
-  "fetched_at": 1793279942,
+  "records": 19152,
+  "active": 3068,
+  "fetched_at": 1793302970,
   "attempts": 1
  },
  "counts": {
-  "active": 184,
+  "active": 185,
   "closed": 32,
   "untracked": 0,
-  "groups": 157,
+  "groups": 158,
   "companies": 46,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 139,
+  "category": 140,
   "phd": 175,
   "title": 22,
-  "region": 38,
+  "region": 36,
   "sponsorship": 0,
   "age": 159
  },
@@ -726,8 +726,8 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 2,
-   "all_time": 2,
+   "active": 3,
+   "all_time": 3,
    "names": [
     "Salesforce"
    ],
