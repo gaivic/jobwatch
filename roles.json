@@ -94,30 +94,6 @@
   "reason": null
  },
  {
-  "id": "simplify:d60a7b28-15b3-470d-b806-5a0f00d2746b",
-  "first_seen": 1793227338,
-  "company": "Glean",
-  "title": "Software Engineer",
-  "location": "Mountain View, CA",
-  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
-  "category": "SWE",
-  "posted": "2026-10-28",
-  "date_posted": 1793208146,
-  "active": true,
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "glean|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:6229e804-43a5-47a4-882c-c7bf3dc4968f",
   "first_seen": 1793150862,
   "company": "Databricks",
@@ -4475,6 +4451,32 @@
   "group": "bytedance|graduate software engineer data intelligent creation ai platform global vision engineering",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:d60a7b28-15b3-470d-b806-5a0f00d2746b",
+  "first_seen": 1793227338,
+  "company": "Glean",
+  "title": "Software Engineer",
+  "location": "Mountain View, CA",
+  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
+  "category": "SWE",
+  "posted": "2026-10-28",
+  "date_posted": 1793208146,
+  "active": false,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "glean|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793340029,
+  "last_seen": 1793340029
  },
  {
   "id": "simplify:ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
