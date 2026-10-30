@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_187 open new-grad roles at 45 companies · list last changed 2026-10-30 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 17 · Shield AI 13 · Anduril 7 · Apple 7 · Microsoft 6 · Applied Intuition 5 · …
+_190 open new-grad roles at 45 companies · list last changed 2026-10-30 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 17 · Shield AI 13 · Anduril 7 · Apple 7 · Microsoft 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -332,8 +332,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (6)</summary>
+<summary>Microsoft (7)</summary>
 
+- [Firmware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039426) — Redmond, WA, Mountain View, CA · posted 2026-10-30 · HW · BS/MS
 - [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557045516) · [2](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [3](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Mountain View, CA; Redmond, WA, Reston, VA; Redmond, WA · posted 2026-10-27 · SWE · BS/MS
 - [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
@@ -379,6 +380,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598) — Indianapolis, IN, Dallas, TX · posted 2026-10-27 · SWE · BS
 - [AI Labs Rotational Fellow - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678) — Seattle, WA, SF, NYC · posted 2026-10-16 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>xAI (3)</summary>
+
+- [AI Tutor – Oromo](https://job-boards.greenhouse.io/xai/jobs/5270907007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – German](https://job-boards.greenhouse.io/xai/jobs/5090120007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-08 · ML
 
 </details>
 <details open>
@@ -490,12 +499,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Cerebras (1)</summary>
 
 - [Software Engineer - Kernel Reliability](https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true) — Canada, United States · posted 2026-09-15 · SWE
-
-</details>
-<details open>
-<summary>Cloudflare (1)</summary>
-
-- [Systems Engineer - Browser Isolation](https://boards.greenhouse.io/cloudflare/jobs/8276155) — United States · posted 2026-10-13 · SWE
 
 </details>
 <details open>

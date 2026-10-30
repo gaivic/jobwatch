@@ -4,20 +4,20 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793340029,
- "last_change": 1793340029,
+ "last_run": 1793365864,
+ "last_change": 1793365864,
  "last_result": "ok",
  "feed": {
-  "records": 19182,
-  "active": 3130,
-  "fetched_at": 1793340029,
+  "records": 19181,
+  "active": 3127,
+  "fetched_at": 1793365864,
   "attempts": 1
  },
  "counts": {
-  "active": 187,
-  "closed": 33,
+  "active": 190,
+  "closed": 34,
   "untracked": 0,
-  "groups": 159,
+  "groups": 162,
   "companies": 45,
   "new_this_run": 0,
   "silent_known_this_run": 0,
@@ -30,7 +30,7 @@
   "title": 23,
   "region": 36,
   "sponsorship": 0,
-  "age": 159
+  "age": 162
  },
  "keywords": {
   "adobe": {
@@ -208,11 +208,9 @@
    "denied": 0
   },
   "cloudflare": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "Cloudflare"
-   ],
+   "names": [],
    "denied": 0
   },
   "cohere": {
@@ -536,8 +534,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 6,
-   "all_time": 16,
+   "active": 7,
+   "all_time": 17,
    "names": [
     "Microsoft"
    ],
@@ -962,9 +960,11 @@
    "denied": 0
   },
   "xai": {
-   "active": 0,
-   "all_time": 0,
-   "names": [],
+   "active": 3,
+   "all_time": 3,
+   "names": [
+    "xAI"
+   ],
    "denied": 0
   },
   "xtx": {
