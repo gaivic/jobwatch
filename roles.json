@@ -1,5 +1,57 @@
 [
  {
+  "id": "simplify:49ac054d-6120-45f3-9704-30823f0c902f",
+  "first_seen": 1793404423,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Database",
+  "location": "Boston, MA, Seattle, WA, Austin, TX",
+  "url": "https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us",
+  "category": "SWE",
+  "posted": "2026-10-30",
+  "date_posted": 1793399898,
+  "active": true,
+  "locations": [
+   "Boston, MA",
+   "Seattle, WA",
+   "Austin, TX",
+   "Redmond, WA",
+   "East Palo Alto, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer database",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:6f52487e-12cd-4596-910d-b86917451347",
+  "first_seen": 1793404423,
+  "company": "Chicago Trading Company",
+  "title": "Quant Trading Associate - Options Theory Intensive",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4749020005",
+  "category": "Quant",
+  "posted": "2026-10-30",
+  "date_posted": 1793385621,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "chicago trading company|quant trading associate options theory intensive",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:744cbad0-fb7b-4d61-bd7e-98bb423c0513",
   "first_seen": 1793365864,
   "company": "Microsoft",
@@ -44,29 +96,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software privacy engineer multiple teams",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:22b41b69-61b2-4b32-88f6-61e9f4d4643d",
-  "first_seen": 1793318377,
-  "company": "Amazon",
-  "title": "Software Development Engineer",
-  "location": "Cupertino, CA",
-  "url": "https://amazon.jobs/en/jobs/10592066/software-development-engineer",
-  "category": "SWE",
-  "posted": "2026-10-29",
-  "date_posted": 1793314195,
-  "active": true,
-  "locations": [
-   "Cupertino, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|software development engineer",
   "in_feed": true,
   "reason": null
  },
@@ -4527,6 +4556,31 @@
   "group": "bytedance|graduate software engineer data intelligent creation ai platform global vision engineering",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:22b41b69-61b2-4b32-88f6-61e9f4d4643d",
+  "first_seen": 1793318377,
+  "company": "Amazon",
+  "title": "Software Development Engineer",
+  "location": "Cupertino, CA",
+  "url": "https://amazon.jobs/en/jobs/10592066/software-development-engineer",
+  "category": "SWE",
+  "posted": "2026-10-29",
+  "date_posted": 1793314195,
+  "active": false,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793404423,
+  "last_seen": 1793404423
  },
  {
   "id": "simplify:d60a7b28-15b3-470d-b806-5a0f00d2746b",

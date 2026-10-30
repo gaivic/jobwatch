@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_190 open new-grad roles at 45 companies · list last changed 2026-10-30 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 17 · Shield AI 13 · Anduril 7 · Apple 7 · Microsoft 7 · Applied Intuition 5 · …
+_191 open new-grad roles at 46 companies · list last changed 2026-10-30 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 17 · Shield AI 13 · Anduril 7 · Apple 7 · Microsoft 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -274,8 +274,8 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <details open>
 <summary>Amazon (17)</summary>
 
+- [Software Development Engineer - Database](https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us) — Boston, MA, Seattle, WA, Austin, TX · posted 2026-10-30 · SWE · BS/MS
 - [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) · [2](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-10-29 · SWE · BS
-- [Software Development Engineer](https://amazon.jobs/en/jobs/10592066/software-development-engineer) — Cupertino, CA · posted 2026-10-29 · SWE · BS
 - [Applied Scientist - North America Sort Centers - Amazon Transportation Services](https://amazon.jobs/en/jobs/10592906/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services) — Bellevue, WA · posted 2026-10-29 · ML · MS/PhD
 - [Software Developer Engineer - Product Knowledge Store](https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store) — Seattle, WA, United States · posted 2026-10-28 · SWE · BS
 - [Software Developer Engineer 1 - Graviton Software - Annapurna Labs](https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs) — Austin, TX · posted 2026-10-27 · SWE · BS
@@ -499,6 +499,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Cerebras (1)</summary>
 
 - [Software Engineer - Kernel Reliability](https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true) — Canada, United States · posted 2026-09-15 · SWE
+
+</details>
+<details open>
+<summary>Chicago Trading Company (1)</summary>
+
+- [Quant Trading Associate - Options Theory Intensive](https://job-boards.greenhouse.io/ctccampusboard/jobs/4749020005) — Chicago, IL · posted 2026-10-30 · Quant · BS/MS
 
 </details>
 <details open>

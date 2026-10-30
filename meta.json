@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793365864,
- "last_change": 1793365864,
+ "last_run": 1793404423,
+ "last_change": 1793404423,
  "last_result": "ok",
  "feed": {
-  "records": 19181,
-  "active": 3127,
-  "fetched_at": 1793365864,
+  "records": 19182,
+  "active": 3151,
+  "fetched_at": 1793404423,
   "attempts": 1
  },
  "counts": {
-  "active": 190,
-  "closed": 34,
+  "active": 191,
+  "closed": 35,
   "untracked": 0,
-  "groups": 162,
-  "companies": 45,
+  "groups": 163,
+  "companies": 46,
   "new_this_run": 0,
   "silent_known_this_run": 0,
   "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 139,
+  "category": 140,
   "phd": 175,
   "title": 23,
   "region": 36,
   "sponsorship": 0,
-  "age": 162
+  "age": 160
  },
  "keywords": {
   "adobe": {
@@ -55,7 +55,7 @@
   },
   "amazon": {
    "active": 17,
-   "all_time": 20,
+   "all_time": 21,
    "names": [
     "Amazon"
    ],
@@ -196,9 +196,11 @@
    "denied": 0
   },
   "chicago trading": {
-   "active": 0,
-   "all_time": 0,
-   "names": [],
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Chicago Trading Company"
+   ],
    "denied": 0
   },
   "citadel": {
