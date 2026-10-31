@@ -3925,5 +3925,21 @@
   "locations": [
    "London, UK"
   ]
+ },
+ {
+  "id": "manual:tnmvwflkcmlauf",
+  "company": "Freed",
+  "title": "ML Engineer",
+  "url": "https://jobs.ashbyhq.com/freed/161d4300-0a97-4263-8aa5-c23a1dd3b92c",
+  "location": "San Francisco, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793462400,
+  "active": true,
+  "manual": true,
+  "added": 1793462400,
+  "locations": [
+   "San Francisco, CA"
+  ]
  }
 ]
