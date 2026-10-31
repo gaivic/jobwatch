@@ -3845,5 +3845,21 @@
   "locations": [
    "Palo Alto, CA"
   ]
+ },
+ {
+  "id": "manual:tnmvvvoba734gi",
+  "company": "Mako",
+  "title": "Graduate Software Engineer",
+  "url": "https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002",
+  "location": "London, UK",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793462400,
+  "active": true,
+  "manual": true,
+  "added": 1793462400,
+  "locations": [
+   "London, UK"
+  ]
  }
 ]
