@@ -4,13 +4,13 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793489294,
+ "last_run": 1793565405,
  "last_change": 1793404423,
  "last_result": "ok-no-change",
  "feed": {
-  "records": 19098,
-  "active": 3155,
-  "fetched_at": 1793489294,
+  "records": 18996,
+  "active": 3122,
+  "fetched_at": 1793565405,
   "attempts": 1
  },
  "counts": {
