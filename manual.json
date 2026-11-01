@@ -3941,5 +3941,21 @@
   "locations": [
    "San Francisco, CA"
   ]
+ },
+ {
+  "id": "manual:tnmvyh8ppht91k",
+  "company": "Thesis",
+  "title": "AI Engineer",
+  "url": "https://job-boards.greenhouse.io/thesiscareers/jobs/5281189007",
+  "location": "New York, NY",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793552400,
+  "active": true,
+  "manual": true,
+  "added": 1793552400,
+  "locations": [
+   "New York, NY"
+  ]
  }
 ]
