@@ -3632,31 +3632,6 @@
   "reason": null
  },
  {
-  "id": "simplify:203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
-  "first_seen": 1792475283,
-  "company": "WorldQuant",
-  "title": "Quantitative Developer - Portfolio Management Solutions",
-  "location": "Connecticut, NYC",
-  "url": "https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
-  "category": "Quant",
-  "posted": "2026-08-13",
-  "date_posted": 1786659311,
-  "active": true,
-  "locations": [
-   "Connecticut",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "worldquant|quantitative developer portfolio management solutions",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:823dc91a-f895-469a-b516-b3be2e1894e7",
   "first_seen": 1792475283,
   "company": "TikTok",
@@ -5475,6 +5450,33 @@
   "reason": "closed",
   "closed_at": 1792867862,
   "last_seen": 1792867862
+ },
+ {
+  "id": "simplify:203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
+  "first_seen": 1792475283,
+  "company": "WorldQuant",
+  "title": "Quantitative Developer - Portfolio Management Solutions",
+  "location": "Connecticut, NYC",
+  "url": "https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
+  "category": "Quant",
+  "posted": "2026-08-13",
+  "date_posted": 1786659311,
+  "active": false,
+  "locations": [
+   "Connecticut",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "worldquant|quantitative developer portfolio management solutions",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793651066,
+  "last_seen": 1793651066
  },
  {
   "id": "simplify:f4b05847-d015-43a2-b07f-482144c9580f",

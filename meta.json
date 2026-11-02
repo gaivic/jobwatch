@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793612305,
- "last_change": 1793612305,
+ "last_run": 1793651066,
+ "last_change": 1793651066,
  "last_result": "ok",
  "feed": {
-  "records": 18922,
-  "active": 3105,
-  "fetched_at": 1793612305,
+  "records": 18938,
+  "active": 3095,
+  "fetched_at": 1793651066,
   "attempts": 1
  },
  "counts": {
-  "active": 192,
-  "closed": 35,
+  "active": 191,
+  "closed": 36,
   "untracked": 0,
-  "groups": 164,
-  "companies": 46,
+  "groups": 163,
+  "companies": 45,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 143,
+  "category": 138,
   "phd": 178,
   "title": 23,
   "region": 36,
   "sponsorship": 0,
-  "age": 159
+  "age": 157
  },
  "keywords": {
   "adobe": {
@@ -954,11 +954,9 @@
    "denied": 0
   },
   "worldquant": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "WorldQuant"
-   ],
+   "names": [],
    "denied": 0
   },
   "xai": {
