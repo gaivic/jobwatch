@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793707444,
- "last_change": 1793707444,
+ "last_run": 1793734645,
+ "last_change": 1793734645,
  "last_result": "ok",
  "feed": {
-  "records": 18989,
-  "active": 3103,
-  "fetched_at": 1793707444,
+  "records": 18999,
+  "active": 3070,
+  "fetched_at": 1793734645,
   "attempts": 1
  },
  "counts": {
-  "active": 194,
-  "closed": 38,
+  "active": 189,
+  "closed": 43,
   "untracked": 0,
-  "groups": 166,
-  "companies": 45,
+  "groups": 162,
+  "companies": 43,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 5,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 138,
   "phd": 177,
   "title": 23,
-  "region": 38,
+  "region": 37,
   "sponsorship": 0,
-  "age": 157
+  "age": 154
  },
  "keywords": {
   "adobe": {
@@ -420,11 +420,9 @@
    "denied": 0
   },
   "harvey": {
-   "active": 2,
+   "active": 0,
    "all_time": 2,
-   "names": [
-    "Harvey"
-   ],
+   "names": [],
    "denied": 0
   },
   "headlands": {
@@ -960,11 +958,9 @@
    "denied": 0
   },
   "xai": {
-   "active": 3,
+   "active": 0,
    "all_time": 3,
-   "names": [
-    "xAI"
-   ],
+   "names": [],
    "denied": 0
   },
   "xtx": {
