@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_191 open new-grad roles at 45 companies · list last changed 2026-11-02 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 17 · Shield AI 13 · Anduril 7 · Apple 7 · Microsoft 7 · Applied Intuition 5 · …
+_195 open new-grad roles at 45 companies · list last changed 2026-11-03 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 17 · Shield AI 13 · Apple 9 · Microsoft 9 · Anduril 8 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -310,18 +310,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Anduril (7)</summary>
+<summary>Apple (9)</summary>
 
-- [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007) — Costa Mesa, CA · posted 2026-09-22 · HW · BS/MS
-- [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5240165007) — Fort Collins, CO, Broomfield, CO · posted 2026-09-16 · SWE · BS
-- [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) — Costa Mesa, CA · posted 2026-09-03 · HW · BS/MS
-- [Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226473007) · [2](https://boards.greenhouse.io/andurilindustries/jobs/5226471007) · [3](https://boards.greenhouse.io/andurilindustries/jobs/5221253007) — Washington, DC; Boston, MA; Quincy, MA · posted 2026-09-01 · SWE
-- [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) — Fort Collins, CO, Broomfield, CO · posted 2026-08-19 · SWE · BS
-
-</details>
-<details open>
-<summary>Apple (7)</summary>
-
+- [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200692894) · [2](https://jobs.apple.com/en-us/details/200692907) — San Diego, CA · posted 2026-11-02 · SWE · BS/MS
 - [Graphics Software Content Engineer](https://jobs.apple.com/en-us/details/200689345) — Orlando, FL · posted 2026-10-15 · HW · BS
 - [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200685871) — Austin, TX, San Jose, CA · posted 2026-09-26 · SWE · BS
 - [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS
@@ -332,12 +323,25 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (7)</summary>
+<summary>Microsoft (9)</summary>
 
+- [Software Engineer IC2](https://apply.careers.microsoft.com/careers/job/1970393557050639) — Redmond, WA · posted 2026-11-02 · SWE · BS
 - [Firmware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039426) — Redmond, WA, Mountain View, CA · posted 2026-10-30 · HW · BS/MS
 - [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557045516) · [2](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [3](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Mountain View, CA; Redmond, WA, Reston, VA; Redmond, WA · posted 2026-10-27 · SWE · BS/MS
 - [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Anduril (8)</summary>
+
+- [Space Orbital Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5236290007) — Costa Mesa, CA · posted 2026-11-02 · SWE · BS/MS
+- [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007) — Costa Mesa, CA · posted 2026-09-22 · HW · BS/MS
+- [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5240165007) — Fort Collins, CO, Broomfield, CO · posted 2026-09-16 · SWE · BS
+- [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) — Costa Mesa, CA · posted 2026-09-03 · HW · BS/MS
+- [Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226473007) · [2](https://boards.greenhouse.io/andurilindustries/jobs/5226471007) · [3](https://boards.greenhouse.io/andurilindustries/jobs/5221253007) — Washington, DC; Boston, MA; Quincy, MA · posted 2026-09-01 · SWE
+- [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) — Fort Collins, CO, Broomfield, CO · posted 2026-08-19 · SWE · BS
 
 </details>
 <details open>
@@ -373,13 +377,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Early Career C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq) — Chicago, IL · posted 2026-10-12 · SWE · BS/MS
 - [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [3](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-09-18 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Salesforce (3)</summary>
-
-- [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598) — Indianapolis, IN, Dallas, TX · posted 2026-10-27 · SWE · BS
-- [AI Labs Rotational Fellow - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678) — Seattle, WA, SF, NYC · posted 2026-10-16 · SWE · BS/MS
 
 </details>
 <details open>
@@ -435,6 +432,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Master's University Graduate Data Scientist](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) — Palo Alto, CA, Seattle, WA, SF · posted 2026-10-01 · ML · MS
 - [University Grad Software Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) — SF, Remote in USA · posted 2026-10-01 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Salesforce (2)</summary>
+
+- [AI Labs Rotational Fellow - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678) — Seattle, WA, SF, NYC · posted 2026-10-16 · SWE · BS/MS
 
 </details>
 <details open>
