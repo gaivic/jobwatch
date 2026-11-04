@@ -4217,5 +4217,21 @@
   "locations": [
    "London, UK"
   ]
+ },
+ {
+  "id": "manual:tnmw2rgj5eb0i8",
+  "company": "Generalist",
+  "title": "Forward Deployed Engineer",
+  "url": "https://jobs.ashbyhq.com/generalist/15b3d06b-ffa9-495a-b56f-d662c9be2b86",
+  "location": "San Mateo, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793811600,
+  "active": true,
+  "manual": true,
+  "added": 1793811600,
+  "locations": [
+   "San Mateo, CA"
+  ]
  }
 ]
