@@ -4005,5 +4005,22 @@
   "locations": [
    "Palo Alto, CA"
   ]
+ },
+ {
+  "id": "manual:tnmw1dbmf9v9f6",
+  "company": "SambaNova Systems",
+  "title": "Machine Learning Engineer - New Grad",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004",
+  "location": "Austin, TX, San Jose, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793725200,
+  "active": true,
+  "manual": true,
+  "added": 1793725200,
+  "locations": [
+   "Austin, TX",
+   "San Jose, CA"
+  ]
  }
 ]
