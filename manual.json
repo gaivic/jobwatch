@@ -4118,5 +4118,23 @@
   "locations": [
    "London, UK"
   ]
+ },
+ {
+  "id": "manual:tnmw2pb0z64abj",
+  "company": "Candid Health",
+  "title": "Deployment - New Grad",
+  "url": "https://jobs.ashbyhq.com/candidhealth/9a33f09d-5cd1-424d-ada2-426bc1570e54",
+  "location": "San Francisco, CA, New York, NY, Denver, CO",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793811600,
+  "active": true,
+  "manual": true,
+  "added": 1793811600,
+  "locations": [
+   "San Francisco, CA",
+   "New York, NY",
+   "Denver, CO"
+  ]
  }
 ]
