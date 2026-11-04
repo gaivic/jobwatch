@@ -4022,5 +4022,21 @@
    "Austin, TX",
    "San Jose, CA"
   ]
+ },
+ {
+  "id": "manual:tnmw286t0npvce",
+  "company": "Nooks",
+  "title": "Software Engineer",
+  "url": "https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0",
+  "location": "Seattle, WA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793811600,
+  "active": true,
+  "manual": true,
+  "added": 1793811600,
+  "locations": [
+   "Seattle, WA"
+  ]
  }
 ]
