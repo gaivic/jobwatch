@@ -4038,5 +4038,21 @@
   "locations": [
    "Seattle, WA"
   ]
+ },
+ {
+  "id": "manual:tnmw2ez4pfgoth",
+  "company": "Jane Street",
+  "title": "Software Engineer (London)",
+  "url": "https://www.janestreet.com/join-jane-street/apply/8647260002?gh_jid=8647260002",
+  "location": "London, UK",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793811600,
+  "active": true,
+  "manual": true,
+  "added": 1793811600,
+  "locations": [
+   "London, UK"
+  ]
  }
 ]
