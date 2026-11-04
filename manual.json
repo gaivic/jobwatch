@@ -4136,5 +4136,22 @@
    "New York, NY",
    "Denver, CO"
   ]
+ },
+ {
+  "id": "manual:tnmw2pcq871747",
+  "company": "Trexquant",
+  "title": "C++ Developer",
+  "url": "https://apply.workable.com/trexquant/j/AADE688F5F/",
+  "location": "Stamford, CT, New York, NY",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793811600,
+  "active": true,
+  "manual": true,
+  "added": 1793811600,
+  "locations": [
+   "Stamford, CT",
+   "New York, NY"
+  ]
  }
 ]
