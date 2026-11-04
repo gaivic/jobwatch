@@ -4169,5 +4169,21 @@
   "locations": [
    "Remote"
   ]
+ },
+ {
+  "id": "manual:tnmw2pgjs379lu",
+  "company": "Jane Street",
+  "title": "Machine Learning Compiler Engineer",
+  "url": "https://www.janestreet.com/join-jane-street/apply/8922042002?gh_jid=8922042002",
+  "location": "New York, NY",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793811600,
+  "active": true,
+  "manual": true,
+  "added": 1793811600,
+  "locations": [
+   "New York, NY"
+  ]
  }
 ]
