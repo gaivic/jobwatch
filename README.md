@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_189 open new-grad roles at 43 companies · list last changed 2026-11-03 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 17 · Shield AI 13 · Apple 9 · Anduril 8 · Microsoft 8 · Applied Intuition 5 · …
+_192 open new-grad roles at 44 companies · list last changed 2026-11-04 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 24 · Amazon 18 · Shield AI 13 · Apple 9 · Microsoft 8 · Anduril 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -272,8 +272,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Amazon (17)</summary>
+<summary>Amazon (18)</summary>
 
+- [Software Development Engineer – Early Career - Embedded Systems](https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us) — Seattle, WA, Cupertino, CA, United States · posted 2026-11-03 · HW · BS/MS
 - [Software Development Engineer - Database](https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us) — Boston, MA, Seattle, WA, Austin, TX · posted 2026-10-30 · SWE · BS/MS
 - [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) · [2](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-10-29 · SWE · BS
 - [Applied Scientist - North America Sort Centers - Amazon Transportation Services](https://amazon.jobs/en/jobs/10592906/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services) — Bellevue, WA · posted 2026-10-29 · ML · MS/PhD
@@ -323,17 +324,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Anduril (8)</summary>
-
-- [Space Orbital Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5236290007) — Costa Mesa, CA · posted 2026-11-02 · SWE · BS/MS
-- [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007) — Costa Mesa, CA · posted 2026-09-22 · HW · BS/MS
-- [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5240165007) — Fort Collins, CO, Broomfield, CO · posted 2026-09-16 · SWE · BS
-- [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) — Costa Mesa, CA · posted 2026-09-03 · HW · BS/MS
-- [Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226473007) · [2](https://boards.greenhouse.io/andurilindustries/jobs/5226471007) · [3](https://boards.greenhouse.io/andurilindustries/jobs/5221253007) — Washington, DC; Boston, MA; Quincy, MA · posted 2026-09-01 · SWE
-- [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) — Fort Collins, CO, Broomfield, CO · posted 2026-08-19 · SWE · BS
-
-</details>
-<details open>
 <summary>Microsoft (8)</summary>
 
 - [Software Engineer IC2](https://apply.careers.microsoft.com/careers/job/1970393557050639) — Redmond, WA · posted 2026-11-02 · SWE · BS
@@ -342,6 +332,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
 - [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Anduril (7)</summary>
+
+- [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007) — Costa Mesa, CA · posted 2026-09-22 · HW · BS/MS
+- [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5240165007) — Fort Collins, CO, Broomfield, CO · posted 2026-09-16 · SWE · BS
+- [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) — Costa Mesa, CA · posted 2026-09-03 · HW · BS/MS
+- [Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226473007) · [2](https://boards.greenhouse.io/andurilindustries/jobs/5226471007) · [3](https://boards.greenhouse.io/andurilindustries/jobs/5221253007) — Washington, DC; Boston, MA; Quincy, MA · posted 2026-09-01 · SWE
+- [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) — Fort Collins, CO, Broomfield, CO · posted 2026-08-19 · SWE · BS
 
 </details>
 <details open>
@@ -355,6 +355,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>SambaNova Systems (5)</summary>
+
+- [Machine Learning Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) — Austin, TX, San Jose, CA · posted 2026-11-03 · ML · BS/MS/PhD
+- [ML Infrastructure Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
+- [Runtime Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
+- [Compiler Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
+- [AI Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) — Austin, TX, San Jose, CA · posted 2026-10-20 · ML · BS/MS/PhD
+
+</details>
+<details open>
 <summary>NVIDIA (4)</summary>
 
 - [Technical Product Marketing Engineer - Robotics Simulation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742) — Santa Clara, CA · posted 2026-10-19 · ML · BS/MS
@@ -364,19 +374,18 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>SambaNova Systems (4)</summary>
-
-- [ML Infrastructure Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
-- [Runtime Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
-- [Compiler Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
-- [AI Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) — Austin, TX, San Jose, CA · posted 2026-10-20 · ML · BS/MS/PhD
-
-</details>
-<details open>
 <summary>Wolverine Trading (4)</summary>
 
 - [Early Career C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq) — Chicago, IL · posted 2026-10-12 · SWE · BS/MS
 - [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [3](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-09-18 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>ServiceNow (3)</summary>
+
+- [Software Engineer - Agent Eval Platform](https://jobs.smartrecruiters.com/ServiceNow/744000159509479) — Mountain View, CA · posted 2026-11-03 · SWE
+- [Associate Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) — Santa Clara, CA · posted 2026-10-23 · SWE
+- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
 
 </details>
 <details open>
@@ -431,13 +440,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer New Grad - Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) — SF · posted 2026-09-23 · SWE · BS
 - [Software Engineer New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) — SF · posted 2026-09-04 · SWE · BS
-
-</details>
-<details open>
-<summary>ServiceNow (2)</summary>
-
-- [Associate Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) — Santa Clara, CA · posted 2026-10-23 · SWE
-- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
 
 </details>
 <details open>
@@ -537,6 +539,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>IMC Trading (1)</summary>
 
 - [Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) — Chicago, IL · posted 2026-08-27 · SWE · BS
+
+</details>
+<details open>
+<summary>LinkedIn (1)</summary>
+
+- [Data Scientist](https://jobs.smartrecruiters.com/LinkedIn3/744000159509679) — Mountain View, CA · posted 2026-11-03 · ML · BS/MS/PhD
 
 </details>
 <details open>
