@@ -3973,5 +3973,21 @@
   "locations": [
    "San Mateo, CA"
   ]
+ },
+ {
+  "id": "manual:tnmw1dahgx74pr",
+  "company": "Polished Snow",
+  "title": "Research Engineer, Inference",
+  "url": "https://jobs.ashbyhq.com/plsn/fc551b74-07b0-4dfe-b830-d4c437995100",
+  "location": "Palo Alto, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793725200,
+  "active": true,
+  "manual": true,
+  "added": 1793725200,
+  "locations": [
+   "Palo Alto, CA"
+  ]
  }
 ]
