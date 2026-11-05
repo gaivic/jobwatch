@@ -1,5 +1,94 @@
 [
  {
+  "id": "simplify:69a2b80e-0007-44a1-9f87-b52f905dcc1b",
+  "first_seen": 1793896399,
+  "company": "Two Sigma",
+  "title": "Systematic Strategies Oversight Analyst",
+  "location": "NYC",
+  "url": "https://twosigma.avature.net/careers/JobDetail/14405",
+  "category": "Quant",
+  "posted": "2026-11-05",
+  "date_posted": 1793892601,
+  "active": true,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "two sigma|systematic strategies oversight analyst",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c94d843b-6831-4906-8af6-9b2f52f8c06f",
+  "first_seen": 1793896399,
+  "company": "Susquehanna International Group",
+  "title": "Software Developer - Core Order Management System - C++",
+  "location": "Chicago, IL",
+  "url": "https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false",
+  "category": "SWE",
+  "posted": "2026-11-05",
+  "date_posted": 1793865154,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|software developer core order management system c",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:79702bf6-af31-445f-97a0-9127d09059a3",
+  "first_seen": 1793896399,
+  "company": "Susquehanna International Group",
+  "title": "Faculty Fellow",
+  "location": "Bala Cynwyd, PA",
+  "url": "https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false",
+  "category": "ML",
+  "posted": "2026-11-05",
+  "date_posted": 1793865150,
+  "active": true,
+  "locations": [
+   "Bala Cynwyd, PA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|faculty fellow",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:42f27fb0-baca-4b45-91dc-60dd9dd9c5e6",
+  "first_seen": 1793896399,
+  "company": "Susquehanna International Group",
+  "title": "Quantitative Sports Researcher – Graduate Hire",
+  "location": "Bala Cynwyd, PA",
+  "url": "https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-11-05",
+  "date_posted": 1793865150,
+  "active": true,
+  "locations": [
+   "Bala Cynwyd, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|quantitative sports researcher graduate hire",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:1ebb8945-a47e-48a3-a181-d6bc174efd7d",
   "first_seen": 1793862006,
   "company": "Amazon",
@@ -1657,6 +1746,31 @@
   "reason": null
  },
  {
+  "id": "simplify:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
+  "first_seen": 1792475283,
+  "company": "Atlassian",
+  "title": "Data Engineer New Grad",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
+  "category": "ML",
+  "posted": "2026-10-05",
+  "date_posted": 1791237839,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|data engineer new grad",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1792867862
+ },
+ {
   "id": "simplify:169846aa-cf8c-463a-9721-b9826b79a129",
   "first_seen": 1792475283,
   "company": "Amazon",
@@ -1787,6 +1901,30 @@
   "reason": null
  },
  {
+  "id": "simplify:d739b0c1-7de2-4820-8075-fc8cf49855fd",
+  "first_seen": 1792475283,
+  "company": "Atlassian",
+  "title": "Data Scientist Graduate",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
+  "category": "ML",
+  "posted": "2026-09-30",
+  "date_posted": 1790806007,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|data scientist graduate",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1792867862
+ },
+ {
   "id": "simplify:f2c0c0c5-f679-46c2-98dc-36b42fe0532e",
   "first_seen": 1792475283,
   "company": "Anthropic",
@@ -1855,6 +1993,31 @@
   "group": "apple|cad engineer signoff infrastructure",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
+  "first_seen": 1792475283,
+  "company": "Atlassian",
+  "title": "Machine Learning Engineer - 2027 Graduate",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+  "category": "ML",
+  "posted": "2026-09-24",
+  "date_posted": 1790287661,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|machine learning engineer 2027 graduate",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1792867862
  },
  {
   "id": "simplify:3248cc32-d514-472b-9277-9ee00783420d",
@@ -2268,6 +2431,31 @@
   "group": "openai|software engineer applied emerging talent",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:71842870-b830-4748-a505-dedd8137d854",
+  "first_seen": 1792475283,
+  "company": "Atlassian",
+  "title": "Software Engineer",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
+  "category": "SWE",
+  "posted": "2026-09-15",
+  "date_posted": 1789434532,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|software engineer",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1792867862
  },
  {
   "id": "simplify:13ed523b-577a-4fbe-a3da-032a28eb0207",
@@ -2877,29 +3065,6 @@
   "reason": null
  },
  {
-  "id": "simplify:bbfd547f-84e0-4194-8f94-d9fd13af41da",
-  "first_seen": 1793279942,
-  "company": "Bridgewater Associates",
-  "title": "Trading Associate",
-  "location": "Westport, CT",
-  "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002",
-  "category": "Quant",
-  "posted": "2026-08-26",
-  "date_posted": 1787781886,
-  "active": true,
-  "locations": [
-   "Westport, CT"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "bridgewater associates|trading associate",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:b9818860-8ae5-4d0d-85c4-fa881f59838a",
   "first_seen": 1792475283,
   "company": "Marshall Wace",
@@ -3065,6 +3230,31 @@
   "reason": null
  },
  {
+  "id": "simplify:eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
+  "first_seen": 1792475283,
+  "company": "Susquehanna International Group",
+  "title": "Trading System Engineer New Grad",
+  "location": "Bala Cynwyd, PA",
+  "url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-08-21",
+  "date_posted": 1787333319,
+  "active": true,
+  "locations": [
+   "Bala Cynwyd, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|trading system engineer new grad",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1792867862
+ },
+ {
   "id": "simplify:d96fafe9-2ce5-48db-8750-98e1d30c0c85",
   "first_seen": 1792475283,
   "company": "NVIDIA",
@@ -3159,6 +3349,31 @@
   "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:03168c7d-a3ff-4da7-9e0a-378b83a7de04",
+  "first_seen": 1792475283,
+  "company": "Susquehanna International Group",
+  "title": "Quantitative Strategy Developer New Grad",
+  "location": "Bala Cynwyd, PA",
+  "url": "https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-08-19",
+  "date_posted": 1787177673,
+  "active": true,
+  "locations": [
+   "Bala Cynwyd, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|quantitative strategy developer new grad",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1792867862
  },
  {
   "id": "simplify:dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6",
@@ -4616,30 +4831,6 @@
   "reason": null
  },
  {
-  "id": "simplify:da8a18fa-889f-40b2-aed8-e47cf70f8f15",
-  "first_seen": 1792475283,
-  "company": "ByteDance",
-  "title": "Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering",
-  "location": "San Jose, CA",
-  "url": "https://jobs.bytedance.com/en/position/7669859743775000885/detail",
-  "category": "SWE",
-  "posted": "2026-08-06",
-  "date_posted": 1785996824,
-  "active": true,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "bytedance|graduate software engineer data intelligent creation ai platform global vision engineering",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:19b3d525-634e-4bc7-ad38-d92a4b53531d",
   "first_seen": 1793676635,
   "company": "Anduril",
@@ -5442,32 +5633,6 @@
   "last_seen": 1793734645
  },
  {
-  "id": "simplify:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
-  "first_seen": 1792475283,
-  "company": "Atlassian",
-  "title": "Data Engineer New Grad",
-  "location": "Seattle, WA",
-  "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
-  "category": "ML",
-  "posted": "2026-10-05",
-  "date_posted": 1791237839,
-  "active": false,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "atlassian|data engineer new grad",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1792867862,
-  "last_seen": 1792867862
- },
- {
   "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
   "first_seen": 1792475283,
   "company": "Harvey",
@@ -5547,83 +5712,6 @@
   "last_seen": 1792670695
  },
  {
-  "id": "simplify:d739b0c1-7de2-4820-8075-fc8cf49855fd",
-  "first_seen": 1792475283,
-  "company": "Atlassian",
-  "title": "Data Scientist Graduate",
-  "location": "Seattle, WA",
-  "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
-  "category": "ML",
-  "posted": "2026-09-30",
-  "date_posted": 1790806007,
-  "active": false,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "atlassian|data scientist graduate",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1792867862,
-  "last_seen": 1792867862
- },
- {
-  "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
-  "first_seen": 1792475283,
-  "company": "Atlassian",
-  "title": "Machine Learning Engineer - 2027 Graduate",
-  "location": "Seattle, WA",
-  "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
-  "category": "ML",
-  "posted": "2026-09-24",
-  "date_posted": 1790287661,
-  "active": false,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "atlassian|machine learning engineer 2027 graduate",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1792867862,
-  "last_seen": 1792867862
- },
- {
-  "id": "simplify:71842870-b830-4748-a505-dedd8137d854",
-  "first_seen": 1792475283,
-  "company": "Atlassian",
-  "title": "Software Engineer",
-  "location": "Seattle, WA",
-  "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
-  "category": "SWE",
-  "posted": "2026-09-15",
-  "date_posted": 1789434532,
-  "active": false,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "atlassian|software engineer",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1792867862,
-  "last_seen": 1792867862
- },
- {
   "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
   "first_seen": 1792475283,
   "company": "Motional",
@@ -5681,6 +5769,31 @@
   "last_seen": 1792797232
  },
  {
+  "id": "simplify:bbfd547f-84e0-4194-8f94-d9fd13af41da",
+  "first_seen": 1793279942,
+  "company": "Bridgewater Associates",
+  "title": "Trading Associate",
+  "location": "Westport, CT",
+  "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002",
+  "category": "Quant",
+  "posted": "2026-08-26",
+  "date_posted": 1787781886,
+  "active": false,
+  "locations": [
+   "Westport, CT"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "bridgewater associates|trading associate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793896399,
+  "last_seen": 1793896399
+ },
+ {
   "id": "simplify:ce9b5601-f631-40d5-93f2-c131bea80fdd",
   "first_seen": 1792475283,
   "company": "AQR Capital Management",
@@ -5705,58 +5818,6 @@
   "reason": "closed",
   "closed_at": 1792762519,
   "last_seen": 1792762519
- },
- {
-  "id": "simplify:eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
-  "first_seen": 1792475283,
-  "company": "Susquehanna International Group",
-  "title": "Trading System Engineer New Grad",
-  "location": "Bala Cynwyd, PA",
-  "url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
-  "category": "Quant",
-  "posted": "2026-08-21",
-  "date_posted": 1787333319,
-  "active": false,
-  "locations": [
-   "Bala Cynwyd, PA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "susquehanna international group|trading system engineer new grad",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1792867862,
-  "last_seen": 1792867862
- },
- {
-  "id": "simplify:03168c7d-a3ff-4da7-9e0a-378b83a7de04",
-  "first_seen": 1792475283,
-  "company": "Susquehanna International Group",
-  "title": "Quantitative Strategy Developer New Grad",
-  "location": "Bala Cynwyd, PA",
-  "url": "https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false",
-  "category": "Quant",
-  "posted": "2026-08-19",
-  "date_posted": 1787177673,
-  "active": false,
-  "locations": [
-   "Bala Cynwyd, PA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "susquehanna international group|quantitative strategy developer new grad",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1792867862,
-  "last_seen": 1792867862
  },
  {
   "id": "simplify:203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
@@ -5807,5 +5868,31 @@
   "reason": "closed",
   "closed_at": 1792568905,
   "last_seen": 1792568905
+ },
+ {
+  "id": "simplify:da8a18fa-889f-40b2-aed8-e47cf70f8f15",
+  "first_seen": 1792475283,
+  "company": "ByteDance",
+  "title": "Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7669859743775000885/detail",
+  "category": "SWE",
+  "posted": "2026-08-06",
+  "date_posted": 1785996824,
+  "active": false,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|graduate software engineer data intelligent creation ai platform global vision engineering",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793896399,
+  "last_seen": 1793896399
  }
 ]

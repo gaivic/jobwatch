@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793862006,
- "last_change": 1793862006,
+ "last_run": 1793896399,
+ "last_change": 1793896399,
  "last_result": "ok",
  "feed": {
-  "records": 19003,
-  "active": 3107,
-  "fetched_at": 1793862006,
+  "records": 19063,
+  "active": 3244,
+  "fetched_at": 1793896399,
   "attempts": 1
  },
  "counts": {
-  "active": 194,
-  "closed": 45,
+  "active": 202,
+  "closed": 41,
   "untracked": 0,
-  "groups": 166,
-  "companies": 44,
+  "groups": 175,
+  "companies": 46,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 143,
-  "phd": 178,
+  "category": 145,
+  "phd": 179,
   "title": 23,
-  "region": 35,
+  "region": 41,
   "sponsorship": 0,
-  "age": 154
+  "age": 159
  },
  "keywords": {
   "adobe": {
@@ -110,9 +110,11 @@
    "denied": 0
   },
   "atlassian": {
-   "active": 0,
+   "active": 4,
    "all_time": 4,
-   "names": [],
+   "names": [
+    "Atlassian"
+   ],
    "denied": 0
   },
   "aurora": {
@@ -160,7 +162,7 @@
    "denied": 0
   },
   "bridgewater": {
-   "active": 2,
+   "active": 1,
    "all_time": 2,
    "names": [
     "Bridgewater Associates"
@@ -168,7 +170,7 @@
    "denied": 0
   },
   "bytedance": {
-   "active": 24,
+   "active": 23,
    "all_time": 24,
    "names": [
     "ByteDance"
@@ -808,9 +810,11 @@
    "denied": 0
   },
   "susquehanna": {
-   "active": 0,
-   "all_time": 2,
-   "names": [],
+   "active": 5,
+   "all_time": 5,
+   "names": [
+    "Susquehanna International Group"
+   ],
    "denied": 0
   },
   "tenstorrent": {
@@ -862,8 +866,8 @@
    "denied": 0
   },
   "two sigma": {
-   "active": 2,
-   "all_time": 2,
+   "active": 3,
+   "all_time": 3,
    "names": [
     "Two Sigma"
    ],
