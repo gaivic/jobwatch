@@ -4,31 +4,31 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1793815458,
- "last_change": 1793815458,
+ "last_run": 1793862006,
+ "last_change": 1793862006,
  "last_result": "ok",
  "feed": {
-  "records": 19065,
-  "active": 3098,
-  "fetched_at": 1793815458,
+  "records": 19003,
+  "active": 3107,
+  "fetched_at": 1793862006,
   "attempts": 1
  },
  "counts": {
-  "active": 193,
-  "closed": 44,
+  "active": 194,
+  "closed": 45,
   "untracked": 0,
   "groups": 166,
   "companies": 44,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 143,
-  "phd": 179,
+  "phd": 178,
   "title": 23,
-  "region": 37,
+  "region": 35,
   "sponsorship": 0,
   "age": 154
  },
@@ -54,8 +54,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 18,
-   "all_time": 22,
+   "active": 19,
+   "all_time": 23,
    "names": [
     "Amazon"
    ],
@@ -536,8 +536,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 8,
-   "all_time": 19,
+   "active": 9,
+   "all_time": 20,
    "names": [
     "Microsoft"
    ],
@@ -574,7 +574,7 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 4,
+   "active": 3,
    "all_time": 9,
    "names": [
     "NVIDIA"
