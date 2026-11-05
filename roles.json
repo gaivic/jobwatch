@@ -1,5 +1,54 @@
 [
  {
+  "id": "simplify:02f41834-2a2e-4964-8780-2ad1148d6a18",
+  "first_seen": 1793922143,
+  "company": "Amazon",
+  "title": "Software Development Engineer – Early Career",
+  "location": "Redmond, WA",
+  "url": "https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us",
+  "category": "SWE",
+  "posted": "2026-11-05",
+  "date_posted": 1793920000,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer early career",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:28567561-232e-4d86-bb31-e684aa7ae533",
+  "first_seen": 1793922143,
+  "company": "Amazon",
+  "title": "Software Development Engineer – Early Career - Embedded Systems",
+  "location": "Redmond, WA, Northridge, LA",
+  "url": "https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us",
+  "category": "HW",
+  "posted": "2026-11-05",
+  "date_posted": 1793919996,
+  "active": true,
+  "locations": [
+   "Redmond, WA",
+   "Northridge, LA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer early career embedded systems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:69a2b80e-0007-44a1-9f87-b52f905dcc1b",
   "first_seen": 1793896399,
   "company": "Two Sigma",
