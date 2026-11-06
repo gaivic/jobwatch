@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_205 open new-grad roles at 46 companies · list last changed 2026-11-06 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 23 · Amazon 22 · Shield AI 13 · Microsoft 10 · Apple 9 · Anduril 7 · Applied Intuition 5 · …
+_204 open new-grad roles at 46 companies · list last changed 2026-11-06 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 23 · Amazon 22 · Shield AI 13 · Apple 9 · Microsoft 9 · Anduril 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -313,18 +313,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (10)</summary>
-
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556982635) · [2](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [3](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-05 · SWE · BS/MS
-- [Software Engineer IC2](https://apply.careers.microsoft.com/careers/job/1970393557050639) — Redmond, WA · posted 2026-11-02 · SWE · BS
-- [Firmware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039426) — Redmond, WA, Mountain View, CA · posted 2026-10-30 · HW · BS/MS
-- [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
-- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
-- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
-
-</details>
-<details open>
 <summary>Apple (9)</summary>
 
 - [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200692894) · [2](https://jobs.apple.com/en-us/details/200692907) — San Diego, CA · posted 2026-11-02 · SWE · BS/MS
@@ -335,6 +323,18 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
 - [Software Engineer - Infrastructure Services - Cloud Network Fault Tolerance](https://jobs.apple.com/en-us/details/200679765) — California · posted 2026-08-25 · SWE · BS/MS/PhD
 - [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
+
+</details>
+<details open>
+<summary>Microsoft (9)</summary>
+
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556982635) · [2](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [3](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-05 · SWE · BS/MS
+- [Software Engineer IC2](https://apply.careers.microsoft.com/careers/job/1970393557050639) — Redmond, WA · posted 2026-11-02 · SWE · BS
+- [Firmware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039426) — Redmond, WA, Mountain View, CA · posted 2026-10-30 · HW · BS/MS
+- [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
+- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+- [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
+- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
 
 </details>
 <details open>
