@@ -4330,5 +4330,21 @@
   "locations": [
    "New York"
   ]
+ },
+ {
+  "id": "manual:tn1zxrrr0r4at9",
+  "company": "Jane Street",
+  "title": "Machine Learning Compiler Engineer (London)",
+  "url": "https://www.janestreet.com/join-jane-street/apply/8927588002?gh_jid=8927588002",
+  "location": "London, UK",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "London, UK"
+  ]
  }
 ]
