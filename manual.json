@@ -4410,5 +4410,22 @@
   "locations": [
    "New York"
   ]
+ },
+ {
+  "id": "manual:tnuf0r7hb0m0vr",
+  "company": "Jump Trading",
+  "title": "Campus Quantitative Trader (Full-Time)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801",
+  "location": "London, Amsterdam",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "London",
+   "Amsterdam"
+  ]
  }
 ]
