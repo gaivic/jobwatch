@@ -4362,5 +4362,21 @@
   "locations": [
    "London"
   ]
+ },
+ {
+  "id": "manual:tn9jv54r3ozbhb",
+  "company": "Da Vinci",
+  "title": "Graduate Trader",
+  "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4043984101",
+  "location": "Amsterdam",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "Amsterdam"
+  ]
  }
 ]
