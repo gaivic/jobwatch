@@ -4427,5 +4427,21 @@
    "London",
    "Amsterdam"
   ]
+ },
+ {
+  "id": "manual:tn7w2k9qx8p4zf",
+  "company": "Domino Data Lab",
+  "title": "Software Engineer - New Grad, 2027",
+  "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556",
+  "location": "New York City, NY",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "New York City, NY"
+  ]
  }
 ]
