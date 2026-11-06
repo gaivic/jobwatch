@@ -4314,5 +4314,21 @@
    "London",
    "Paris"
   ]
+ },
+ {
+  "id": "manual:tno1mxntn1wf2x",
+  "company": "Tower Research Capital",
+  "title": "Software Engineer, Machine Lifecycle",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=8099782",
+  "location": "New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "New York"
+  ]
  }
 ]
