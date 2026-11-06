@@ -4297,5 +4297,22 @@
   "locations": [
    "New York, NY"
   ]
+ },
+ {
+  "id": "manual:tny6js6q3oi9cy",
+  "company": "Qube Research & Technologies",
+  "title": "2027 – Graduate or Internship, Infrastructure Engineer",
+  "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002",
+  "location": "London, Paris",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "London",
+   "Paris"
+  ]
  }
 ]
