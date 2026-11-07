@@ -4672,5 +4672,27 @@
   "locations": [
    "London"
   ]
+ },
+ {
+  "id": "manual:tn4qs56g1pkinf",
+  "company": "Qube Research & Technologies",
+  "title": "2027 - Internship, Software Engineering and Quantitative Development",
+  "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
+  "location": "London, Paris, Wrocław, Zurich, Dubai, Aarhus, Amsterdam",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "London",
+   "Paris",
+   "Wrocław",
+   "Zurich",
+   "Dubai",
+   "Aarhus",
+   "Amsterdam"
+  ]
  }
 ]
