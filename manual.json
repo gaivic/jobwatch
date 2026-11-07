@@ -4573,5 +4573,37 @@
   "locations": [
    "San Francisco Bay Area"
   ]
+ },
+ {
+  "id": "manual:tn8fjf33w7mz6u",
+  "company": "Brain Co.",
+  "title": "AI Product Engineer, 2027 New Grad",
+  "url": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e",
+  "location": "San Francisco Bay Area",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "San Francisco Bay Area"
+  ]
+ },
+ {
+  "id": "manual:tnejga8v7q7p7s",
+  "company": "Brain Co.",
+  "title": "AI Platform Engineer, 2027 New Grad",
+  "url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15",
+  "location": "San Francisco Bay Area",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "San Francisco Bay Area"
+  ]
  }
 ]
