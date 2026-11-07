@@ -4461,5 +4461,37 @@
    "Paris",
    "New York"
   ]
+ },
+ {
+  "id": "manual:tnhu5xkgi7lmjo",
+  "company": "NTT DATA AIVista",
+  "title": "Member of Technical Staff - Enterprise Engineering I [Bay Area]",
+  "url": "https://jobs.ashbyhq.com/ntt-data-aivista/eef8b2f4-c13e-4e28-80c0-3008d3937991",
+  "location": "San Francisco Bay Area",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "San Francisco Bay Area"
+  ]
+ },
+ {
+  "id": "manual:tne6wzw0pol55a",
+  "company": "Pelico",
+  "title": "Fullstack Software Engineer, ADK",
+  "url": "https://jobs.ashbyhq.com/Pelico/cbf163e3-42c4-4ded-aa1a-f4559e78bbbc",
+  "location": "Boston",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "Boston"
+  ]
  }
 ]
