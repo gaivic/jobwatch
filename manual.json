@@ -4694,5 +4694,22 @@
    "Aarhus",
    "Amsterdam"
   ]
+ },
+ {
+  "id": "manual:tnixxb6nq6rsie",
+  "company": "Qube Research & Technologies",
+  "title": "2027 - Internship, Data Engineering",
+  "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002",
+  "location": "Paris, London",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "Paris",
+   "London"
+  ]
  }
 ]
