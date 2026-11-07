@@ -4509,5 +4509,21 @@
   "locations": [
    "New York"
   ]
+ },
+ {
+  "id": "manual:tn1l5mxhrlkgnf",
+  "company": "FSH",
+  "title": "Engineer - New Grad",
+  "url": "https://jobs.ashbyhq.com/FSH/71b6506a-10c2-4498-9cff-1009e0582bda",
+  "location": "Philadelphia",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "Philadelphia"
+  ]
  }
 ]
