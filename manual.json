@@ -4621,5 +4621,23 @@
   "locations": [
    "San Francisco Bay Area"
   ]
+ },
+ {
+  "id": "manual:tnr9bz36dct6zd",
+  "company": "Qube Research & Technologies",
+  "title": "2027 Internship – Security Engineer",
+  "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
+  "location": "London, Paris, New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "London",
+   "Paris",
+   "New York"
+  ]
  }
 ]
