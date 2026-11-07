@@ -4,24 +4,24 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794069105,
- "last_change": 1794069105,
+ "last_run": 1794088768,
+ "last_change": 1794088768,
  "last_result": "ok",
  "feed": {
   "records": 18941,
-  "active": 3234,
-  "fetched_at": 1794069105,
+  "active": 3231,
+  "fetched_at": 1794088768,
   "attempts": 1
  },
  "counts": {
-  "active": 203,
-  "closed": 48,
+  "active": 202,
+  "closed": 49,
   "untracked": 0,
-  "groups": 175,
-  "companies": 46,
+  "groups": 174,
+  "companies": 45,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 3,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -632,11 +632,9 @@
    "denied": 0
   },
   "perplexity": {
-   "active": 1,
+   "active": 0,
    "all_time": 2,
-   "names": [
-    "Perplexity AI"
-   ],
+   "names": [],
    "denied": 0
   },
   "physical intelligence": {
