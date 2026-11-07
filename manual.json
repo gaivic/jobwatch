@@ -4557,5 +4557,21 @@
   "locations": [
    "San Francisco"
   ]
+ },
+ {
+  "id": "manual:tn03gahu2uzvtd",
+  "company": "Brain Co.",
+  "title": "AI Security Engineer, 2027 New Grad",
+  "url": "https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030",
+  "location": "San Francisco Bay Area",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "San Francisco Bay Area"
+  ]
  }
 ]
