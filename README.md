@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_204 open new-grad roles at 46 companies · list last changed 2026-11-06 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · ByteDance 23 · Amazon 22 · Shield AI 13 · Apple 9 · Microsoft 9 · Anduril 7 · Applied Intuition 5 · …
+_206 open new-grad roles at 46 companies · list last changed 2026-11-07 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 23 · Shield AI 13 · Microsoft 10 · Apple 9 · Anduril 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -246,6 +246,31 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details>
+<summary>Amazon (23)</summary>
+
+- [Systems Development Engineer - AWS Commerce Platform-ADC](https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc) — Denver, CO · posted 2026-11-06 · SWE · BS/MS/PhD
+- [Software Development Engineer - SoC Hardware Abstraction Layer](https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal) — Cupertino, CA · posted 2026-11-06 · SWE · BS/MS
+- [Software Development Engineer – Early Career](https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us) — Redmond, WA · posted 2026-11-05 · SWE · BS/MS
+- [Software Development Engineer – Early Career - Embedded Systems](https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us) · [2](https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us) — Redmond, WA, Northridge, LA; Seattle, WA, Cupertino, CA, United States · posted 2026-11-05 · HW · BS/MS
+- [Software Developer Engineer 1 - Security Platform](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) — Seattle, WA, SF, Irvine, CA · posted 2026-11-05 · SWE · BS
+- [Software Development Engineer - Database](https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us) — Boston, MA, Seattle, WA, Austin, TX · posted 2026-10-30 · SWE · BS/MS
+- [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) · [2](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-10-29 · SWE · BS
+- [Applied Scientist - North America Sort Centers - Amazon Transportation Services](https://amazon.jobs/en/jobs/10592906/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services) — Bellevue, WA · posted 2026-10-29 · ML · MS/PhD
+- [Software Developer Engineer - Product Knowledge Store](https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store) — Seattle, WA, United States · posted 2026-10-28 · SWE · BS
+- [Software Developer Engineer 1 - Graviton Software - Annapurna Labs](https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs) — Austin, TX · posted 2026-10-27 · SWE · BS
+- [Software Development Engineer - Prime Video Personalization & Discovery](https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery) · [2](https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) — Seattle, WA; Seattle, WA, NYC, Sunnyvale, CA · posted 2026-10-23 · SWE · BS/MS
+- [Software Development Engineer 1 Early Career - Annapurna Labs](https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) — Seattle, WA, Austin, TX, NYC · posted 2026-10-23 · SWE · BS/MS
+- [System Development Engineer - Region Reliability Engineering](https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering) — Denver, CO · posted 2026-10-23 · SWE
+- [Software Development Engineer - Embedded Systems](https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us) — Seattle, WA, Austin, TX, Redmond, WA · posted 2026-10-23 · HW · BS
+- [Robotics Embedded Software Development Engineer](https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer) — North Reading, MA, Westborough, MA · posted 2026-10-22 · HW · BS
+- [Software Engineer – Early Career](https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) — Madison, WI, Boston, MA, Seattle, WA · posted 2026-10-19 · SWE · BS/MS
+- [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-10-02 · SWE · BS
+- [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Seattle, WA, Nashville, TN, Austin, TX · posted 2026-10-01 · SWE · BS
+- [Robotics System Development Engineer](https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer) — Austin, TX · posted 2026-09-01 · SWE · BS
+- [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) — Redmond, WA, Northridge, LA · posted 2026-08-25 · SWE · BS/MS
+
+</details>
+<details>
 <summary>ByteDance (23)</summary>
 
 - [Software Engineer Graduate](https://jobs.bytedance.com/en/position/7689561253011097909/detail) — San Jose, CA · posted 2026-10-01 · SWE · BS
@@ -270,30 +295,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Backend Inference Framework Engineer - AML Inference](https://jobs.bytedance.com/en/position/7669670735275526453/detail) — San Jose, CA · posted 2026-08-06 · SWE · BS/MS
 
 </details>
-<details>
-<summary>Amazon (22)</summary>
-
-- [Software Development Engineer - SoC Hardware Abstraction Layer](https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal) — Cupertino, CA · posted 2026-11-06 · SWE · BS/MS
-- [Software Development Engineer – Early Career](https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us) — Redmond, WA · posted 2026-11-05 · SWE · BS/MS
-- [Software Development Engineer – Early Career - Embedded Systems](https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us) · [2](https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us) — Redmond, WA, Northridge, LA; Seattle, WA, Cupertino, CA, United States · posted 2026-11-05 · HW · BS/MS
-- [Software Developer Engineer 1 - Security Platform](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) — Seattle, WA, SF, Irvine, CA · posted 2026-11-05 · SWE · BS
-- [Software Development Engineer - Database](https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us) — Boston, MA, Seattle, WA, Austin, TX · posted 2026-10-30 · SWE · BS/MS
-- [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) · [2](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-10-29 · SWE · BS
-- [Applied Scientist - North America Sort Centers - Amazon Transportation Services](https://amazon.jobs/en/jobs/10592906/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services) — Bellevue, WA · posted 2026-10-29 · ML · MS/PhD
-- [Software Developer Engineer - Product Knowledge Store](https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store) — Seattle, WA, United States · posted 2026-10-28 · SWE · BS
-- [Software Developer Engineer 1 - Graviton Software - Annapurna Labs](https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs) — Austin, TX · posted 2026-10-27 · SWE · BS
-- [Software Development Engineer - Prime Video Personalization & Discovery](https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery) · [2](https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) — Seattle, WA; Seattle, WA, NYC, Sunnyvale, CA · posted 2026-10-23 · SWE · BS/MS
-- [Software Development Engineer 1 Early Career - Annapurna Labs](https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) — Seattle, WA, Austin, TX, NYC · posted 2026-10-23 · SWE · BS/MS
-- [System Development Engineer - Region Reliability Engineering](https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering) — Denver, CO · posted 2026-10-23 · SWE
-- [Software Development Engineer - Embedded Systems](https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us) — Seattle, WA, Austin, TX, Redmond, WA · posted 2026-10-23 · HW · BS
-- [Robotics Embedded Software Development Engineer](https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer) — North Reading, MA, Westborough, MA · posted 2026-10-22 · HW · BS
-- [Software Engineer – Early Career](https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) — Madison, WI, Boston, MA, Seattle, WA · posted 2026-10-19 · SWE · BS/MS
-- [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-10-02 · SWE · BS
-- [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Seattle, WA, Nashville, TN, Austin, TX · posted 2026-10-01 · SWE · BS
-- [Robotics System Development Engineer](https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer) — Austin, TX · posted 2026-09-01 · SWE · BS
-- [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) — Redmond, WA, Northridge, LA · posted 2026-08-25 · SWE · BS/MS
-
-</details>
 <details open>
 <summary>Shield AI (13)</summary>
 
@@ -313,6 +314,18 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Microsoft (10)</summary>
+
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [2](https://apply.careers.microsoft.com/careers/job/1970393556982635) · [3](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Reston, VA; Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-06 · SWE · BS/MS
+- [Software Engineer IC2](https://apply.careers.microsoft.com/careers/job/1970393557050639) — Redmond, WA · posted 2026-11-02 · SWE · BS
+- [Firmware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039426) — Redmond, WA, Mountain View, CA · posted 2026-10-30 · HW · BS/MS
+- [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
+- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+- [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
+- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
+
+</details>
+<details open>
 <summary>Apple (9)</summary>
 
 - [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200692894) · [2](https://jobs.apple.com/en-us/details/200692907) — San Diego, CA · posted 2026-11-02 · SWE · BS/MS
@@ -323,18 +336,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
 - [Software Engineer - Infrastructure Services - Cloud Network Fault Tolerance](https://jobs.apple.com/en-us/details/200679765) — California · posted 2026-08-25 · SWE · BS/MS/PhD
 - [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
-
-</details>
-<details open>
-<summary>Microsoft (9)</summary>
-
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556982635) · [2](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [3](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-05 · SWE · BS/MS
-- [Software Engineer IC2](https://apply.careers.microsoft.com/careers/job/1970393557050639) — Redmond, WA · posted 2026-11-02 · SWE · BS
-- [Firmware Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039426) — Redmond, WA, Mountain View, CA · posted 2026-10-30 · HW · BS/MS
-- [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
-- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
-- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
 
 </details>
 <details open>
@@ -402,11 +403,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>ServiceNow (3)</summary>
+<summary>Tesla (3)</summary>
 
-- [Software Engineer - Agent Eval Platform](https://jobs.smartrecruiters.com/ServiceNow/744000159509479) — Mountain View, CA · posted 2026-11-03 · SWE
-- [Associate Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) — Santa Clara, CA · posted 2026-10-23 · SWE
-- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
+- [Associate Data Engineer - Manufacturing Planning Systems - Semi](https://www.tesla.com/careers/search/job/289265) — Sparks, NV · posted 2026-11-06 · ML · BS
+- [Data Collection Coordinator - Optimus](https://www.tesla.com/careers/search/job/257533) — Fremont, CA · posted 2026-10-26 · ML
+- [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
 
 </details>
 <details open>
@@ -465,17 +466,17 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>ServiceNow (2)</summary>
+
+- [Software Engineer - Agent Eval Platform](https://jobs.smartrecruiters.com/ServiceNow/744000159509479) — Mountain View, CA · posted 2026-11-03 · SWE
+- [Associate Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) — Santa Clara, CA · posted 2026-10-23 · SWE
+
+</details>
+<details open>
 <summary>Stripe (2)</summary>
 
 - [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
 - [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Seattle, WA, SF, NYC · posted 2026-09-01 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Tesla (2)</summary>
-
-- [Data Collection Coordinator - Optimus](https://www.tesla.com/careers/search/job/257533) — Fremont, CA · posted 2026-10-26 · ML
-- [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
 
 </details>
 <details open>

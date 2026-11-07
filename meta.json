@@ -4,20 +4,20 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794000993,
- "last_change": 1794000993,
+ "last_run": 1794016832,
+ "last_change": 1794016832,
  "last_result": "ok",
  "feed": {
-  "records": 18992,
-  "active": 3206,
-  "fetched_at": 1794000993,
+  "records": 18974,
+  "active": 3255,
+  "fetched_at": 1794016832,
   "attempts": 1
  },
  "counts": {
-  "active": 204,
-  "closed": 44,
+  "active": 206,
+  "closed": 45,
   "untracked": 0,
-  "groups": 177,
+  "groups": 178,
   "companies": 46,
   "new_this_run": 0,
   "silent_known_this_run": 0,
@@ -25,7 +25,7 @@
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 144,
+  "category": 146,
   "phd": 178,
   "title": 21,
   "region": 41,
@@ -54,8 +54,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 22,
-   "all_time": 26,
+   "active": 23,
+   "all_time": 27,
    "names": [
     "Amazon"
    ],
@@ -538,8 +538,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 9,
-   "all_time": 21,
+   "active": 10,
+   "all_time": 22,
    "names": [
     "Microsoft"
    ],
@@ -756,7 +756,7 @@
    "denied": 0
   },
   "servicenow": {
-   "active": 3,
+   "active": 2,
    "all_time": 4,
    "names": [
     "ServiceNow"
@@ -824,8 +824,8 @@
    "denied": 0
   },
   "tesla": {
-   "active": 2,
-   "all_time": 2,
+   "active": 3,
+   "all_time": 3,
    "names": [
     "Tesla"
    ],
