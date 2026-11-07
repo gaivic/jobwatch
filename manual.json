@@ -4525,5 +4525,21 @@
   "locations": [
    "Philadelphia"
   ]
+ },
+ {
+  "id": "manual:tnaja134dbt4n6",
+  "company": "bags.fm",
+  "title": "Junior Full Stack Engineer",
+  "url": "https://jobs.ashbyhq.com/bagsfm/012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4",
+  "location": "New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "New York"
+  ]
  }
 ]
