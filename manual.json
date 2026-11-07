@@ -4497,7 +4497,7 @@
  {
   "id": "manual:tnk3o5ltbk6eod",
   "company": "LiveFlow",
-  "title": "Software Engineer - AI Agents",
+  "title": "Software Engineer - AI Agents (New York)",
   "url": "https://jobs.ashbyhq.com/liveflow/44a4e8f8-76fc-433e-963f-f5ffcfdccd46",
   "location": "New York",
   "category": "SWE",
@@ -4540,6 +4540,22 @@
   "added": 1794070800,
   "locations": [
    "New York"
+  ]
+ },
+ {
+  "id": "manual:tnb87j5asy93ta",
+  "company": "LiveFlow",
+  "title": "Software Engineer - AI Agents (San Francisco)",
+  "url": "https://jobs.ashbyhq.com/liveflow/e1ba2bad-030a-4bc2-9bbd-f1375f712a57",
+  "location": "San Francisco",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "San Francisco"
   ]
  }
 ]
