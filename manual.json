@@ -4297,5 +4297,201 @@
   "locations": [
    "New York, NY"
   ]
+ },
+ {
+  "id": "manual:tny6js6q3oi9cy",
+  "company": "Qube Research & Technologies",
+  "title": "2027 – Graduate or Internship, Infrastructure Engineer",
+  "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002",
+  "location": "London, Paris",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "London",
+   "Paris"
+  ]
+ },
+ {
+  "id": "manual:tno1mxntn1wf2x",
+  "company": "Tower Research Capital",
+  "title": "Software Engineer, Machine Lifecycle",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=8099782",
+  "location": "New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "New York"
+  ]
+ },
+ {
+  "id": "manual:tn1zxrrr0r4at9",
+  "company": "Jane Street",
+  "title": "Machine Learning Compiler Engineer (London)",
+  "url": "https://www.janestreet.com/join-jane-street/apply/8927588002?gh_jid=8927588002",
+  "location": "London, UK",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "London, UK"
+  ]
+ },
+ {
+  "id": "manual:tnxnllgcl6vqh9",
+  "company": "Tower Research Capital",
+  "title": "Quantitative Developer, C++ - Trading Teams EMEA",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=7080209",
+  "location": "London",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "London"
+  ]
+ },
+ {
+  "id": "manual:tn9jv54r3ozbhb",
+  "company": "Da Vinci",
+  "title": "Graduate Trader",
+  "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4043984101",
+  "location": "Amsterdam",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "Amsterdam"
+  ]
+ },
+ {
+  "id": "manual:tnk8qz2m5v9h4r",
+  "company": "Virtu Financial",
+  "title": "Quantitative Trader",
+  "url": "https://job-boards.greenhouse.io/virtu/jobs/4326632002",
+  "location": "Chicago",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "Chicago"
+  ]
+ },
+ {
+  "id": "manual:tn45a60k3ez00w",
+  "company": "Five Rings",
+  "title": "Recent Graduate - Trading Assistant (NYC)",
+  "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008",
+  "location": "New York",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "New York"
+  ]
+ },
+ {
+  "id": "manual:tnuf0r7hb0m0vr",
+  "company": "Jump Trading",
+  "title": "Campus Quantitative Trader (Full-Time)",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801",
+  "location": "London, Amsterdam",
+  "category": "Quant",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "London",
+   "Amsterdam"
+  ]
+ },
+ {
+  "id": "manual:tn7w2k9qx8p4zf",
+  "company": "Domino Data Lab",
+  "title": "Software Engineer - New Grad, 2027",
+  "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556",
+  "location": "New York City, NY",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "New York City, NY"
+  ]
+ },
+ {
+  "id": "manual:tn2xz1w40sdt1v",
+  "company": "Qube Research & Technologies",
+  "title": "2027 – Internship or Graduate, FPGA Engineering",
+  "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002",
+  "location": "London, Paris, New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1793984400,
+  "active": true,
+  "manual": true,
+  "added": 1793984400,
+  "locations": [
+   "London",
+   "Paris",
+   "New York"
+  ]
+ },
+ {
+  "id": "manual:tnhu5xkgi7lmjo",
+  "company": "NTT DATA AIVista",
+  "title": "Member of Technical Staff - Enterprise Engineering I [Bay Area]",
+  "url": "https://jobs.ashbyhq.com/ntt-data-aivista/eef8b2f4-c13e-4e28-80c0-3008d3937991",
+  "location": "San Francisco Bay Area",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "San Francisco Bay Area"
+  ]
+ },
+ {
+  "id": "manual:tne6wzw0pol55a",
+  "company": "Pelico",
+  "title": "Fullstack Software Engineer, ADK",
+  "url": "https://jobs.ashbyhq.com/Pelico/cbf163e3-42c4-4ded-aa1a-f4559e78bbbc",
+  "location": "Boston",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794070800,
+  "active": true,
+  "manual": true,
+  "added": 1794070800,
+  "locations": [
+   "Boston"
+  ]
  }
 ]
