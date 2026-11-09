@@ -4,24 +4,24 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794218306,
- "last_change": 1794218306,
+ "last_run": 1794257445,
+ "last_change": 1794257445,
  "last_result": "ok",
  "feed": {
-  "records": 18764,
-  "active": 3217,
-  "fetched_at": 1794218306,
+  "records": 18703,
+  "active": 3175,
+  "fetched_at": 1794257445,
   "attempts": 1
  },
  "counts": {
-  "active": 207,
-  "closed": 50,
+  "active": 205,
+  "closed": 52,
   "untracked": 0,
-  "groups": 178,
+  "groups": 176,
   "companies": 45,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -30,7 +30,7 @@
   "title": 23,
   "region": 41,
   "sponsorship": 0,
-  "age": 157
+  "age": 156
  },
  "keywords": {
   "adobe": {
@@ -237,7 +237,7 @@
    "active": 0,
    "all_time": 0,
    "names": [],
-   "denied": 1
+   "denied": 0
   },
   "cubist": {
    "active": 0,
@@ -536,7 +536,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 7,
+   "active": 6,
    "all_time": 22,
    "names": [
     "Microsoft"
@@ -942,7 +942,7 @@
    "denied": 0
   },
   "wolverine": {
-   "active": 4,
+   "active": 3,
    "all_time": 4,
    "names": [
     "Wolverine Trading"

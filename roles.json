@@ -1545,30 +1545,6 @@
   "reason": null
  },
  {
-  "id": "simplify:1935c5df-770d-45f2-bbde-4d4a462ad5cb",
-  "first_seen": 1792475283,
-  "company": "Wolverine Trading",
-  "title": "Early Career C++ Software Engineer",
-  "location": "Chicago, IL",
-  "url": "https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq",
-  "category": "SWE",
-  "posted": "2026-10-12",
-  "date_posted": 1791814756,
-  "active": true,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "wolverine trading|early career c software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:23f1c2c3-62c7-4b59-ad95-85d0505c58dc",
   "first_seen": 1793815458,
   "company": "Shield AI",
@@ -2650,30 +2626,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "google|research engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
-  "first_seen": 1793676635,
-  "company": "Microsoft",
-  "title": "Software Engineer - CoreAI",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-  "category": "SWE",
-  "posted": "2026-09-11",
-  "date_posted": 1789109816,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer coreai",
   "in_feed": true,
   "reason": null
  },
@@ -5810,6 +5762,32 @@
   "last_seen": 1792497032
  },
  {
+  "id": "simplify:1935c5df-770d-45f2-bbde-4d4a462ad5cb",
+  "first_seen": 1792475283,
+  "company": "Wolverine Trading",
+  "title": "Early Career C++ Software Engineer",
+  "location": "Chicago, IL",
+  "url": "https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq",
+  "category": "SWE",
+  "posted": "2026-10-12",
+  "date_posted": 1791814756,
+  "active": false,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "wolverine trading|early career c software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794257445,
+  "last_seen": 1794257445
+ },
+ {
   "id": "simplify:34e9778a-347d-4ab1-94fd-8da5c77008be",
   "first_seen": 1792475283,
   "company": "NVIDIA",
@@ -6101,6 +6079,32 @@
   "reason": "closed",
   "closed_at": 1794016832,
   "last_seen": 1794016832
+ },
+ {
+  "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
+  "first_seen": 1793676635,
+  "company": "Microsoft",
+  "title": "Software Engineer - CoreAI",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+  "category": "SWE",
+  "posted": "2026-09-11",
+  "date_posted": 1789109816,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer coreai",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794257445,
+  "last_seen": 1794257445
  },
  {
   "id": "simplify:03bcc190-297d-4f25-b85d-749b57da6016",

@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_207 open new-grad roles at 45 companies · list last changed 2026-11-09 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 23 · Shield AI 18 · Apple 9 · Anduril 7 · Microsoft 7 · Applied Intuition 5 · …
+_205 open new-grad roles at 45 companies · list last changed 2026-11-09 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 23 · Shield AI 18 · Apple 9 · Anduril 7 · Microsoft 6 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -341,12 +341,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (7)</summary>
+<summary>Microsoft (6)</summary>
 
 - [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [2](https://apply.careers.microsoft.com/careers/job/1970393556982635) · [3](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Reston, VA; Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-06 · SWE · BS/MS
 - [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
 
 </details>
 <details open>
@@ -389,13 +388,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Wolverine Trading (4)</summary>
-
-- [Early Career C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq) — Chicago, IL · posted 2026-10-12 · SWE · BS/MS
-- [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [3](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-09-18 · SWE · BS/MS
-
-</details>
-<details open>
 <summary>NVIDIA (3)</summary>
 
 - [SoC Software Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) — Santa Clara, CA · posted 2026-10-13 · SWE · BS/MS
@@ -416,6 +408,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Systematic Strategies Oversight Analyst](https://twosigma.avature.net/careers/JobDetail/14405) — NYC · posted 2026-11-05 · Quant · BS
 - [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
+
+</details>
+<details open>
+<summary>Wolverine Trading (3)</summary>
+
+- [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [3](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-09-18 · SWE · BS/MS
 
 </details>
 <details open>
