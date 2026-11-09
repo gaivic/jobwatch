@@ -4711,5 +4711,22 @@
    "Paris",
    "London"
   ]
+ },
+ {
+  "id": "manual:tn7xn0todmds5r",
+  "company": "Quadrature Capital",
+  "title": "Quantitative Developer",
+  "url": "https://job-boards.greenhouse.io/quadraturecapital/jobs/8028012",
+  "location": "London, Singapore",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794243600,
+  "active": true,
+  "manual": true,
+  "added": 1794243600,
+  "locations": [
+   "London",
+   "Singapore"
+  ]
  }
 ]
