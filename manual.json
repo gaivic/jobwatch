@@ -4728,5 +4728,22 @@
    "London",
    "Singapore"
   ]
+ },
+ {
+  "id": "manual:tnqnkdqt16dhsp",
+  "company": "Notion",
+  "title": "Software Engineer, Web Infrastructure",
+  "url": "https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042",
+  "location": "San Francisco, New York",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794243600,
+  "active": true,
+  "manual": true,
+  "added": 1794243600,
+  "locations": [
+   "San Francisco",
+   "New York"
+  ]
  }
 ]
