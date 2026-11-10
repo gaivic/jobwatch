@@ -4,24 +4,24 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794283847,
- "last_change": 1794283847,
+ "last_run": 1794314811,
+ "last_change": 1794314811,
  "last_result": "ok",
  "feed": {
-  "records": 18753,
-  "active": 3214,
-  "fetched_at": 1794283847,
+  "records": 18777,
+  "active": 3224,
+  "fetched_at": 1794314811,
   "attempts": 1
  },
  "counts": {
-  "active": 209,
-  "closed": 52,
+  "active": 213,
+  "closed": 51,
   "untracked": 0,
-  "groups": 178,
-  "companies": 43,
+  "groups": 182,
+  "companies": 45,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 3,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -78,9 +78,11 @@
    "denied": 0
   },
   "anysphere": {
-   "active": 0,
-   "all_time": 1,
-   "names": [],
+   "active": 1,
+   "all_time": 2,
+   "names": [
+    "Anysphere"
+   ],
    "denied": 0
   },
   "apple": {
@@ -960,9 +962,11 @@
    "denied": 0
   },
   "xai": {
-   "active": 0,
-   "all_time": 3,
-   "names": [],
+   "active": 3,
+   "all_time": 5,
+   "names": [
+    "xAI"
+   ],
    "denied": 0
   },
   "xtx": {

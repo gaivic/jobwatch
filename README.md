@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_209 open new-grad roles at 43 companies · list last changed 2026-11-10 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 23 · Shield AI 18 · Apple 9 · Microsoft 9 · Anduril 7 · Applied Intuition 5 · …
+_213 open new-grad roles at 45 companies · list last changed 2026-11-10 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 23 · Shield AI 18 · Apple 9 · Microsoft 9 · Anduril 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -428,6 +428,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>xAI (3)</summary>
+
+- [AI Tutor – Uzbek](https://job-boards.greenhouse.io/xai/jobs/5270905007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Amharic](https://job-boards.greenhouse.io/xai/jobs/5270906007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+
+</details>
+<details open>
 <summary>Databricks (2)</summary>
 
 - [Software Engineer New Grad](https://boards.greenhouse.io/embed/job_app?token=6865698002) — Mountain View, CA · posted 2026-10-27 · SWE · BS
@@ -499,6 +507,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Anthropic (1)</summary>
 
 - [Claude Corps](https://job-boards.greenhouse.io/claudecorps/jobs/4402649009) — United States · posted 2026-09-29 · SWE
+
+</details>
+<details open>
+<summary>Anysphere (1)</summary>
+
+- [Software Engineer New Grad](https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true) — Palo Alto, CA, SF, NYC · posted 2026-11-10 · SWE · BS
 
 </details>
 <details open>
