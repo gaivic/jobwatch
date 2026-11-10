@@ -4,28 +4,28 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794257445,
- "last_change": 1794257445,
+ "last_run": 1794283847,
+ "last_change": 1794283847,
  "last_result": "ok",
  "feed": {
-  "records": 18703,
-  "active": 3175,
-  "fetched_at": 1794257445,
+  "records": 18753,
+  "active": 3214,
+  "fetched_at": 1794283847,
   "attempts": 1
  },
  "counts": {
-  "active": 205,
+  "active": 209,
   "closed": 52,
   "untracked": 0,
-  "groups": 176,
-  "companies": 45,
+  "groups": 178,
+  "companies": 43,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 3,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 145,
+  "category": 144,
   "phd": 179,
   "title": 23,
   "region": 41,
@@ -34,8 +34,8 @@
  },
  "keywords": {
   "adobe": {
-   "active": 2,
-   "all_time": 2,
+   "active": 3,
+   "all_time": 3,
    "names": [
     "Adobe"
    ],
@@ -78,11 +78,9 @@
    "denied": 0
   },
   "anysphere": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "Anysphere"
-   ],
+   "names": [],
    "denied": 0
   },
   "apple": {
@@ -420,9 +418,11 @@
    "denied": 0
   },
   "harvey": {
-   "active": 0,
+   "active": 2,
    "all_time": 2,
-   "names": [],
+   "names": [
+    "Harvey"
+   ],
    "denied": 0
   },
   "headlands": {
@@ -496,11 +496,9 @@
    "denied": 0
   },
   "linkedin": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "LinkedIn"
-   ],
+   "names": [],
    "denied": 0
   },
   "luma": {
@@ -536,8 +534,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 6,
-   "all_time": 22,
+   "active": 9,
+   "all_time": 24,
    "names": [
     "Microsoft"
    ],
@@ -942,8 +940,8 @@
    "denied": 0
   },
   "wolverine": {
-   "active": 3,
-   "all_time": 4,
+   "active": 4,
+   "all_time": 5,
    "names": [
     "Wolverine Trading"
    ],
@@ -974,11 +972,9 @@
    "denied": 0
   },
   "zoox": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "Zoox"
-   ],
+   "names": [],
    "denied": 0
   }
  },
