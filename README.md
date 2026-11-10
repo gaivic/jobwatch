@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_213 open new-grad roles at 45 companies · list last changed 2026-11-10 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 23 · Shield AI 18 · Apple 9 · Microsoft 9 · Anduril 7 · Applied Intuition 5 · …
+_207 open new-grad roles at 44 companies · list last changed 2026-11-10 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 23 · Shield AI 18 · Microsoft 9 · Apple 8 · Anduril 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -318,19 +318,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Apple (9)</summary>
-
-- [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200692894) · [2](https://jobs.apple.com/en-us/details/200692907) — San Diego, CA · posted 2026-11-02 · SWE · BS/MS
-- [Graphics Software Content Engineer](https://jobs.apple.com/en-us/details/200689345) — Orlando, FL · posted 2026-10-15 · HW · BS
-- [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200685871) — Austin, TX, San Jose, CA · posted 2026-09-26 · SWE · BS
-- [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS
-- [Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200681316) — Sunnyvale, CA · posted 2026-09-01 · HW · BS/MS
-- [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
-- [Software Engineer - Infrastructure Services - Cloud Network Fault Tolerance](https://jobs.apple.com/en-us/details/200679765) — California · posted 2026-08-25 · SWE · BS/MS/PhD
-- [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
-
-</details>
-<details open>
 <summary>Microsoft (9)</summary>
 
 - [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [3](https://apply.careers.microsoft.com/careers/job/1970393556982635) · [4](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [5](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA; Reston, VA; Redmond, WA, Reston, VA · posted 2026-11-09 · SWE · BS/MS
@@ -338,6 +325,18 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
 - [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Apple (8)</summary>
+
+- [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200692894) · [2](https://jobs.apple.com/en-us/details/200692907) — San Diego, CA · posted 2026-11-02 · SWE · BS/MS
+- [Graphics Software Content Engineer](https://jobs.apple.com/en-us/details/200689345) — Orlando, FL · posted 2026-10-15 · HW · BS
+- [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS
+- [Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200681316) — Sunnyvale, CA · posted 2026-09-01 · HW · BS/MS
+- [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
+- [Software Engineer - Infrastructure Services - Cloud Network Fault Tolerance](https://jobs.apple.com/en-us/details/200679765) — California · posted 2026-08-25 · SWE · BS/MS/PhD
+- [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
 
 </details>
 <details open>
@@ -397,27 +396,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Adobe (3)</summary>
-
-- [Data Science Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) — San Jose, CA · posted 2026-11-09 · ML · BS/MS
-- [Machine Learning Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · ML · MS/PhD
-- [Software Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · SWE · BS/MS
-
-</details>
-<details open>
 <summary>NVIDIA (3)</summary>
 
 - [SoC Software Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) — Santa Clara, CA · posted 2026-10-13 · SWE · BS/MS
 - [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
 - [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
-
-</details>
-<details open>
-<summary>Tesla (3)</summary>
-
-- [Associate Data Engineer - Manufacturing Planning Systems - Semi](https://www.tesla.com/careers/search/job/289265) — Sparks, NV · posted 2026-11-06 · ML · BS
-- [Data Collection Coordinator - Optimus](https://www.tesla.com/careers/search/job/257533) — Fremont, CA · posted 2026-10-26 · ML
-- [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
 
 </details>
 <details open>
@@ -433,6 +416,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [AI Tutor – Uzbek](https://job-boards.greenhouse.io/xai/jobs/5270905007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
 - [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
 - [AI Tutor – Amharic](https://job-boards.greenhouse.io/xai/jobs/5270906007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+
+</details>
+<details open>
+<summary>Adobe (2)</summary>
+
+- [Machine Learning Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · ML · MS/PhD
+- [Software Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · SWE · BS/MS
 
 </details>
 <details open>
@@ -470,12 +460,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Salesforce (2)</summary>
-
-- [AI Labs Rotational Fellow - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678) — Seattle, WA, SF, NYC · posted 2026-10-16 · SWE · BS/MS
-
-</details>
-<details open>
 <summary>Scale AI (2)</summary>
 
 - [Software Engineer New Grad - Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) — SF · posted 2026-09-23 · SWE · BS
@@ -497,10 +481,10 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Wintermute (2)</summary>
+<summary>Tesla (2)</summary>
 
-- [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply) — London, UK, NYC · posted 2026-09-03 · Quant
-- [Graduate Algorithmic Trader](https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44/apply) — NYC · posted 2026-09-01 · Quant
+- [Data Collection Coordinator - Optimus](https://www.tesla.com/careers/search/job/257533) — Fremont, CA · posted 2026-10-26 · ML
+- [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
 
 </details>
 <details open>
@@ -609,6 +593,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Tower Research Capital (1)</summary>
 
 - [Data Analyst - Data](https://www.tower-research.com/open-positions/?gh_jid=8167234) — NYC · posted 2026-09-16 · ML · MS/PhD
+
+</details>
+<details open>
+<summary>Wintermute (1)</summary>
+
+- [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply) — London, UK, NYC · posted 2026-09-03 · Quant
 
 </details>
 <!-- JOBS:END -->

@@ -4,24 +4,24 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794314811,
- "last_change": 1794314811,
+ "last_run": 1794344060,
+ "last_change": 1794344060,
  "last_result": "ok",
  "feed": {
-  "records": 18777,
-  "active": 3224,
-  "fetched_at": 1794314811,
+  "records": 18789,
+  "active": 3201,
+  "fetched_at": 1794344060,
   "attempts": 1
  },
  "counts": {
-  "active": 213,
-  "closed": 51,
+  "active": 207,
+  "closed": 57,
   "untracked": 0,
-  "groups": 182,
-  "companies": 45,
+  "groups": 177,
+  "companies": 44,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 6,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -34,7 +34,7 @@
  },
  "keywords": {
   "adobe": {
-   "active": 3,
+   "active": 2,
    "all_time": 3,
    "names": [
     "Adobe"
@@ -86,7 +86,7 @@
    "denied": 0
   },
   "apple": {
-   "active": 9,
+   "active": 8,
    "all_time": 11,
    "names": [
     "Apple"
@@ -724,11 +724,9 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 2,
+   "active": 0,
    "all_time": 3,
-   "names": [
-    "Salesforce"
-   ],
+   "names": [],
    "denied": 0
   },
   "sambanova": {
@@ -822,7 +820,7 @@
    "denied": 0
   },
   "tesla": {
-   "active": 3,
+   "active": 2,
    "all_time": 3,
    "names": [
     "Tesla"
@@ -934,7 +932,7 @@
    "denied": 0
   },
   "wintermute": {
-   "active": 2,
+   "active": 1,
    "all_time": 2,
    "names": [
     "Wintermute"
