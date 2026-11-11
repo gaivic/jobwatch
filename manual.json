@@ -4745,5 +4745,72 @@
    "San Francisco",
    "New York"
   ]
+ },
+ {
+  "id": "manual:tnm8kqjcaf9kbw",
+  "company": "Torc Robotics",
+  "title": "ML Engineer, II - App Engine",
+  "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002",
+  "location": "Ann Arbor, MI, Fort Worth, TX",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794330000,
+  "active": true,
+  "manual": true,
+  "added": 1794330000,
+  "locations": [
+   "Ann Arbor",
+   "Fort Worth"
+  ]
+ },
+ {
+  "id": "manual:tn32d9hmk6cv96",
+  "company": "Torc Robotics",
+  "title": "ML Engineer, II - Perception",
+  "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8651349002",
+  "location": "Remote - US, Ann Arbor, MI",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794330000,
+  "active": true,
+  "manual": true,
+  "added": 1794330000,
+  "locations": [
+   "Remote - US",
+   "Ann Arbor"
+  ]
+ },
+ {
+  "id": "manual:tnkfirrifcaj87",
+  "company": "Torc Robotics",
+  "title": "Software Engineer, II - Data Engineering",
+  "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8649374002",
+  "location": "Ann Arbor, MI, Blacksburg, Va",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794330000,
+  "active": true,
+  "manual": true,
+  "added": 1794330000,
+  "locations": [
+   "Ann Arbor",
+   "Blacksburg"
+  ]
+ },
+ {
+  "id": "manual:tn5v763qaa30hs",
+  "company": "General Translation",
+  "title": "Software Engineer, Infra",
+  "url": "https://jobs.ashbyhq.com/generaltranslation/05d33170-2b35-4597-849c-6efbb612fa9b",
+  "location": "San Francisco",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794330000,
+  "active": true,
+  "manual": true,
+  "added": 1794330000,
+  "locations": [
+   "San Francisco"
+  ]
  }
 ]
