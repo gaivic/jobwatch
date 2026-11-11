@@ -4812,5 +4812,21 @@
   "locations": [
    "San Francisco"
   ]
+ },
+ {
+  "id": "manual:tny9tl5t05i5oa",
+  "company": "Mirantis",
+  "title": "Software Development Engineer",
+  "url": "https://jobs.smartrecruiters.com/Mirantis/744000160982204",
+  "location": "Remote USA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794330000,
+  "active": true,
+  "manual": true,
+  "added": 1794330000,
+  "locations": [
+   "Remote USA"
+  ]
  }
 ]
