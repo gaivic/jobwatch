@@ -4,31 +4,31 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794389731,
- "last_change": 1794389731,
+ "last_run": 1794419794,
+ "last_change": 1794419794,
  "last_result": "ok",
  "feed": {
-  "records": 18848,
-  "active": 3255,
-  "fetched_at": 1794389731,
+  "records": 18841,
+  "active": 3240,
+  "fetched_at": 1794419794,
   "attempts": 1
  },
  "counts": {
-  "active": 223,
-  "closed": 56,
+  "active": 211,
+  "closed": 70,
   "untracked": 0,
-  "groups": 186,
+  "groups": 175,
   "companies": 45,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 14,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 149,
+  "category": 148,
   "phd": 179,
-  "title": 23,
-  "region": 41,
+  "title": 14,
+  "region": 42,
   "sponsorship": 0,
   "age": 156
  },
@@ -724,8 +724,8 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 2,
-   "all_time": 5,
+   "active": 4,
+   "all_time": 7,
    "names": [
     "Salesforce"
    ],
@@ -762,7 +762,7 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 28,
+   "active": 14,
    "all_time": 29,
    "names": [
     "Shield AI"
