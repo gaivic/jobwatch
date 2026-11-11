@@ -4828,5 +4828,21 @@
   "locations": [
    "Remote USA"
   ]
+ },
+ {
+  "id": "manual:tnd7rqcxlw7152",
+  "company": "Handshake",
+  "title": "Machine Learning Engineer",
+  "url": "https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f",
+  "location": "San Francisco, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794416400,
+  "active": true,
+  "manual": true,
+  "added": 1794416400,
+  "locations": [
+   "San Francisco"
+  ]
  }
 ]
