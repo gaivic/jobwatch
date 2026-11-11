@@ -1,5 +1,58 @@
 [
  {
+  "id": "simplify:fa8c7d9d-20a4-4fe9-a1da-5c782f538b96",
+  "first_seen": 1794389731,
+  "company": "Apple",
+  "title": "Darwin Runtime Engineer - Core OS",
+  "location": "Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200678840",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794381911,
+  "active": true,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|darwin runtime engineer core os",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:794be3df-1425-488c-b884-a8d29f0732f1",
+  "first_seen": 1794389731,
+  "company": "Amazon",
+  "title": "Software Development Engineer Early Career - Amazon Dedicated Cloud",
+  "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA",
+  "url": "https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794364751,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "Jessup, MD",
+   "Arlington County, Arlington, VA",
+   "Denver, CO",
+   "Herndon, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer early career amazon dedicated cloud",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
   "first_seen": 1794314811,
   "company": "Anysphere",
@@ -224,6 +277,31 @@
   "reason": null
  },
  {
+  "id": "simplify:ef376430-19cd-41b4-baa8-322fc5fcf45a",
+  "first_seen": 1794389731,
+  "company": "Shield AI",
+  "title": "Engineer 1 New Grad - Software - Perception",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794096000,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 1 new grad software perception",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:07edd5c1-ff46-4123-aaab-3b21723aefff",
   "first_seen": 1794188796,
   "company": "Shield AI",
@@ -245,6 +323,56 @@
   ],
   "sponsorship": "Other",
   "group": "shield ai|engineer 2 new grad multiple teams",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c89cb23a-35c0-4ed1-96d9-a1fc5925ab1d",
+  "first_seen": 1794389731,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Multiple Teams",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794096000,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad multiple teams",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b66fea62-a88a-49b8-b4b3-8a1e383f3a74",
+  "first_seen": 1794389731,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794096000,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
   "in_feed": true,
   "reason": null
  },
@@ -292,6 +420,29 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "perplexity ai|member of technical staff software engineer ai policy and strategic initiatives",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:45c3b7e6-ab17-438a-8639-6e361d0cb2bd",
+  "first_seen": 1794389731,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad - Internal Tools",
+  "location": "Seattle, WA",
+  "url": "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-07",
+  "date_posted": 1794009600,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad internal tools",
   "in_feed": true,
   "reason": null
  },
@@ -583,6 +734,121 @@
   "reason": null
  },
  {
+  "id": "simplify:0c74a352-4296-467a-9bcb-81c9ed7c8465",
+  "first_seen": 1794389731,
+  "company": "Shield AI",
+  "title": "Engineer 1 New Grad - Software Integration",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/shield/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true",
+  "category": "HW",
+  "posted": "2026-11-04",
+  "date_posted": 1793750400,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 1 new grad software integration",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:89561c7a-b727-412e-8723-030904cc22f3",
+  "first_seen": 1794389731,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Simulation Framework",
+  "location": "San Diego, CA",
+  "url": "https://jobs.ashbyhq.com/shield/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-04",
+  "date_posted": 1793750400,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad simulation framework",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:2457b835-2e5e-4f15-b4e5-0a6ede932255",
+  "first_seen": 1794389731,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Factory",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/shield/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-04",
+  "date_posted": 1793750400,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software factory",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:d4f6b336-d307-427a-a31d-155f8fabb6c0",
+  "first_seen": 1794389731,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer 1 New Grad - Simulation Framework",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-04",
+  "date_posted": 1793750400,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer 1 new grad simulation framework",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:076316f1-2948-47b2-9ff6-f230f7065080",
+  "first_seen": 1794389731,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad - Software - Factory Team",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-04",
+  "date_posted": 1793750400,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad software factory team",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:9276c377-0f8e-47c4-b813-b5d5be35a978",
   "first_seen": 1793752873,
   "company": "Amazon",
@@ -652,6 +918,31 @@
   ],
   "sponsorship": "Other",
   "group": "sambanova systems|machine learning engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:d7b77c3f-65ce-4841-90b8-a047706110c7",
+  "first_seen": 1794389731,
+  "company": "Shield AI",
+  "title": "Autonomous Software Engineer New Grad",
+  "location": "San Diego, CA",
+  "url": "https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true",
+  "category": "HW",
+  "posted": "2026-11-03",
+  "date_posted": 1793664000,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|autonomous software engineer new grad",
   "in_feed": true,
   "reason": null
  },
