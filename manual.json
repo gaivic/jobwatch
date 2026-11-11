@@ -4844,5 +4844,21 @@
   "locations": [
    "San Francisco"
   ]
+ },
+ {
+  "id": "manual:tnz9je0fcieee1",
+  "company": "Rubrik",
+  "title": "Software Engineer - Virtual Platform",
+  "url": "https://job-boards.greenhouse.io/rubrik/jobs/8351288",
+  "location": "Palo Alto, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794416400,
+  "active": true,
+  "manual": true,
+  "added": 1794416400,
+  "locations": [
+   "Palo Alto"
+  ]
  }
 ]
