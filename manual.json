@@ -4893,5 +4893,21 @@
    "San Francisco",
    "Remote US"
   ]
+ },
+ {
+  "id": "manual:tnha7017kzlga6",
+  "company": "Affirm",
+  "title": "Software Engineer I, Backend (Continuous Delivery)",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+  "location": "Remote US",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794502800,
+  "active": true,
+  "manual": true,
+  "added": 1794502800,
+  "locations": [
+   "Remote US"
+  ]
  }
 ]
