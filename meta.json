@@ -4,38 +4,38 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794419794,
- "last_change": 1794419794,
+ "last_run": 1794444630,
+ "last_change": 1794444630,
  "last_result": "ok",
  "feed": {
-  "records": 18841,
-  "active": 3240,
-  "fetched_at": 1794419794,
+  "records": 18844,
+  "active": 3254,
+  "fetched_at": 1794444630,
   "attempts": 1
  },
  "counts": {
-  "active": 211,
-  "closed": 70,
+  "active": 214,
+  "closed": 72,
   "untracked": 0,
-  "groups": 175,
+  "groups": 179,
   "companies": 45,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 14,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 148,
+  "category": 147,
   "phd": 179,
-  "title": 14,
-  "region": 42,
+  "title": 15,
+  "region": 43,
   "sponsorship": 0,
-  "age": 156
+  "age": 155
  },
  "keywords": {
   "adobe": {
-   "active": 2,
-   "all_time": 3,
+   "active": 3,
+   "all_time": 4,
    "names": [
     "Adobe"
    ],
@@ -54,8 +54,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 24,
-   "all_time": 28,
+   "active": 25,
+   "all_time": 29,
    "names": [
     "Amazon"
    ],
@@ -537,7 +537,7 @@
   },
   "microsoft": {
    "active": 10,
-   "all_time": 24,
+   "all_time": 25,
    "names": [
     "Microsoft"
    ],
@@ -724,7 +724,7 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 4,
+   "active": 3,
    "all_time": 7,
    "names": [
     "Salesforce"
@@ -762,8 +762,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 14,
-   "all_time": 29,
+   "active": 15,
+   "all_time": 30,
    "names": [
     "Shield AI"
    ],
@@ -962,8 +962,8 @@
    "denied": 0
   },
   "xai": {
-   "active": 3,
-   "all_time": 5,
+   "active": 4,
+   "all_time": 6,
    "names": [
     "xAI"
    ],
