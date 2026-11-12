@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_214 open new-grad roles at 45 companies · list last changed 2026-11-12 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Shield AI 15 · Microsoft 10 · Apple 9 · Anduril 8 · Applied Intuition 5 · …
+_216 open new-grad roles at 45 companies · list last changed 2026-11-12 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Shield AI 18 · Apple 9 · Microsoft 9 · Anduril 8 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -298,8 +298,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Shield AI (15)</summary>
+<summary>Shield AI (18)</summary>
 
+- [Engineer 2 New Grad - Software - Perception](https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12/apply) · [2](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) · [3](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) — United States · posted 2026-11-12 · ML · BS/MS/PhD
 - [Engineer 2 New Grad - Software - Autonomy Capabilities](https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af/apply) — United States · posted 2026-11-11 · HW · BS/MS/PhD
 - [Engineer 1 New Grad - Software - Autonomy Capabilities](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply) — United States · posted 2026-11-08 · SWE · BS/MS/PhD
 - [Engineer 1 New Grad - Software - Perception](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319/apply) · [2](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) · [3](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) — Washington, DC · posted 2026-11-08 · ML · BS/MS/PhD
@@ -313,16 +314,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (10)</summary>
-
-- [Software Development Engineer](https://apply.careers.microsoft.com/careers/job/1970393557050698) — Redmond, WA · posted 2026-11-11 · SWE · BS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [3](https://apply.careers.microsoft.com/careers/job/1970393556982635) · [4](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [5](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA; Reston, VA; Redmond, WA, Reston, VA · posted 2026-11-09 · SWE · BS/MS
-- [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393557039397) · [2](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-11-09 · SWE · BS/MS
-- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
-
-</details>
-<details open>
 <summary>Apple (9)</summary>
 
 - [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200678840) — Cupertino, CA · posted 2026-11-11 · SWE · BS/MS
@@ -333,6 +324,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
 - [Software Engineer - Infrastructure Services - Cloud Network Fault Tolerance](https://jobs.apple.com/en-us/details/200679765) — California · posted 2026-08-25 · SWE · BS/MS/PhD
 - [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
+
+</details>
+<details open>
+<summary>Microsoft (9)</summary>
+
+- [Software Development Engineer](https://apply.careers.microsoft.com/careers/job/1970393557050698) — Redmond, WA · posted 2026-11-11 · SWE · BS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [3](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA; Reston, VA; Redmond, WA, Reston, VA · posted 2026-11-09 · SWE · BS/MS
+- [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393557039397) · [2](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-11-09 · SWE · BS/MS
+- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+- [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
 
 </details>
 <details open>
@@ -377,6 +378,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>xAI (5)</summary>
+
+- [AI Tutor – Uzbek](https://job-boards.greenhouse.io/xai/jobs/5270905007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Amharic](https://job-boards.greenhouse.io/xai/jobs/5270906007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Irish](https://job-boards.greenhouse.io/xai/jobs/5292792007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Maltese](https://job-boards.greenhouse.io/xai/jobs/5292793007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+
+</details>
+<details open>
 <summary>Atlassian (4)</summary>
 
 - [Data Engineer New Grad](https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job) — Seattle, WA · posted 2026-10-05 · ML · BS/MS
@@ -393,15 +404,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>xAI (4)</summary>
-
-- [AI Tutor – Uzbek](https://job-boards.greenhouse.io/xai/jobs/5270905007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – Amharic](https://job-boards.greenhouse.io/xai/jobs/5270906007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – Irish](https://job-boards.greenhouse.io/xai/jobs/5292792007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-
-</details>
-<details open>
 <summary>Adobe (3)</summary>
 
 - [Data Scientist New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) — San Jose, CA · posted 2026-11-11 · ML · BS/MS
@@ -415,14 +417,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [SoC Software Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) — Santa Clara, CA · posted 2026-10-13 · SWE · BS/MS
 - [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
 - [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
-
-</details>
-<details open>
-<summary>Salesforce (3)</summary>
-
-- [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-11-11 · SWE
-- [Software Engineering AMTS New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-11-11 · SWE
-- [AI Labs Rotational Fellow](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1) — Seattle, WA, SF, NYC · posted 2026-11-10 · SWE · BS/MS
 
 </details>
 <details open>
@@ -464,6 +458,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Master's University Graduate Data Scientist](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) — Palo Alto, CA, Seattle, WA, SF · posted 2026-10-01 · ML · MS
 - [University Grad Software Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) — SF, Remote in USA · posted 2026-10-01 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Salesforce (2)</summary>
+
+- [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-11-11 · SWE
+- [Software Engineering AMTS New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-11-11 · SWE
 
 </details>
 <details open>
