@@ -4876,5 +4876,22 @@
   "locations": [
    "San Mateo"
   ]
+ },
+ {
+  "id": "manual:tn2gilei9xu39a",
+  "company": "Prime Intellect",
+  "title": "Research Engineer - Inference",
+  "url": "https://jobs.ashbyhq.com/primeintellect/3103e1a4-2515-4ae0-a2f0-784e25d30cfe",
+  "location": "San Francisco / Remote US",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794502800,
+  "active": true,
+  "manual": true,
+  "added": 1794502800,
+  "locations": [
+   "San Francisco",
+   "Remote US"
+  ]
  }
 ]
