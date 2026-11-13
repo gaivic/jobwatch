@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_218 open new-grad roles at 45 companies · list last changed 2026-11-12 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Shield AI 18 · Apple 9 · Microsoft 9 · Anduril 8 · Applied Intuition 5 · …
+_219 open new-grad roles at 45 companies · list last changed 2026-11-13 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Shield AI 18 · Apple 10 · Microsoft 9 · Anduril 8 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -314,8 +314,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Apple (9)</summary>
+<summary>Apple (10)</summary>
 
+- [Software Engineer - Ad Platforms](https://jobs.apple.com/en-us/details/200694769) — Cupertino, CA · posted 2026-11-12 · SWE · BS/MS
 - [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200678840) — Cupertino, CA · posted 2026-11-11 · SWE · BS/MS
 - [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200692894) · [2](https://jobs.apple.com/en-us/details/200692907) — San Diego, CA · posted 2026-11-02 · SWE · BS/MS
 - [Graphics Software Content Engineer](https://jobs.apple.com/en-us/details/200689345) — Orlando, FL · posted 2026-10-15 · HW · BS

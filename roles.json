@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:a3642769-8b21-4778-b06c-fa2122acc55a",
+  "first_seen": 1794532333,
+  "company": "Apple",
+  "title": "Software Engineer - Ad Platforms",
+  "location": "Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200694769",
+  "category": "SWE",
+  "posted": "2026-11-12",
+  "date_posted": 1794525361,
+  "active": true,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer ad platforms",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:8b2fa733-e2e8-4637-a9d8-504975db947c",
   "first_seen": 1794477391,
   "company": "Shield AI",
