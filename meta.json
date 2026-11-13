@@ -4,20 +4,20 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794562986,
- "last_change": 1794562986,
+ "last_run": 1794592330,
+ "last_change": 1794592330,
  "last_result": "ok",
  "feed": {
-  "records": 18844,
-  "active": 3247,
-  "fetched_at": 1794562986,
+  "records": 18832,
+  "active": 3248,
+  "fetched_at": 1794592330,
   "attempts": 1
  },
  "counts": {
-  "active": 220,
+  "active": 222,
   "closed": 72,
   "untracked": 0,
-  "groups": 182,
+  "groups": 183,
   "companies": 45,
   "new_this_run": 0,
   "silent_known_this_run": 0,
@@ -26,11 +26,11 @@
  },
  "rejects": {
   "category": 149,
-  "phd": 177,
-  "title": 17,
+  "phd": 176,
+  "title": 16,
   "region": 42,
   "sponsorship": 0,
-  "age": 154
+  "age": 153
  },
  "keywords": {
   "adobe": {
@@ -762,8 +762,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 19,
-   "all_time": 34,
+   "active": 21,
+   "all_time": 36,
    "names": [
     "Shield AI"
    ],

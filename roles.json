@@ -1,11 +1,61 @@
 [
  {
+  "id": "simplify:2ed6f5ef-9ec5-455f-b7df-59d3272f49fd",
+  "first_seen": 1794592330,
+  "company": "Shield AI",
+  "title": "Engineer 1 New Grad - Software",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b/apply",
+  "category": "SWE",
+  "posted": "2026-11-13",
+  "date_posted": 1794566944,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 1 new grad software",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:8b086459-985c-4225-b509-facb2dce5e94",
   "first_seen": 1794562986,
   "company": "Shield AI",
   "title": "Software Engineer 1 New Grad",
   "location": "Washington, DC",
   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-13",
+  "date_posted": 1794528000,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:dcad63ca-676a-4159-a102-8c42f2d872c5",
+  "first_seen": 1794592330,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
   "category": "SWE",
   "posted": "2026-11-13",
   "date_posted": 1794528000,
