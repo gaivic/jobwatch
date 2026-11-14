@@ -4,28 +4,28 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794638562,
- "last_change": 1794638562,
+ "last_run": 1794669067,
+ "last_change": 1794669067,
  "last_result": "ok",
  "feed": {
-  "records": 18795,
-  "active": 3217,
-  "fetched_at": 1794638562,
+  "records": 18770,
+  "active": 3248,
+  "fetched_at": 1794669067,
   "attempts": 1
  },
  "counts": {
-  "active": 216,
-  "closed": 80,
+  "active": 212,
+  "closed": 84,
   "untracked": 0,
-  "groups": 179,
+  "groups": 178,
   "companies": 44,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 4,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 140,
+  "category": 144,
   "phd": 175,
   "title": 16,
   "region": 42,
@@ -534,7 +534,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 11,
+   "active": 9,
    "all_time": 27,
    "names": [
     "Microsoft"
@@ -760,7 +760,7 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 14,
+   "active": 12,
    "all_time": 36,
    "names": [
     "Shield AI"
