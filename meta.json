@@ -4,28 +4,28 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794613266,
- "last_change": 1794613266,
+ "last_run": 1794638562,
+ "last_change": 1794638562,
  "last_result": "ok",
  "feed": {
-  "records": 18790,
-  "active": 3216,
-  "fetched_at": 1794613266,
+  "records": 18795,
+  "active": 3217,
+  "fetched_at": 1794638562,
   "attempts": 1
  },
  "counts": {
-  "active": 215,
-  "closed": 79,
+  "active": 216,
+  "closed": 80,
   "untracked": 0,
   "groups": 179,
-  "companies": 45,
+  "companies": 44,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 7,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 141,
+  "category": 140,
   "phd": 175,
   "title": 16,
   "region": 42,
@@ -78,11 +78,9 @@
    "denied": 0
   },
   "anysphere": {
-   "active": 1,
+   "active": 0,
    "all_time": 2,
-   "names": [
-    "Anysphere"
-   ],
+   "names": [],
    "denied": 0
   },
   "apple": {
@@ -536,8 +534,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 9,
-   "all_time": 25,
+   "active": 11,
+   "all_time": 27,
    "names": [
     "Microsoft"
    ],
