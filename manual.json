@@ -4973,5 +4973,37 @@
   "locations": [
    "New York"
   ]
+ },
+ {
+  "id": "manual:tn65j1z1g4m1v7",
+  "company": "Cyngn",
+  "title": "Software Engineer, Autonomy: Calibration, Mapping & Localization",
+  "url": "https://ats.rippling.com/cyngn/jobs/97edf572-a9ef-4ea6-a643-ee7b30226b6a",
+  "location": "Mountain View, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794848400,
+  "active": true,
+  "manual": true,
+  "added": 1794848400,
+  "locations": [
+   "Mountain View"
+  ]
+ },
+ {
+  "id": "manual:tnunugpk7whhwa",
+  "company": "ShadowDragon",
+  "title": "Junior AI Engineer",
+  "url": "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c",
+  "location": "Remote US",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794848400,
+  "active": true,
+  "manual": true,
+  "added": 1794848400,
+  "locations": [
+   "Remote US"
+  ]
  }
 ]
