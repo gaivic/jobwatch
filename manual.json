@@ -4941,5 +4941,37 @@
   "locations": [
    "Mountain View"
   ]
+ },
+ {
+  "id": "manual:tnznoiqbqktm74",
+  "company": "DeepInfra",
+  "title": "Software Engineer Early Career",
+  "url": "",
+  "location": "Palo Alto, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794848400,
+  "active": true,
+  "manual": true,
+  "added": 1794848400,
+  "locations": [
+   "Palo Alto"
+  ]
+ },
+ {
+  "id": "manual:tn7vux8ujmhvnc",
+  "company": "Flowcode",
+  "title": "Applied AI Engineer: Solutions & Infrastructure",
+  "url": "https://job-boards.greenhouse.io/flowcode/jobs/4753182005",
+  "location": "New York, NY",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794848400,
+  "active": true,
+  "manual": true,
+  "added": 1794848400,
+  "locations": [
+   "New York"
+  ]
  }
 ]
