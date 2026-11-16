@@ -4925,5 +4925,21 @@
   "locations": [
    "Remote US"
   ]
+ },
+ {
+  "id": "manual:tnpvmvb7ejvub0",
+  "company": "Nuro",
+  "title": "Systems Engineering, New Grad 2027",
+  "url": "https://job-boards.greenhouse.io/nuro/jobs/8360415",
+  "location": "Mountain View, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794848400,
+  "active": true,
+  "manual": true,
+  "added": 1794848400,
+  "locations": [
+   "Mountain View"
+  ]
  }
 ]
