@@ -4909,5 +4909,21 @@
   "locations": [
    "Remote US"
   ]
+ },
+ {
+  "id": "manual:tntxjzmatm6e8g",
+  "company": "Upstart",
+  "title": "Applied Scientist",
+  "url": "https://job-boards.greenhouse.io/upstart/jobs/8360595",
+  "location": "Remote US",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794848400,
+  "active": true,
+  "manual": true,
+  "added": 1794848400,
+  "locations": [
+   "Remote US"
+  ]
  }
 ]
