@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_210 open new-grad roles at 44 companies · list last changed 2026-11-16 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Apple 10 · Microsoft 9 · Anduril 8 · Shield AI 8 · Applied Intuition 5 · …
+_209 open new-grad roles at 43 companies · list last changed 2026-11-17 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Apple 10 · Microsoft 10 · Anduril 8 · Shield AI 8 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -312,10 +312,10 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (9)</summary>
+<summary>Microsoft (10)</summary>
 
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557074534) · [2](https://apply.careers.microsoft.com/careers/job/1970393557072925) · [3](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Remote in USA, United States; Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-16 · SWE · BS/MS
 - [Software Engineer - Microsoft Business Operations](https://apply.careers.microsoft.com/careers/job/1970393557073410) — Redmond, WA · posted 2026-11-14 · SWE · BS/MS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557072925) · [2](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [3](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-13 · SWE · BS/MS
 - [Software Development Engineer](https://apply.careers.microsoft.com/careers/job/1970393557050698) — Redmond, WA · posted 2026-11-11 · SWE · BS
 - [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393557039397) · [2](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-11-09 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
@@ -454,12 +454,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Harvey (2)</summary>
-
-- [Software Engineer New Grad](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true) · [2](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true) — SF; SF, NYC · posted 2026-10-02 · SWE · BS/MS
-
-</details>
-<details open>
 <summary>Palantir (2)</summary>
 
 - [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply) — NYC · posted 2026-10-22 · SWE · BS
@@ -543,9 +537,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Fireworks AI (1)</summary>
+<summary>Harvey (1)</summary>
 
-- [Member of Technical Staff New Grad](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application?embed=true) — San Mateo, CA, NYC · posted 2026-10-06 · SWE · BS/MS
+- [Software Engineer New Grad](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true) — SF · posted 2026-10-02 · SWE · BS/MS
 
 </details>
 <details open>

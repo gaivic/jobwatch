@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794811628,
- "last_change": 1794811628,
+ "last_run": 1794884331,
+ "last_change": 1794884331,
  "last_result": "ok",
  "feed": {
-  "records": 18645,
-  "active": 3231,
-  "fetched_at": 1794811628,
+  "records": 18637,
+  "active": 3168,
+  "fetched_at": 1794884331,
   "attempts": 1
  },
  "counts": {
-  "active": 210,
-  "closed": 88,
+  "active": 209,
+  "closed": 90,
   "untracked": 0,
-  "groups": 178,
-  "companies": 44,
+  "groups": 177,
+  "companies": 43,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 143,
+  "category": 141,
   "phd": 175,
-  "title": 16,
+  "title": 15,
   "region": 42,
   "sponsorship": 0,
-  "age": 153
+  "age": 152
  },
  "keywords": {
   "adobe": {
@@ -348,11 +348,9 @@
    "denied": 0
   },
   "fireworks": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "Fireworks AI"
-   ],
+   "names": [],
    "denied": 0
   },
   "five rings": {
@@ -418,7 +416,7 @@
    "denied": 0
   },
   "harvey": {
-   "active": 2,
+   "active": 1,
    "all_time": 2,
    "names": [
     "Harvey"
@@ -534,8 +532,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 9,
-   "all_time": 27,
+   "active": 10,
+   "all_time": 28,
    "names": [
     "Microsoft"
    ],
