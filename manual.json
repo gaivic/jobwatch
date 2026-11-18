@@ -5069,5 +5069,37 @@
   "locations": [
    "Mountain View"
   ]
+ },
+ {
+  "id": "manual:tno10drboqas03",
+  "company": "Snowflake",
+  "title": "Software Engineer - Customer Experience Engineering",
+  "url": "https://jobs.ashbyhq.com/snowflake/196f1cca-6ee6-4023-b2e7-9f8ba18d1dae",
+  "location": "Bellevue, WA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795021200,
+  "active": true,
+  "manual": true,
+  "added": 1795021200,
+  "locations": [
+   "Bellevue"
+  ]
+ },
+ {
+  "id": "manual:tn8p27ixim8ydq",
+  "company": "Snowflake",
+  "title": "Software Engineer, Identity & Access Management",
+  "url": "https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536",
+  "location": "Bellevue, WA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795021200,
+  "active": true,
+  "manual": true,
+  "added": 1795021200,
+  "locations": [
+   "Bellevue"
+  ]
  }
 ]
