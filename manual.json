@@ -5037,5 +5037,21 @@
   "locations": [
    "Los Angeles"
   ]
+ },
+ {
+  "id": "manual:tns45f9f3d76tg",
+  "company": "Mirantis",
+  "title": "Software Engineer, Backend (Go)",
+  "url": "https://jobs.smartrecruiters.com/Mirantis/744000162186029-software-engineer-backend-go-",
+  "location": "Remote",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1794934800,
+  "active": true,
+  "manual": true,
+  "added": 1794934800,
+  "locations": [
+   "Remote"
+  ]
  }
 ]
