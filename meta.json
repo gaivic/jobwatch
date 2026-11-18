@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794922665,
- "last_change": 1794922665,
+ "last_run": 1794987718,
+ "last_change": 1794987718,
  "last_result": "ok",
  "feed": {
-  "records": 18663,
-  "active": 3170,
-  "fetched_at": 1794922665,
+  "records": 18715,
+  "active": 3144,
+  "fetched_at": 1794987718,
   "attempts": 1
  },
  "counts": {
-  "active": 212,
-  "closed": 88,
+  "active": 205,
+  "closed": 96,
   "untracked": 0,
-  "groups": 178,
+  "groups": 173,
   "companies": 42,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 3,
+  "closed_this_run": 8,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 140,
-  "phd": 176,
+  "phd": 172,
   "title": 15,
   "region": 42,
   "sponsorship": 0,
-  "age": 152
+  "age": 151
  },
  "keywords": {
   "adobe": {
@@ -55,7 +55,7 @@
   },
   "amazon": {
    "active": 25,
-   "all_time": 29,
+   "all_time": 30,
    "names": [
     "Amazon"
    ],
@@ -84,7 +84,7 @@
    "denied": 0
   },
   "apple": {
-   "active": 10,
+   "active": 9,
    "all_time": 13,
    "names": [
     "Apple"
@@ -530,7 +530,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 10,
+   "active": 6,
    "all_time": 29,
    "names": [
     "Microsoft"
@@ -568,7 +568,7 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 4,
+   "active": 3,
    "all_time": 10,
    "names": [
     "NVIDIA"
@@ -830,7 +830,7 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 48,
+   "active": 47,
    "all_time": 49,
    "names": [
     "TikTok"
