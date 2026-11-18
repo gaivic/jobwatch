@@ -5053,5 +5053,21 @@
   "locations": [
    "Remote"
   ]
+ },
+ {
+  "id": "manual:tnebqmbx8z7ath",
+  "company": "ServiceNow",
+  "title": "Software Engineer, Agentic Systems - Moveworks",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162190099",
+  "location": "Mountain View, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795021200,
+  "active": true,
+  "manual": true,
+  "added": 1795021200,
+  "locations": [
+   "Mountain View"
+  ]
  }
 ]
