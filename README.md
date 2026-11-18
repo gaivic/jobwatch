@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_205 open new-grad roles at 42 companies · list last changed 2026-11-18 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 47 · Amazon 25 · ByteDance 23 · Shield AI 12 · Apple 9 · Anduril 8 · Microsoft 6 · Applied Intuition 5 · …
+_205 open new-grad roles at 42 companies · list last changed 2026-11-18 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Shield AI 12 · Apple 9 · Anduril 8 · Susquehanna International Group 6 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,7 +205,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (47)</summary>
+<summary>TikTok (48)</summary>
 
 - [Research Engineer - Agentic Video Editing](https://lifeattiktok.com/search/7704036750285867269) — San Jose, CA · posted 2026-11-06 · SWE · BS/MS
 - [Software Engineer Graduate - Data Ecosystem - 2027 Start](https://lifeattiktok.com/search/7685769994391832837) — San Jose, CA · posted 2026-10-14 · SWE · BS/MS
@@ -218,7 +218,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Data Engineer Graduate](https://lifeattiktok.com/search/7681779180341709109) — San Jose, CA · posted 2026-09-07 · ML · BS/MS
 - [Data Engineer Graduate - Data Platform E-commerce](https://lifeattiktok.com/search/7676253726624024837) — San Jose, CA · posted 2026-08-26 · ML · BS/MS
 - [Data Engineer Graduate - Data Platform Global Live](https://lifeattiktok.com/search/7678120538997098805) · [2](https://lifeattiktok.com/search/7675484418022181173) — San Jose, CA · posted 2026-08-26 · ML · BS/MS
-- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7675843332462872885) — Seattle, WA · posted 2026-08-20 · ML · BS/MS
+- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7675843332462872885) · [2](https://lifeattiktok.com/search/7675844938504702213) — Seattle, WA; San Jose, CA · posted 2026-08-20 · ML · BS/MS
 - [Graduate Software Engineer - TikTok Search Data Infra](https://lifeattiktok.com/search/7675829388634392837) — San Jose, CA · posted 2026-08-20 · SWE · BS/MS
 - [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674023327725373701) · [2](https://lifeattiktok.com/search/7674025781001062709) — San Jose, CA; Seattle, WA · posted 2026-08-17 · ML · BS/MS
 - [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7673672141010815237) · [2](https://lifeattiktok.com/search/7670288355678177589) — San Jose, CA · posted 2026-08-15 · ML · BS/MS
@@ -333,12 +333,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (6)</summary>
+<summary>Susquehanna International Group (6)</summary>
 
-- [Software Engineer Agentic Security](https://apply.careers.microsoft.com/careers/job/1970393557074643) — Redmond, WA · posted 2026-11-17 · SWE · BS/MS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557074534) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [3](https://apply.careers.microsoft.com/careers/job/1970393557025694) — Remote in USA, United States; Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-16 · SWE · BS/MS
-- [Software Engineer - Microsoft Business Operations](https://apply.careers.microsoft.com/careers/job/1970393557073410) — Redmond, WA · posted 2026-11-14 · SWE · BS/MS
-- [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-10-12 · SWE · BS/MS
+- [Software Developer - Core Order Management System - C++](https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false) — Chicago, IL · posted 2026-11-05 · SWE
+- [Faculty Fellow](https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · ML
+- [Quantitative Sports Researcher – Graduate Hire](https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · Quant · MS/PhD
+- [Market Surveillance Data and Technology Analyst](https://careers-sig.icims.com/jobs/11693/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-04 · ML · BS
+- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
+- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-19 · Quant · BS/MS
 
 </details>
 <details open>
@@ -352,6 +354,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Microsoft (5)</summary>
+
+- [Software Engineer Agentic Security](https://apply.careers.microsoft.com/careers/job/1970393557074643) — Redmond, WA · posted 2026-11-17 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557074534) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [3](https://apply.careers.microsoft.com/careers/job/1970393557025694) — Remote in USA, United States; Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-16 · SWE · BS/MS
+- [Software Engineer - Microsoft Business Operations](https://apply.careers.microsoft.com/careers/job/1970393557073410) — Redmond, WA · posted 2026-11-14 · SWE · BS/MS
+
+</details>
+<details open>
 <summary>SambaNova Systems (5)</summary>
 
 - [Machine Learning Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) — Austin, TX, San Jose, CA · posted 2026-11-03 · ML · BS/MS/PhD
@@ -359,16 +369,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Runtime Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
 - [Compiler Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
 - [AI Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) — Austin, TX, San Jose, CA · posted 2026-10-20 · ML · BS/MS/PhD
-
-</details>
-<details open>
-<summary>Susquehanna International Group (5)</summary>
-
-- [Software Developer - Core Order Management System - C++](https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false) — Chicago, IL · posted 2026-11-05 · SWE
-- [Faculty Fellow](https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · ML
-- [Quantitative Sports Researcher – Graduate Hire](https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · Quant · MS/PhD
-- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
-- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-19 · Quant · BS/MS
 
 </details>
 <details open>
@@ -430,13 +430,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Two Sigma (3)</summary>
-
-- [Systematic Strategies Oversight Analyst](https://twosigma.avature.net/careers/JobDetail/14405) — NYC · posted 2026-11-05 · Quant · BS
-- [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
-
-</details>
-<details open>
 <summary>Databricks (2)</summary>
 
 - [Software Engineer New Grad](https://boards.greenhouse.io/embed/job_app?token=6865698002) — Mountain View, CA · posted 2026-10-27 · SWE · BS
@@ -483,6 +476,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Data Collection Coordinator - Optimus](https://www.tesla.com/careers/search/job/257533) — Fremont, CA · posted 2026-10-26 · ML
 - [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
+
+</details>
+<details open>
+<summary>Two Sigma (2)</summary>
+
+- [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
 
 </details>
 <details open>

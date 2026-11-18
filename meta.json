@@ -4,24 +4,24 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1794987718,
- "last_change": 1794987718,
+ "last_run": 1795022464,
+ "last_change": 1795022464,
  "last_result": "ok",
  "feed": {
-  "records": 18715,
-  "active": 3144,
-  "fetched_at": 1794987718,
+  "records": 18709,
+  "active": 3146,
+  "fetched_at": 1795022464,
   "attempts": 1
  },
  "counts": {
   "active": 205,
-  "closed": 96,
+  "closed": 97,
   "untracked": 0,
-  "groups": 173,
+  "groups": 172,
   "companies": 42,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 8,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -530,7 +530,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 6,
+   "active": 5,
    "all_time": 29,
    "names": [
     "Microsoft"
@@ -802,8 +802,8 @@
    "denied": 0
   },
   "susquehanna": {
-   "active": 5,
-   "all_time": 5,
+   "active": 6,
+   "all_time": 6,
    "names": [
     "Susquehanna International Group"
    ],
@@ -830,7 +830,7 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 47,
+   "active": 48,
    "all_time": 49,
    "names": [
     "TikTok"
@@ -858,7 +858,7 @@
    "denied": 0
   },
   "two sigma": {
-   "active": 3,
+   "active": 2,
    "all_time": 3,
    "names": [
     "Two Sigma"

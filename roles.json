@@ -730,29 +730,6 @@
   "reason": null
  },
  {
-  "id": "simplify:69a2b80e-0007-44a1-9f87-b52f905dcc1b",
-  "first_seen": 1793896399,
-  "company": "Two Sigma",
-  "title": "Systematic Strategies Oversight Analyst",
-  "location": "NYC",
-  "url": "https://twosigma.avature.net/careers/JobDetail/14405",
-  "category": "Quant",
-  "posted": "2026-11-05",
-  "date_posted": 1793892601,
-  "active": true,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "two sigma|systematic strategies oversight analyst",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:c94d843b-6831-4906-8af6-9b2f52f8c06f",
   "first_seen": 1793896399,
   "company": "Susquehanna International Group",
@@ -840,6 +817,29 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software developer engineer 1 security platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:a2c7c3af-ac62-4ac5-841d-58cb33ef3910",
+  "first_seen": 1795022464,
+  "company": "Susquehanna International Group",
+  "title": "Market Surveillance Data and Technology Analyst",
+  "location": "Bala Cynwyd, PA",
+  "url": "https://careers-sig.icims.com/jobs/11693/job?mobile=true&needsRedirect=false",
+  "category": "ML",
+  "posted": "2026-11-04",
+  "date_posted": 1793750400,
+  "active": true,
+  "locations": [
+   "Bala Cynwyd, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|market surveillance data and technology analyst",
   "in_feed": true,
   "reason": null
  },
@@ -1882,31 +1882,6 @@
   "group": "tiktok|research scientist graduate",
   "in_feed": true,
   "reason": null
- },
- {
-  "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
-  "first_seen": 1792475283,
-  "company": "Microsoft",
-  "title": "Software Engineering",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
-  "category": "SWE",
-  "posted": "2026-10-12",
-  "date_posted": 1791843002,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineering",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1792497032
  },
  {
   "id": "simplify:9f92b24f-ac56-4f00-9aa8-355eb21841bd",
@@ -3468,6 +3443,31 @@
   "group": "tiktok|graduate software engineer tiktok search data infra",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:c9dff2be-8f4e-4123-866d-9dac43703bd2",
+  "first_seen": 1792475283,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7675844938504702213",
+  "category": "ML",
+  "posted": "2026-08-20",
+  "date_posted": 1787190346,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1794987718
  },
  {
   "id": "simplify:03168c7d-a3ff-4da7-9e0a-378b83a7de04",
@@ -5372,6 +5372,31 @@
   "last_seen": 1794987718
  },
  {
+  "id": "simplify:69a2b80e-0007-44a1-9f87-b52f905dcc1b",
+  "first_seen": 1793896399,
+  "company": "Two Sigma",
+  "title": "Systematic Strategies Oversight Analyst",
+  "location": "NYC",
+  "url": "https://twosigma.avature.net/careers/JobDetail/14405",
+  "category": "Quant",
+  "posted": "2026-11-05",
+  "date_posted": 1793892601,
+  "active": false,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "two sigma|systematic strategies oversight analyst",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795022464,
+  "last_seen": 1795022464
+ },
+ {
   "id": "simplify:ec527e6a-082e-4155-a7f4-a114d18663c0",
   "first_seen": 1793862006,
   "company": "Microsoft",
@@ -6529,6 +6554,32 @@
   "last_seen": 1792497032
  },
  {
+  "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
+  "first_seen": 1792475283,
+  "company": "Microsoft",
+  "title": "Software Engineering",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
+  "category": "SWE",
+  "posted": "2026-10-12",
+  "date_posted": 1791843002,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1795022464,
+  "closed_at": 1795022464
+ },
+ {
   "id": "simplify:1935c5df-770d-45f2-bbde-4d4a462ad5cb",
   "first_seen": 1792475283,
   "company": "Wolverine Trading",
@@ -7332,32 +7383,6 @@
   "reason": "closed",
   "closed_at": 1792762519,
   "last_seen": 1792762519
- },
- {
-  "id": "simplify:c9dff2be-8f4e-4123-866d-9dac43703bd2",
-  "first_seen": 1792475283,
-  "company": "TikTok",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7675844938504702213",
-  "category": "ML",
-  "posted": "2026-08-20",
-  "date_posted": 1787190346,
-  "active": false,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1794987718,
-  "last_seen": 1794987718
  },
  {
   "id": "simplify:203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
