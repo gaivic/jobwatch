@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:26fa4e32-b501-44ab-87b3-253fe6adc3a1",
+  "first_seen": 1795048266,
+  "company": "Zoox",
+  "title": "Data Scientist",
+  "location": "Foster City, CA",
+  "url": "https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483/apply",
+  "category": "ML",
+  "posted": "2026-11-18",
+  "date_posted": 1795045790,
+  "active": true,
+  "locations": [
+   "Foster City, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "zoox|data scientist",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:2ebe6dc0-7a17-40c2-a840-c58c312185d9",
   "first_seen": 1794987718,
   "company": "Amazon",
@@ -1120,53 +1144,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software developer engineer product knowledge store",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:6229e804-43a5-47a4-882c-c7bf3dc4968f",
-  "first_seen": 1793150862,
-  "company": "Databricks",
-  "title": "Software Engineer New Grad",
-  "location": "Mountain View, CA",
-  "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
-  "category": "SWE",
-  "posted": "2026-10-27",
-  "date_posted": 1793141065,
-  "active": true,
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "databricks|software engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:992ceb83-2b59-4901-b82d-8ca2b8edc498",
-  "first_seen": 1793150862,
-  "company": "Databricks",
-  "title": "Software Engineer New Grad - Distributed Data Systems",
-  "location": "Bellevue, WA, Mountain View, CA",
-  "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
-  "category": "SWE",
-  "posted": "2026-10-27",
-  "date_posted": 1793141063,
-  "active": true,
-  "locations": [
-   "Bellevue, WA",
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "databricks|software engineer new grad distributed data systems",
   "in_feed": true,
   "reason": null
  },
@@ -5728,6 +5705,57 @@
   "reason": "closed",
   "closed_at": 1793340029,
   "last_seen": 1793340029
+ },
+ {
+  "id": "simplify:6229e804-43a5-47a4-882c-c7bf3dc4968f",
+  "first_seen": 1793150862,
+  "company": "Databricks",
+  "title": "Software Engineer New Grad",
+  "location": "Mountain View, CA",
+  "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793141065,
+  "active": false,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "databricks|software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795048266,
+  "last_seen": 1795048266
+ },
+ {
+  "id": "simplify:992ceb83-2b59-4901-b82d-8ca2b8edc498",
+  "first_seen": 1793150862,
+  "company": "Databricks",
+  "title": "Software Engineer New Grad - Distributed Data Systems",
+  "location": "Bellevue, WA, Mountain View, CA",
+  "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793141063,
+  "active": false,
+  "locations": [
+   "Bellevue, WA",
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "databricks|software engineer new grad distributed data systems",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795048266,
+  "last_seen": 1795048266
  },
  {
   "id": "simplify:12b37514-55d3-4d2b-889d-499ef0584772",

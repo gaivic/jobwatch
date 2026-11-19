@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_205 open new-grad roles at 42 companies · list last changed 2026-11-18 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Shield AI 12 · Apple 9 · Anduril 8 · Susquehanna International Group 6 · Applied Intuition 5 · …
+_204 open new-grad roles at 42 companies · list last changed 2026-11-19 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Shield AI 12 · Apple 9 · Anduril 8 · Susquehanna International Group 6 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -430,13 +430,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Databricks (2)</summary>
-
-- [Software Engineer New Grad](https://boards.greenhouse.io/embed/job_app?token=6865698002) — Mountain View, CA · posted 2026-10-27 · SWE · BS
-- [Software Engineer New Grad - Distributed Data Systems](https://boards.greenhouse.io/embed/job_app?token=6865704002) — Bellevue, WA, Mountain View, CA · posted 2026-10-27 · SWE · BS
-
-</details>
-<details open>
 <summary>Google (2)</summary>
 
 - [Software Engineer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) — Palo Alto, CA, Madison, WI, Seattle, WA · posted 2026-11-02 · SWE · BS/MS
@@ -584,6 +577,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Wintermute (1)</summary>
 
 - [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply) — London, UK, NYC · posted 2026-09-03 · Quant
+
+</details>
+<details open>
+<summary>Zoox (1)</summary>
+
+- [Data Scientist](https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483/apply) — Foster City, CA · posted 2026-11-18 · ML · BS/MS
 
 </details>
 <!-- JOBS:END -->

@@ -4,20 +4,20 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1795022464,
- "last_change": 1795022464,
+ "last_run": 1795048266,
+ "last_change": 1795048266,
  "last_result": "ok",
  "feed": {
-  "records": 18709,
-  "active": 3146,
-  "fetched_at": 1795022464,
+  "records": 18671,
+  "active": 3131,
+  "fetched_at": 1795048266,
   "attempts": 1
  },
  "counts": {
-  "active": 205,
-  "closed": 97,
+  "active": 204,
+  "closed": 99,
   "untracked": 0,
-  "groups": 172,
+  "groups": 171,
   "companies": 42,
   "new_this_run": 0,
   "silent_known_this_run": 0,
@@ -25,12 +25,12 @@
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 140,
+  "category": 141,
   "phd": 172,
-  "title": 15,
+  "title": 16,
   "region": 42,
   "sponsorship": 0,
-  "age": 151
+  "age": 150
  },
  "keywords": {
   "adobe": {
@@ -262,11 +262,9 @@
    "denied": 0
   },
   "databricks": {
-   "active": 2,
+   "active": 0,
    "all_time": 2,
-   "names": [
-    "Databricks"
-   ],
+   "names": [],
    "denied": 0
   },
   "datadog": {
@@ -970,9 +968,11 @@
    "denied": 0
   },
   "zoox": {
-   "active": 0,
-   "all_time": 1,
-   "names": [],
+   "active": 1,
+   "all_time": 2,
+   "names": [
+    "Zoox"
+   ],
    "denied": 0
   }
  },
