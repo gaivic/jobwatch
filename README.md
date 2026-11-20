@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_204 open new-grad roles at 42 companies · list last changed 2026-11-19 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Shield AI 12 · Apple 10 · Anduril 8 · Susquehanna International Group 6 · Applied Intuition 5 · …
+_204 open new-grad roles at 42 companies · list last changed 2026-11-20 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 25 · ByteDance 23 · Shield AI 12 · Apple 10 · Anduril 8 · Susquehanna International Group 6 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -355,6 +355,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Microsoft (5)</summary>
+
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557075456) · [2](https://apply.careers.microsoft.com/careers/job/1970393557074534) · [3](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [4](https://apply.careers.microsoft.com/careers/job/1970393557025694) — United States; Remote in USA, United States; Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-19 · SWE · BS/MS
+- [Software Engineer Agentic Security](https://apply.careers.microsoft.com/careers/job/1970393557074643) — Redmond, WA · posted 2026-11-17 · SWE · BS/MS
+
+</details>
+<details open>
 <summary>SambaNova Systems (5)</summary>
 
 - [Machine Learning Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) — Austin, TX, San Jose, CA · posted 2026-11-03 · ML · BS/MS/PhD
@@ -381,13 +388,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Data Scientist Graduate](https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-30 · ML · MS
 - [Machine Learning Engineer - 2027 Graduate](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-24 · ML · BS/MS
 - [Software Engineer](https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-15 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Microsoft (4)</summary>
-
-- [Software Engineer Agentic Security](https://apply.careers.microsoft.com/careers/job/1970393557074643) — Redmond, WA · posted 2026-11-17 · SWE · BS/MS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557074534) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [3](https://apply.careers.microsoft.com/careers/job/1970393557025694) — Remote in USA, United States; Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-16 · SWE · BS/MS
 
 </details>
 <details open>
@@ -455,13 +455,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer New Grad - Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) — SF · posted 2026-09-23 · SWE · BS
 - [Software Engineer New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) — SF · posted 2026-09-04 · SWE · BS
-
-</details>
-<details open>
-<summary>ServiceNow (2)</summary>
-
-- [Software Engineer - Agent Eval Platform](https://jobs.smartrecruiters.com/ServiceNow/744000159509479) — Mountain View, CA · posted 2026-11-03 · SWE
-- [Associate Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) — Santa Clara, CA · posted 2026-10-23 · SWE
 
 </details>
 <details open>
@@ -559,6 +552,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Perplexity AI (1)</summary>
 
 - [Member of Technical Staff - Software Engineer - AI Policy and Strategic Initiatives](https://jobs.ashbyhq.com/perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9/application?embed=true) — Washington, DC, SF · posted 2026-11-07 · SWE
+
+</details>
+<details open>
+<summary>ServiceNow (1)</summary>
+
+- [Software Engineer - Agent Eval Platform](https://jobs.smartrecruiters.com/ServiceNow/744000159509479) — Mountain View, CA · posted 2026-11-03 · SWE
 
 </details>
 <details open>
