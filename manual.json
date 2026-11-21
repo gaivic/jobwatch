@@ -5117,5 +5117,37 @@
   "locations": [
    "Salt Lake City"
   ]
+ },
+ {
+  "id": "manual:tnjhanmlty004f",
+  "company": "Kobalt Labs",
+  "title": "Software Engineer (Full Stack)",
+  "url": "https://jobs.ashbyhq.com/kobalt%20labs/0c96afd7-4469-4121-9232-847e8f8f4502",
+  "location": "New York, NY",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795280400,
+  "active": true,
+  "manual": true,
+  "added": 1795280400,
+  "locations": [
+   "New York"
+  ]
+ },
+ {
+  "id": "manual:tntyzahrydtx21",
+  "company": "Handshake",
+  "title": "Software Engineer I, Promotions",
+  "url": "https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7",
+  "location": "San Francisco, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795280400,
+  "active": true,
+  "manual": true,
+  "added": 1795280400,
+  "locations": [
+   "San Francisco"
+  ]
  }
 ]
