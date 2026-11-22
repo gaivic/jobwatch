@@ -4,13 +4,13 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1795231018,
+ "last_run": 1795313998,
  "last_change": 1795231018,
- "last_result": "ok",
+ "last_result": "ok-no-change",
  "feed": {
-  "records": 18627,
-  "active": 3126,
-  "fetched_at": 1795231018,
+  "records": 18525,
+  "active": 3124,
+  "fetched_at": 1795313998,
   "attempts": 1
  },
  "counts": {
@@ -21,13 +21,13 @@
   "companies": 42,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 135,
+  "category": 138,
   "phd": 170,
-  "title": 17,
+  "title": 16,
   "region": 44,
   "sponsorship": 0,
   "age": 148
