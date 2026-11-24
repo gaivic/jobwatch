@@ -5213,5 +5213,21 @@
   "locations": [
    "San Francisco"
   ]
+ },
+ {
+  "id": "manual:tndt83yfecd860",
+  "company": "Brain Co.",
+  "title": "Machine Learning Engineer, Applied AI",
+  "url": "https://jobs.ashbyhq.com/brainco/58cff031-5b0b-4b92-a1ea-2ebf2495d89d",
+  "location": "San Francisco Bay Area, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795453200,
+  "active": true,
+  "manual": true,
+  "added": 1795453200,
+  "locations": [
+   "San Francisco Bay Area"
+  ]
  }
 ]
