@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1795465224,
- "last_change": 1795465224,
+ "last_run": 1795495881,
+ "last_change": 1795495881,
  "last_result": "ok",
  "feed": {
-  "records": 18435,
-  "active": 3121,
-  "fetched_at": 1795465224,
+  "records": 18448,
+  "active": 3099,
+  "fetched_at": 1795495881,
   "attempts": 1
  },
  "counts": {
-  "active": 203,
-  "closed": 104,
+  "active": 197,
+  "closed": 111,
   "untracked": 0,
-  "groups": 170,
+  "groups": 168,
   "companies": 42,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 7,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 137,
-  "phd": 170,
-  "title": 16,
+  "category": 130,
+  "phd": 165,
+  "title": 14,
   "region": 43,
   "sponsorship": 0,
-  "age": 148
+  "age": 149
  },
  "keywords": {
   "adobe": {
@@ -168,7 +168,7 @@
    "denied": 0
   },
   "bytedance": {
-   "active": 23,
+   "active": 21,
    "all_time": 24,
    "names": [
     "ByteDance"
@@ -528,8 +528,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 5,
-   "all_time": 30,
+   "active": 6,
+   "all_time": 31,
    "names": [
     "Microsoft"
    ],
@@ -754,7 +754,7 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 11,
+   "active": 6,
    "all_time": 36,
    "names": [
     "Shield AI"

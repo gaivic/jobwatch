@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_203 open new-grad roles at 42 companies · list last changed 2026-11-23 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 23 · Apple 12 · Shield AI 11 · Anduril 8 · Susquehanna International Group 6 · Applied Intuition 5 · …
+_197 open new-grad roles at 42 companies · list last changed 2026-11-24 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 21 · Apple 12 · Anduril 8 · Microsoft 6 · Shield AI 6 · Susquehanna International Group 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -270,7 +270,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details>
-<summary>ByteDance (23)</summary>
+<summary>ByteDance (21)</summary>
 
 - [Software Engineer Graduate](https://jobs.bytedance.com/en/position/7689561253011097909/detail) — San Jose, CA · posted 2026-10-01 · SWE · BS
 - [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675477660855781637/detail) · [2](https://jobs.bytedance.com/en/position/7675477254315428149/detail) — San Jose, CA; Seattle, WA · posted 2026-08-19 · ML · BS/MS
@@ -279,10 +279,8 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Multi-Cloud CDN Platform Engineer Graduate - CDN Platform](https://jobs.bytedance.com/en/position/7670355132899526965/detail) — Seattle, WA · posted 2026-08-14 · SWE · BS
 - [Research Scientist Graduate - Seed AI Foundation Model Infrastructure](https://jobs.bytedance.com/en/position/7673268418623293749/detail) — San Jose, CA · posted 2026-08-13 · ML · BS
 - [Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391016194066693/detail) — Seattle, WA · posted 2026-08-11 · ML · BS/MS
-- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK](https://jobs.bytedance.com/en/position/7672395094280063285/detail) — Seattle, WA · posted 2026-08-11 · ML · BS/MS
 - [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate](https://jobs.bytedance.com/en/position/7672392998189959429/detail) — Seattle, WA · posted 2026-08-11 · ML · BS/MS
 - [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671102043532462389/detail) — San Jose, CA · posted 2026-08-10 · ML · BS/MS
-- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671107540954777861/detail) — San Jose, CA · posted 2026-08-10 · ML · BS/MS
 - [Software Development Engineer Graduate - Intent-Based Networking](https://jobs.bytedance.com/en/position/7671145911004842245/detail) — San Jose, CA · posted 2026-08-07 · SWE · BS/MS
 - [Large Language Model Inference System Engineer New Grad - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667726338627356933/detail) — San Jose, CA · posted 2026-08-07 · ML · BS/MS
 - [LLM Backend Engineer Graduate - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667730992538585349/detail) — San Jose, CA · posted 2026-08-07 · ML · BS/MS
@@ -311,18 +309,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Shield AI (11)</summary>
-
-- [Engineer 2 New Grad - Software - Perception](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) · [2](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) — United States · posted 2026-11-11 · SWE · BS/MS/PhD
-- [Engineer 1 New Grad - Software - Perception](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) · [2](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) — Washington, DC · posted 2026-11-08 · SWE · BS/MS/PhD
-- [Engineer 2 New Grad - Multiple Teams](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true) · [2](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true) — Washington, DC · posted 2026-11-08 · SWE · BS/MS/PhD
-- [Software Engineer 1 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) · [2](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) — United States · posted 2026-11-08 · SWE · BS/MS/PhD
-- [Software Engineer 1 New Grad - Internal Tools](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true) — Seattle, WA · posted 2026-11-07 · SWE · BS
-- [Autonomous Software Engineer New Grad](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true) — San Diego, CA · posted 2026-11-03 · HW · BS/MS/PhD
-- [Software Engineer New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true) — Seattle, WA · posted 2026-10-23 · SWE · BS
-
-</details>
-<details open>
 <summary>Anduril (8)</summary>
 
 - [Data Analyst - Quality](https://boards.greenhouse.io/andurilindustries/jobs/5251234007) — Ashville, OH · posted 2026-09-29 · ML · BS
@@ -331,6 +317,25 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) — Costa Mesa, CA · posted 2026-09-03 · HW · BS/MS
 - [Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226473007) · [2](https://boards.greenhouse.io/andurilindustries/jobs/5226471007) · [3](https://boards.greenhouse.io/andurilindustries/jobs/5221253007) — Washington, DC; Boston, MA; Quincy, MA · posted 2026-09-01 · SWE
 - [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) — Fort Collins, CO, Broomfield, CO · posted 2026-08-19 · SWE · BS
+
+</details>
+<details open>
+<summary>Microsoft (6)</summary>
+
+- [Software Engineer-Securing AI](https://apply.careers.microsoft.com/careers/job/1970393557073425) — Redmond, WA · posted 2026-11-24 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557075456) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [3](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [4](https://apply.careers.microsoft.com/careers/job/1970393557025694) — United States; Redmond, WA; Reston, VA; Redmond, WA, Reston, VA · posted 2026-11-19 · SWE · BS/MS
+- [Software Engineer Agentic Security](https://apply.careers.microsoft.com/careers/job/1970393557074643) — Redmond, WA · posted 2026-11-17 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Shield AI (6)</summary>
+
+- [Engineer 2 New Grad - Software - Perception](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) — United States · posted 2026-11-11 · SWE · BS/MS/PhD
+- [Engineer 1 New Grad - Software - Perception](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) — Washington, DC · posted 2026-11-08 · SWE · BS/MS/PhD
+- [Engineer 2 New Grad - Multiple Teams](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true) — Washington, DC · posted 2026-11-08 · SWE · BS/MS/PhD
+- [Software Engineer 1 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) — United States · posted 2026-11-08 · SWE · BS/MS/PhD
+- [Software Engineer 1 New Grad - Internal Tools](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true) — Seattle, WA · posted 2026-11-07 · SWE · BS
+- [Autonomous Software Engineer New Grad](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true) — San Diego, CA · posted 2026-11-03 · HW · BS/MS/PhD
 
 </details>
 <details open>
@@ -352,13 +357,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Software Engineer New Grad - December 2026](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true) — Ann Arbor, MI, Sunnyvale, CA · posted 2026-08-15 · SWE · BS/MS
 - [Software Integration Engineer New Grad](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true) — Sunnyvale, CA · posted 2026-08-15 · HW · BS/MS
 - [Embedded Software Engineer New Grad](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true) — Sunnyvale, CA · posted 2026-08-15 · HW · BS/MS/PhD
-
-</details>
-<details open>
-<summary>Microsoft (5)</summary>
-
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557075456) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [3](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [4](https://apply.careers.microsoft.com/careers/job/1970393557025694) — United States; Redmond, WA; Reston, VA; Redmond, WA, Reston, VA · posted 2026-11-19 · SWE · BS/MS
-- [Software Engineer Agentic Security](https://apply.careers.microsoft.com/careers/job/1970393557074643) — Redmond, WA · posted 2026-11-17 · SWE · BS/MS
 
 </details>
 <details open>
