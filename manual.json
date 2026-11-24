@@ -5229,5 +5229,21 @@
   "locations": [
    "San Francisco Bay Area"
   ]
+ },
+ {
+  "id": "manual:tn97i18vaps51e",
+  "company": "Mirantis",
+  "title": "Software Engineer",
+  "url": "https://jobs.smartrecruiters.com/Mirantis/744000149065869-software-engineer",
+  "location": "Raleigh, NC",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795453200,
+  "active": true,
+  "manual": true,
+  "added": 1795453200,
+  "locations": [
+   "Raleigh"
+  ]
  }
 ]
