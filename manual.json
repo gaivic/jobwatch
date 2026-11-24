@@ -5149,5 +5149,21 @@
   "locations": [
    "San Francisco"
   ]
+ },
+ {
+  "id": "manual:tn8swuj9h3oi21",
+  "company": "Thinking Machines Lab",
+  "title": "Software Engineer, Data Infrastructure",
+  "url": "https://jobs.ashbyhq.com/ThinkingMachines/ec5f88b6-e221-499c-bc8f-a27b66213b87",
+  "location": "San Francisco, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795453200,
+  "active": true,
+  "manual": true,
+  "added": 1795453200,
+  "locations": [
+   "San Francisco"
+  ]
  }
 ]
