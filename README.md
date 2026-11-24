@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_197 open new-grad roles at 42 companies · list last changed 2026-11-24 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 21 · Apple 12 · Anduril 8 · Microsoft 6 · Shield AI 6 · Susquehanna International Group 6 · …
+_197 open new-grad roles at 42 companies · list last changed 2026-11-24 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 21 · Apple 12 · Anduril 8 · Shield AI 7 · Microsoft 6 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -320,16 +320,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (6)</summary>
+<summary>Shield AI (7)</summary>
 
-- [Software Engineer-Securing AI](https://apply.careers.microsoft.com/careers/job/1970393557073425) — Redmond, WA · posted 2026-11-24 · SWE · BS/MS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557075456) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [3](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [4](https://apply.careers.microsoft.com/careers/job/1970393557025694) — United States; Redmond, WA; Reston, VA; Redmond, WA, Reston, VA · posted 2026-11-19 · SWE · BS/MS
-- [Software Engineer Agentic Security](https://apply.careers.microsoft.com/careers/job/1970393557074643) — Redmond, WA · posted 2026-11-17 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Shield AI (6)</summary>
-
+- [Engineer 2 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true) — Arlington County, Arlington, VA, San Diego, CA · posted 2026-11-11 · HW · BS/MS/PhD
 - [Engineer 2 New Grad - Software - Perception](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) — United States · posted 2026-11-11 · SWE · BS/MS/PhD
 - [Engineer 1 New Grad - Software - Perception](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) — Washington, DC · posted 2026-11-08 · SWE · BS/MS/PhD
 - [Engineer 2 New Grad - Multiple Teams](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true) — Washington, DC · posted 2026-11-08 · SWE · BS/MS/PhD
@@ -339,14 +332,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Susquehanna International Group (6)</summary>
+<summary>Microsoft (6)</summary>
 
-- [Software Developer - Core Order Management System - C++](https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false) — Chicago, IL · posted 2026-11-05 · SWE
-- [Faculty Fellow](https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · ML
-- [Quantitative Sports Researcher – Graduate Hire](https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · Quant · MS/PhD
-- [Market Surveillance Data and Technology Analyst](https://careers-sig.icims.com/jobs/11693/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-04 · ML · BS
-- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
-- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-19 · Quant · BS/MS
+- [Software Engineer-Securing AI](https://apply.careers.microsoft.com/careers/job/1970393557073425) — Redmond, WA · posted 2026-11-24 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557075456) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [3](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [4](https://apply.careers.microsoft.com/careers/job/1970393557025694) — United States; Redmond, WA; Reston, VA; Redmond, WA, Reston, VA · posted 2026-11-19 · SWE · BS/MS
+- [Software Engineer Agentic Security](https://apply.careers.microsoft.com/careers/job/1970393557074643) — Redmond, WA · posted 2026-11-17 · SWE · BS/MS
 
 </details>
 <details open>
@@ -367,6 +357,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Runtime Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
 - [Compiler Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
 - [AI Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) — Austin, TX, San Jose, CA · posted 2026-10-20 · ML · BS/MS/PhD
+
+</details>
+<details open>
+<summary>Susquehanna International Group (5)</summary>
+
+- [Software Developer - Core Order Management System - C++](https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false) — Chicago, IL · posted 2026-11-05 · SWE
+- [Quantitative Sports Researcher – Graduate Hire](https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · Quant · MS/PhD
+- [Market Surveillance Data and Technology Analyst](https://careers-sig.icims.com/jobs/11693/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-04 · ML · BS
+- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
+- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-19 · Quant · BS/MS
 
 </details>
 <details open>

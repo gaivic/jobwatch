@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1795495881,
- "last_change": 1795495881,
+ "last_run": 1795542981,
+ "last_change": 1795542981,
  "last_result": "ok",
  "feed": {
-  "records": 18448,
-  "active": 3099,
-  "fetched_at": 1795495881,
+  "records": 18470,
+  "active": 3085,
+  "fetched_at": 1795542981,
   "attempts": 1
  },
  "counts": {
   "active": 197,
-  "closed": 111,
+  "closed": 112,
   "untracked": 0,
   "groups": 168,
   "companies": 42,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 7,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 130,
-  "phd": 165,
-  "title": 14,
+  "category": 128,
+  "phd": 166,
+  "title": 15,
   "region": 43,
   "sponsorship": 0,
-  "age": 149
+  "age": 148
  },
  "keywords": {
   "adobe": {
@@ -754,8 +754,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 6,
-   "all_time": 36,
+   "active": 7,
+   "all_time": 37,
    "names": [
     "Shield AI"
    ],
@@ -800,7 +800,7 @@
    "denied": 0
   },
   "susquehanna": {
-   "active": 6,
+   "active": 5,
    "all_time": 6,
    "names": [
     "Susquehanna International Group"
