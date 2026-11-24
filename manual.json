@@ -5165,5 +5165,21 @@
   "locations": [
    "San Francisco"
   ]
+ },
+ {
+  "id": "manual:tnx8ite3r57xm4",
+  "company": "Secureframe",
+  "title": "Software Engineer, New Grad",
+  "url": "https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb",
+  "location": "New York, NY",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795453200,
+  "active": true,
+  "manual": true,
+  "added": 1795453200,
+  "locations": [
+   "New York"
+  ]
  }
 ]
