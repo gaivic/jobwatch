@@ -5181,5 +5181,21 @@
   "locations": [
    "New York"
   ]
+ },
+ {
+  "id": "manual:tnbbohsrlao3hm",
+  "company": "Cerebras",
+  "title": "Kernel Engineer, New Grad",
+  "url": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e",
+  "location": "Sunnyvale, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795453200,
+  "active": true,
+  "manual": true,
+  "added": 1795453200,
+  "locations": [
+   "Sunnyvale"
+  ]
  }
 ]
