@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_197 open new-grad roles at 42 companies · list last changed 2026-11-24 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 48 · Amazon 23 · ByteDance 21 · Apple 12 · Anduril 8 · Shield AI 7 · Microsoft 6 · Applied Intuition 5 · …
+_195 open new-grad roles at 42 companies · list last changed 2026-11-25 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 47 · Amazon 24 · ByteDance 21 · Apple 12 · Anduril 8 · Shield AI 7 · Microsoft 6 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,7 +205,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (48)</summary>
+<summary>TikTok (47)</summary>
 
 - [Research Engineer - Agentic Video Editing](https://lifeattiktok.com/search/7704036750285867269) — San Jose, CA · posted 2026-11-06 · SWE · BS/MS
 - [Software Engineer Graduate - Data Ecosystem - 2027 Start](https://lifeattiktok.com/search/7685769994391832837) — San Jose, CA · posted 2026-10-14 · SWE · BS/MS
@@ -218,8 +218,8 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Data Engineer Graduate](https://lifeattiktok.com/search/7681779180341709109) — San Jose, CA · posted 2026-09-07 · ML · BS/MS
 - [Data Engineer Graduate - Data Platform E-commerce](https://lifeattiktok.com/search/7676253726624024837) — San Jose, CA · posted 2026-08-26 · ML · BS/MS
 - [Data Engineer Graduate - Data Platform Global Live](https://lifeattiktok.com/search/7678120538997098805) · [2](https://lifeattiktok.com/search/7675484418022181173) — San Jose, CA · posted 2026-08-26 · ML · BS/MS
-- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7675843332462872885) · [2](https://lifeattiktok.com/search/7675844938504702213) — Seattle, WA; San Jose, CA · posted 2026-08-20 · ML · BS/MS
 - [Graduate Software Engineer - TikTok Search Data Infra](https://lifeattiktok.com/search/7675829388634392837) — San Jose, CA · posted 2026-08-20 · SWE · BS/MS
+- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7675844938504702213) — San Jose, CA · posted 2026-08-20 · ML · BS/MS
 - [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674023327725373701) · [2](https://lifeattiktok.com/search/7674025781001062709) — San Jose, CA; Seattle, WA · posted 2026-08-17 · ML · BS/MS
 - [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7673672141010815237) · [2](https://lifeattiktok.com/search/7670288355678177589) — San Jose, CA · posted 2026-08-15 · ML · BS/MS
 - [Software Engineer Graduate - Foundation Platform](https://lifeattiktok.com/search/7673674252889246005) · [2](https://lifeattiktok.com/search/7670276769459456309) — San Jose, CA · posted 2026-08-14 · SWE · BS/MS
@@ -246,8 +246,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details>
-<summary>Amazon (23)</summary>
+<summary>Amazon (24)</summary>
 
+- [Front-End Engineer](https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us) — Seattle, WA · posted 2026-11-24 · SWE · BS
 - [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027) · [2](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Austin, TX, North Reading, MA, Westborough, MA; Seattle, WA, Nashville, TN, Austin, TX · posted 2026-11-18 · SWE · BS
 - [Software Development Engineer 1 - Inference models optimization - AWS Neuron Inference](https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference) — Cupertino, CA · posted 2026-11-11 · ML · BS
 - [Software Development Engineer Early Career - Amazon Dedicated Cloud](https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-11-11 · SWE · BS/MS/PhD
@@ -370,16 +371,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>xAI (5)</summary>
-
-- [AI Tutor – Uzbek](https://job-boards.greenhouse.io/xai/jobs/5270905007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – Amharic](https://job-boards.greenhouse.io/xai/jobs/5270906007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – Irish](https://job-boards.greenhouse.io/xai/jobs/5292792007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – Maltese](https://job-boards.greenhouse.io/xai/jobs/5292793007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-
-</details>
-<details open>
 <summary>Atlassian (4)</summary>
 
 - [Data Engineer New Grad](https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job) — Seattle, WA · posted 2026-10-05 · ML · BS/MS
@@ -404,6 +395,15 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>xAI (4)</summary>
+
+- [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Amharic](https://job-boards.greenhouse.io/xai/jobs/5270906007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Irish](https://job-boards.greenhouse.io/xai/jobs/5292792007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Maltese](https://job-boards.greenhouse.io/xai/jobs/5292793007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+
+</details>
+<details open>
 <summary>Adobe (3)</summary>
 
 - [Data Scientist New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) — San Jose, CA · posted 2026-11-11 · ML · BS/MS
@@ -417,14 +417,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Deep Learning Framework Communications Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) — United States · posted 2026-11-14 · SWE · BS/MS/PhD
 - [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
 - [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
-
-</details>
-<details open>
-<summary>Stripe (3)</summary>
-
-- [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
-- [Product Manager New Grad](https://stripe.com/jobs/search?gh_jid=7737124) — Seattle, WA, SF, NYC · posted 2026-09-16 · SWE · BS
-- [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Seattle, WA, SF, NYC · posted 2026-09-01 · SWE · BS/MS
 
 </details>
 <details open>
@@ -453,6 +445,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer New Grad - Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) — SF · posted 2026-09-23 · SWE · BS
 - [Software Engineer New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) — SF · posted 2026-09-04 · SWE · BS
+
+</details>
+<details open>
+<summary>Stripe (2)</summary>
+
+- [Product Manager New Grad](https://stripe.com/jobs/search?gh_jid=7737124) — Seattle, WA, SF, NYC · posted 2026-09-16 · SWE · BS
+- [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Seattle, WA, SF, NYC · posted 2026-09-01 · SWE · BS/MS
 
 </details>
 <details open>

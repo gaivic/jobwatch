@@ -4,29 +4,29 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1795542981,
- "last_change": 1795542981,
+ "last_run": 1795574173,
+ "last_change": 1795574173,
  "last_result": "ok",
  "feed": {
-  "records": 18470,
-  "active": 3085,
-  "fetched_at": 1795542981,
+  "records": 18480,
+  "active": 3077,
+  "fetched_at": 1795574173,
   "attempts": 1
  },
  "counts": {
-  "active": 197,
-  "closed": 112,
+  "active": 195,
+  "closed": 115,
   "untracked": 0,
-  "groups": 168,
+  "groups": 167,
   "companies": 42,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 3,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 128,
-  "phd": 166,
+  "category": 126,
+  "phd": 165,
   "title": 15,
   "region": 43,
   "sponsorship": 0,
@@ -54,8 +54,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 23,
-   "all_time": 30,
+   "active": 24,
+   "all_time": 31,
    "names": [
     "Amazon"
    ],
@@ -792,7 +792,7 @@
    "denied": 0
   },
   "stripe": {
-   "active": 3,
+   "active": 2,
    "all_time": 3,
    "names": [
     "Stripe"
@@ -828,7 +828,7 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 48,
+   "active": 47,
    "all_time": 49,
    "names": [
     "TikTok"
@@ -954,7 +954,7 @@
    "denied": 0
   },
   "xai": {
-   "active": 5,
+   "active": 4,
    "all_time": 7,
    "names": [
     "xAI"
