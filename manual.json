@@ -5229,5 +5229,21 @@
   "locations": [
    "San Francisco Bay Area"
   ]
+ },
+ {
+  "id": "manual:tnt7h9fiz2b4xw",
+  "company": "Rubrik",
+  "title": "Software Engineer - Data Protection",
+  "url": "https://job-boards.greenhouse.io/rubrik/jobs/8314058",
+  "location": "Palo Alto, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795539600,
+  "active": true,
+  "manual": true,
+  "added": 1795539600,
+  "locations": [
+   "Palo Alto"
+  ]
  }
 ]
