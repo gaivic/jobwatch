@@ -5245,5 +5245,21 @@
   "locations": [
    "Palo Alto"
   ]
+ },
+ {
+  "id": "manual:tnynfnz7kqo2ue",
+  "company": "CodeRabbit",
+  "title": "Software Engineer - New Grad",
+  "url": "https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51",
+  "location": "San Francisco, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795626000,
+  "active": true,
+  "manual": true,
+  "added": 1795626000,
+  "locations": [
+   "San Francisco"
+  ]
  }
 ]
