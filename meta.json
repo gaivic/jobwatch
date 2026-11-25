@@ -4,29 +4,29 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1795574173,
- "last_change": 1795574173,
+ "last_run": 1795617385,
+ "last_change": 1795617385,
  "last_result": "ok",
  "feed": {
-  "records": 18480,
-  "active": 3077,
-  "fetched_at": 1795574173,
+  "records": 18468,
+  "active": 3072,
+  "fetched_at": 1795617385,
   "attempts": 1
  },
  "counts": {
-  "active": 195,
-  "closed": 115,
+  "active": 192,
+  "closed": 119,
   "untracked": 0,
-  "groups": 167,
+  "groups": 165,
   "companies": 42,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 3,
+  "closed_this_run": 4,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 126,
-  "phd": 165,
+  "category": 127,
+  "phd": 164,
   "title": 15,
   "region": 43,
   "sponsorship": 0,
@@ -528,7 +528,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 6,
+   "active": 3,
    "all_time": 31,
    "names": [
     "Microsoft"
@@ -829,7 +829,7 @@
   },
   "tiktok": {
    "active": 47,
-   "all_time": 49,
+   "all_time": 50,
    "names": [
     "TikTok"
    ],
