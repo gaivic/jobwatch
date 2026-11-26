@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[gaivic.github.io/jobwatch](https://gaivic.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_192 open new-grad roles at 42 companies · list last changed 2026-11-25 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 47 · Amazon 24 · ByteDance 21 · Apple 12 · Anduril 8 · Shield AI 7 · Applied Intuition 5 · SambaNova Systems 5 · …
+_193 open new-grad roles at 42 companies · list last changed 2026-11-26 · scans every ~2 h_ · **[Open the tracker](https://gaivic.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 47 · Amazon 24 · ByteDance 21 · Apple 12 · Anduril 8 · Shield AI 7 · Applied Intuition 5 · SambaNova Systems 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -418,6 +418,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Two Sigma (3)</summary>
+
+- [Quantitative Trader](https://twosigma.avature.net/careers/JobDetail/14440) — NYC · posted 2026-11-25 · Quant · BS
+- [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
+
+</details>
+<details open>
 <summary>Google (2)</summary>
 
 - [Software Engineer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) — Palo Alto, CA, Madison, WI, Seattle, WA · posted 2026-11-02 · SWE · BS/MS
@@ -457,12 +464,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Data Collection Coordinator - Optimus](https://www.tesla.com/careers/search/job/257533) — Fremont, CA · posted 2026-10-26 · ML
 - [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
-
-</details>
-<details open>
-<summary>Two Sigma (2)</summary>
-
-- [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
 
 </details>
 <details open>

@@ -4,33 +4,33 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1795617385,
- "last_change": 1795617385,
+ "last_run": 1795653084,
+ "last_change": 1795653084,
  "last_result": "ok",
  "feed": {
-  "records": 18468,
-  "active": 3072,
-  "fetched_at": 1795617385,
+  "records": 18457,
+  "active": 3076,
+  "fetched_at": 1795653084,
   "attempts": 1
  },
  "counts": {
-  "active": 192,
+  "active": 193,
   "closed": 119,
   "untracked": 0,
-  "groups": 165,
+  "groups": 166,
   "companies": 42,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 4,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 127,
   "phd": 164,
-  "title": 15,
-  "region": 43,
+  "title": 14,
+  "region": 42,
   "sponsorship": 0,
-  "age": 148
+  "age": 147
  },
  "keywords": {
   "adobe": {
@@ -856,8 +856,8 @@
    "denied": 0
   },
   "two sigma": {
-   "active": 2,
-   "all_time": 3,
+   "active": 3,
+   "all_time": 4,
    "names": [
     "Two Sigma"
    ],
