@@ -5261,5 +5261,21 @@
   "locations": [
    "San Francisco"
   ]
+ },
+ {
+  "id": "manual:tnoexyb208r7vz",
+  "company": "Ayo Semiconductor",
+  "title": "Machine Learning Engineer",
+  "url": "https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a",
+  "location": "Boston, MA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795626000,
+  "active": true,
+  "manual": true,
+  "added": 1795626000,
+  "locations": [
+   "Boston"
+  ]
  }
 ]
