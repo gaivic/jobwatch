@@ -4,20 +4,20 @@
  "repo": "gaivic/jobwatch",
  "branch": "main",
  "pages_url": "https://gaivic.github.io/jobwatch/",
- "last_run": 1795819568,
- "last_change": 1795653084,
- "last_result": "ok-no-change",
+ "last_run": 1795853018,
+ "last_change": 1795853018,
+ "last_result": "ok",
  "feed": {
-  "records": 18292,
-  "active": 3043,
-  "fetched_at": 1795819568,
+  "records": 18421,
+  "active": 3177,
+  "fetched_at": 1795853018,
   "attempts": 1
  },
  "counts": {
-  "active": 193,
-  "closed": 119,
+  "active": 195,
+  "closed": 118,
   "untracked": 0,
-  "groups": 166,
+  "groups": 168,
   "companies": 42,
   "new_this_run": 0,
   "silent_known_this_run": 0,
@@ -25,7 +25,7 @@
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 127,
+  "category": 129,
   "phd": 158,
   "title": 14,
   "region": 36,
@@ -566,7 +566,7 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 3,
+   "active": 4,
    "all_time": 10,
    "names": [
     "NVIDIA"
@@ -954,8 +954,8 @@
    "denied": 0
   },
   "xai": {
-   "active": 4,
-   "all_time": 7,
+   "active": 5,
+   "all_time": 8,
    "names": [
     "xAI"
    ],
