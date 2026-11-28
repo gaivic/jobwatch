@@ -5277,5 +5277,21 @@
   "locations": [
    "Boston"
   ]
+ },
+ {
+  "id": "manual:tncfalmv0t8rd7",
+  "company": "Clera",
+  "title": "Software Engineer, Video Pipeline",
+  "url": "https://jobs.ashbyhq.com/clera/5a972000-6f75-4e8b-9513-3e13aac3c83a",
+  "location": "San Francisco, CA",
+  "category": "SWE",
+  "posted": "added by you",
+  "date_posted": 1795885200,
+  "active": true,
+  "manual": true,
+  "added": 1795885200,
+  "locations": [
+   "San Francisco"
+  ]
  }
 ]
